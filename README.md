@@ -31,6 +31,75 @@ Instalando JDK 7u80
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_5.png)
 
+```
+📢 Se nos solicitará instalar tambien JRE. Seleccionamos siguiente.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_6.png)
+
+```
+📢 Esperamos a que finalice la instalación.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_7.png)
+
+```
+📢 La instalación ha terminado.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_8.png)
+
+```
+📢 Modificaremos las variables de entorno del sistema. Para ingresasar a esta opción seleccionamos la tecla Windows y escribimos en la casilla "variable". Seleccionamos la opción que indica la imagen.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_9.png)
+
+```
+📢 Seleccionamos botón "Variable de entorno".
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_10.png)
+
+```
+📢 Seleccionamos botón "Nueva...".
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_11.png)
+
+```
+📢 Escribimos JAVA_HOME como nombre de la variable y en valor indicamos la ruta del JDK instalado. Seleccionamos aceptar para que se grabe.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_12.png)
+
+```
+📢 Ahora modificaremos la variable "Path".
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_13.png)
+
+```
+📢 Seleccionamos nuevo e ingresamos "%JAVA_HOME%\bin".
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_14.png)
+
+```
+📢 Por último, subimos la variable a fin de que se considere esta superior a las demás. Esto en caso se tengan otras configuraciones que interfieran con la versión de JAVA instalada.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_15.png)
+
+```
+📢 Verificamos la versión ingresando a la consola de comandos. Ingresamos "java -version" para consultar.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_16.png)
+
+
+
+
 
 
 
