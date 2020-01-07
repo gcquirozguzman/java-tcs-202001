@@ -10,6 +10,7 @@ Instalando JDK 7u80
 📢 Ingresamos a la página de descargas (https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)
 ```
 
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_1.png)
 
 ```
