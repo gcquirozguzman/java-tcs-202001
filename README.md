@@ -10,7 +10,6 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 📢 Ingresamos a la página de descargas (https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)
 ```
 
-
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_1.png)
 
 ```
@@ -97,21 +96,18 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_16.png)
 
+#### Descargando IDE Eclipse Mars.2
 
+```
+📢 Descargamos el IDE desde el siguiente link (https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32-x86_64.zip)
+📢 Esperamos a que termine la descarga. Descomprimimos la carpeta.
+```
 
+```
+📢 Dentro de la carpeta encontraremos el siguiente ejecutable. Con este podremos abrir nuestro IDE para comenzar a programar.
+```
 
-
-
-
-
-https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32-x86_64.zip
-
-
-
-
-
-
-
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_1.png)
 
 ## Autores ✒️
 
