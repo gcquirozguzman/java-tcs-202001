@@ -1,4 +1,4 @@
-# Curso Java TCS
+# Taller Java TCS
 
 Demo básico de un proyecto Java con Spring Boot
 
