@@ -8,11 +8,11 @@ _ * Hola._
 
 _En este curso usaremos las siguientes herramientas._
 
-🔧 [JDK 12.0.2]
+🔧 [JDK PENDIENTE]
 ```
-📢 Link Descarga - https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase12-5440181.html
+📢 Link Descarga - PENDIENTE
 ```
-🔧 [Eclipse 2019-09]
+🔧 [Eclipse Mars.2 Release (4.5.2)]
 ```
 📢 Link Descarga - https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32-x86_64.zip
 ```
