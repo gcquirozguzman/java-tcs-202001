@@ -1,23 +1,8 @@
-# Demo: Spring Boot + Java
+# Curso Java TCS 202001
 
-Demo de un proyecto Java con Spring Boot
+## Temario 🚀
 
-## Comenzando 🚀
-
-_Este curso tiene diversas clases, las cuales están enumeradas y ordenadas consecutivamente._
-
-_La forma correcta para iniciar este curso es:_
-```
-📌 1) Importar el actual repositorio con el IDE de su preferencia.
-📌 2) Desde el IDE, seleccionar el BRANCH(Clase-01), para visualizar solo las fuentes referentes a la primera clase.
-📌 3) De la misma forma, en esta página se debe seleccionar el BRANCH(Clase-01) para ver la explicación de lo implementado.
-📌 4) Ahora que ya tenemos todo listo, procederemos a revisar las instrucciones de la página y revisar las fuentes que hemos descargado en el IDE.
-📌 5) Para iniciar la Clase-02 o sucesivas, seguiremos nuevamente los pasos 2,3 y 4.
-```
-
-_Tener en cuenta que, para elegir una clase en este repositorio, usted debe dirigirse a la sección BRANCH y luego seleccionar una clase como se muestra a continuación. (Ejemplo: Quiero visualizar la Clase02)_
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-spring-boot-201910/blob/master/Informacion_Seleccion_Clase.png)
+_ * Hola._
 
 ## Herramientas 🛠️
 
