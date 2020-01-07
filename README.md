@@ -3,8 +3,10 @@
 ## Temario 🚀
 
 _1) Hablemos un poco de Java._
+
 _2) Configuremos nuestro ambiente._
 
+_3) Pendientes._
 
 ## Herramientas 🛠️
 
