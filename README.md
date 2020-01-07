@@ -1,7 +1,5 @@
 # Taller Java TCS
 
-Demo básico de un proyecto Java con Spring Boot
-
 _Clase 1: Hablemos un poco de Java._
 
 Te presento la plataforma en donde ejecutaremos nuestras aplicaciones. Los archivos Java ingresan al COMPILADOR y son convertidos en .class. Estos archivos sirven de input para nuestra máquina virtual de Java (JVM).
