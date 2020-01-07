@@ -14,7 +14,8 @@ Te presento la plataforma en donde ejecutaremos nuestras aplicaciones. Los archi
 WORA significa Escribir una vez, Ejecutar en cualquier lugar.
 
 ```
-📢 Tenemos la facilidad de escribir nuestro código 1 vez y ejecutarlo en diferentes ambientes. 
+📢 Tenemos la facilidad de escribir nuestro código 1 vez y ejecutarlo en diferentes dispositivos. 
+📢 No olvidemos que cada dispositivo tiene una diferente arquitectura, sin embargo existe una JVM para cada entorno (Windows, Linux, Android, etc).
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/wora.png)
