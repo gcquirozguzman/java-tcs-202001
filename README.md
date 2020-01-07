@@ -2,25 +2,34 @@
 
 Demo básico de un proyecto Java con Spring Boot
 
-### Construcción del Proyecto 📦
+_Clase 1: Hablemos un poco de Java._
 
-_Clase 1: Creación de Workspace._
+La plataforma en donde ejecutaremos nuestras aplicaciones.
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-spring-boot-201910/blob/master/Informacion_Seleccion_Clase.png)
 
 ```
-📢 Para poder crear el proyecto, necesitamos ingresar a https://start.spring.io/
-📢 Seleccionamos las siguientes opciones para la creación:
-    Project: Maven Project
-    Language: Java
-    Spring Boot: 2.2.2
-    Project Metadata: Group (com.demo) y Artifact (ProyectoDemo)
-    Dependencies: Spring Web, Spring Boot DevTools y Thymeleaf
-📢 Descargamos el proyecto (Generate) y descomprimimos.
-📢 Iniciamos Eclipse e indicamos la ruta en donde descomprimimos el proyecto.
-📢 Clic en ProyectoDemoApplication.java ➜ Run as ➜ Java Application
-📢 Verificamos ingresando al link http://localhost:8080/ProyectoDemo
+📢 JRE - Donde esta la máquina virtual
+📢 JDK - Incluye el JRE y compilador de java
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-spring-boot-201910/blob/Clase-01/Informacion_Seleccion_Clase.png)
+WORA significa Escribir una vez, Ejecutar en cualquier lugar.
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-spring-boot-201910/blob/master/Informacion_Seleccion_Clase.png)
+
+```
+📢 Tenemos la facilidad de escribir nuestro aplicativo 1 vez y ejecutarlo en diferentes ambientes.
+```
+
+Java maneja diferentes ediciones para diferentes problematicas en nuestro día a día.
+
+```
+📢 JME - Móviles, sistemas integrados, etc.
+📢 JSE - Aplicaciones de escritorio o de servidores
+📢 JEE - Se utiliza para desarrollar aplicaciones web empresariales
+```
+
+
 
 ## Autores ✒️
 
