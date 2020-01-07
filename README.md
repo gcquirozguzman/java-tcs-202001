@@ -83,7 +83,7 @@ Instalando JDK 7u80
 📢 Seleccionamos nuevo e ingresamos "%JAVA_HOME%\bin".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_14.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_18.png)
 
 ```
 📢 Por último, subimos la variable a fin de que se considere esta superior a las demás. Esto en caso se tengan otras configuraciones que interfieran con la versión de JAVA instalada.
