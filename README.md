@@ -6,20 +6,20 @@ _Clase 1: Hablemos un poco de Java._
 
 Te presento la plataforma en donde ejecutaremos nuestras aplicaciones. Los archivos Java ingresan al COMPILADOR y son convertidos en .class. Estos archivos sirven de input para nuestra máquina virtual de Java (JVM).
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/plataforma.png)
-
 ```
 📢 JRE - Donde esta la máquina virtual
 📢 JDK - Incluye el JRE y compilador de java
 ```
 
-WORA significa Escribir una vez, Ejecutar en cualquier lugar.
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/plataforma.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/wora.png)
+WORA significa Escribir una vez, Ejecutar en cualquier lugar.
 
 ```
 📢 Tenemos la facilidad de escribir nuestro aplicativo 1 vez y ejecutarlo en diferentes ambientes. 
 ```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/wora.png)
 
 Java maneja diferentes ediciones para diferentes problematicas en nuestro día a día.
 
