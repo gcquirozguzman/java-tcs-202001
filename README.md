@@ -1,4 +1,4 @@
-# Curso Java TCS
+# Taller Java TCS
 
 ## Temario 🚀
 
@@ -6,7 +6,7 @@ _ * Hola._
 
 ## Herramientas 🛠️
 
-_En este curso usaremos las siguientes herramientas._
+_En este curso usaremos las siguientes herramientas. En las clases detallaremos como instalarlas y configurarlas._
 
 🔧 [JDK PENDIENTE]
 ```
