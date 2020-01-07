@@ -2,15 +2,15 @@
 
 ## Temario 🚀
 
-_ * Hola._
+_ * En proceso._
 
 ## Herramientas 🛠️
 
 _En este taller usaremos las siguientes herramientas. En las clases detallaremos como instalarlas y configurarlas._
 
-🔧 [JDK PENDIENTE]
+🔧 [JDK 7u80]
 ```
-📢 Link Descarga - PENDIENTE
+📢 Link Descarga - https://download.oracle.com/otn/java/jdk/7u80-b15/jdk-7u80-windows-x64.exe
 ```
 🔧 [Eclipse Mars.2 Release (4.5.2)]
 ```
