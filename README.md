@@ -6,7 +6,7 @@ _ * Hola._
 
 ## Herramientas 🛠️
 
-_En este curso usaremos las siguientes herramientas. En las clases detallaremos como instalarlas y configurarlas._
+_En este taller usaremos las siguientes herramientas. En las clases detallaremos como instalarlas y configurarlas._
 
 🔧 [JDK PENDIENTE]
 ```
