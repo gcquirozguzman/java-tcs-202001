@@ -1,113 +1,32 @@
 # Taller Java TCS
 
-_Clase 2: Configuremos nuestro ambiente._
+_Clase 1: Hola Mundo._
 
-Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse (Herramienta para desarrollo).
-
-#### Instalando JDK 7u80
+Te presento la plataforma en donde ejecutaremos nuestras aplicaciones. Los archivos Java ingresan al COMPILADOR y son convertidos en .class. Estos archivos se componen de ByteCode, que son un conjunto de instrucciones optimizadas que se encuentran preparadas para ser ejecutadas y consumidas por nuestra máquina virtual de Java (JVM).
 
 ```
-📢 Ingresamos a la página de descargas (https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)
+📢 JRE - Donde esta la máquina virtual
+📢 JDK - Incluye el JRE y compilador de java
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/imagenes/plataforma.png)
+
+WORA significa Escribir una vez, Ejecutar en cualquier lugar.
 
 ```
-📢 Nos dirigimos al JDK con la versión que requerimos y aceptamos la licencia.
+📢 Tenemos la facilidad de escribir nuestro código 1 vez y ejecutarlo en diferentes dispositivos. 
+📢 No olvidemos que cada dispositivo tiene una diferente arquitectura, sin embargo existe una JVM para cada entorno (Windows, Linux, Android, etc).
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/imagenes/wora.png)
+
+Java maneja diferentes ediciones para diferentes problematicas en nuestro día a día.
 
 ```
-📢 Seleccionamos el archivo tipo exe
+📢 JME - Móviles, sistemas integrados, etc.
+📢 JSE - Aplicaciones de escritorio o de servidores
+📢 JEE - Se utiliza para desarrollar aplicaciones web empresariales
 ```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_3.png)
-
-```
-📢 Ejecutamos el archivo descargado y seleccionamos continuar hasta el final
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_5.png)
-
-```
-📢 Se nos solicitará instalar tambien JRE. Seleccionamos siguiente.
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_6.png)
-
-```
-📢 Esperamos a que finalice la instalación.
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_7.png)
-
-```
-📢 La instalación ha terminado.
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_8.png)
-
-```
-📢 Modificaremos las variables de entorno del sistema. Para ingresasar a esta opción seleccionamos la tecla Windows y escribimos en la casilla "variable". Seleccionamos la opción que indica la imagen.
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_9.png)
-
-```
-📢 Seleccionamos botón "Variable de entorno".
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_10.png)
-
-```
-📢 Seleccionamos botón "Nueva...".
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_11.png)
-
-```
-📢 Escribimos JAVA_HOME como nombre de la variable y en valor indicamos la ruta del JDK instalado. Seleccionamos aceptar para que se grabe.
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_12.png)
-
-```
-📢 Ahora modificaremos la variable "Path".
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_13.png)
-
-```
-📢 Seleccionamos nuevo e ingresamos "%JAVA_HOME%\bin".
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_18.png)
-
-```
-📢 Por último, subimos la variable a fin de que se considere esta superior a las demás. Esto en caso se tengan otras configuraciones que interfieran con la versión de JAVA instalada.
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_15.png)
-
-```
-📢 Verificamos la versión ingresando a la consola de comandos. Ingresamos "java -version" para consultar.
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_16.png)
-
-#### Descargando IDE Eclipse Mars.2
-
-```
-📢 Descargamos el IDE desde el siguiente link (https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32-x86_64.zip)
-📢 Esperamos a que termine la descarga. Descomprimimos la carpeta.
-```
-
-```
-📢 Dentro de la carpeta encontraremos el siguiente ejecutable. Con este podremos abrir nuestro IDE para comenzar a programar.
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_1.png)
 
 ## Autores ✒️
 
