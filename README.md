@@ -1,32 +1,29 @@
 # Taller Java TCS
 
-_Clase 1: Hola Mundo._
+_Clase 3: Hola Mundo._
 
-Te presento la plataforma en donde ejecutaremos nuestras aplicaciones. Los archivos Java ingresan al COMPILADOR y son convertidos en .class. Estos archivos se componen de ByteCode, que son un conjunto de instrucciones optimizadas que se encuentran preparadas para ser ejecutadas y consumidas por nuestra máquina virtual de Java (JVM).
-
-```
-📢 JRE - Donde esta la máquina virtual
-📢 JDK - Incluye el JRE y compilador de java
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/imagenes/plataforma.png)
-
-WORA significa Escribir una vez, Ejecutar en cualquier lugar.
+Pondremos en práctica lo indicado en la clase 1. 
 
 ```
-📢 Tenemos la facilidad de escribir nuestro código 1 vez y ejecutarlo en diferentes dispositivos. 
-📢 No olvidemos que cada dispositivo tiene una diferente arquitectura, sin embargo existe una JVM para cada entorno (Windows, Linux, Android, etc).
+📢 Creamos una carpeta en donde colocaremos nuestro primer archivo Java de nombre HolaMundo.java
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/imagenes/wora.png)
-
-Java maneja diferentes ediciones para diferentes problematicas en nuestro día a día.
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_1.png)
 
 ```
-📢 JME - Móviles, sistemas integrados, etc.
-📢 JSE - Aplicaciones de escritorio o de servidores
-📢 JEE - Se utiliza para desarrollar aplicaciones web empresariales
+📢 Editamos el archivo JAVA.
 ```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_2.png)
+
+```
+📢 Para que la VM lea estas instrucciones, necesitamos convertir el Java en Class.
+📢 Ingresamos al símbolo de sistema nos situamos en la carpeta que creamos.
+📢 Ingresamos la siguiente instrucción: javac HolaMundo.java.
+📢 Se debe considerar que javac = Java Compile.
+```
+
+
 
 ## Autores ✒️
 
