@@ -5,14 +5,14 @@ _Clase 3: Hola Mundo._
 Pondremos en práctica lo indicado en la clase 1. 
 
 ```
-📢 Creamos una carpeta en donde colocaremos nuestro primer archivo Java de nombre HolaMundo.java
+📢 En una carpeta crearemos un archivo Java de nombre HolaMundo.java
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_1.png)
 
 ```
 📢 Editamos el archivo JAVA.
-📢 Aperturaremos indicando el tipo y nombre del archivo. Para este caso "class HolaMundo {}". 
+📢 Escribimos indicando el tipo y nombre del archivo. Para este caso "class HolaMundo {}". 
 📢 Luego le indicaremos a nuestro programa su primera instrucción o "método". Esto agregando el método "public static void main".
 Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro será lo primero en ejecutarse cuando inicie.
 📢 Dentro del método "public static void main" imprimiremos un mensaje en la consola, "Hola Mundo". 
