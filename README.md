@@ -8,7 +8,7 @@ Pondremos en práctica lo indicado en la clase 1.
 📢 Creamos una carpeta en donde colocaremos nuestro primer archivo Java de nombre HolaMundo.java
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_1.png)
 
 ```
 📢 Editamos el archivo JAVA.
@@ -18,40 +18,40 @@ Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro
 📢 Dentro del método "public static void main" imprimiremos un mensaje en la consola, "Hola Mundo". 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_2.png)
 
 ```
 📢 Para que la VM lea estas instrucciones, necesitamos convertir el Java en Class.
 📢 Ingresamos al símbolo de sistema nos situamos en la carpeta donde tenemos creado nuestro "HolaMundo.java".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_3.png)
 
 ```
 📢 Ingresamos la siguiente instrucción: javac HolaMundo.java.
 📢 Lo que vamos a realizar ahora es convertir nuestro JAVA en CLASS. Para esto usamos javac(Java Compile).
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_4.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_4.png)
 
 ```
 📢 Podemos ver que se ha creado un archivo de clase Java con ByteCode en su interior.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_5.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_5.png)
 
 ```
 📢 Ahora invocaremos a la JVM para que pueda consumirlo.
 📢 Ingresamos la siguiente instrucción: java HolaMundo
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_6.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_6.png)
 
 ```
 📢 Podemos ver que se ha creado nuestro CLASS
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_7.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_7.png)
 
 
 ## Autores ✒️
