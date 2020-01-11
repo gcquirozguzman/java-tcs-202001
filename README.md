@@ -22,7 +22,6 @@ Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro
 
 ```
 📢 Para que la VM lea estas instrucciones, necesitamos convertir el Java en Class.
-📢 Ingresamos al símbolo de sistema nos situamos en la carpeta donde tenemos creado nuestro "HolaMundo.java".
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_3.png)
@@ -41,7 +40,7 @@ Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro
 
 ```
 📢 En caso no se puedan configurar las variables de entorno por permisos, ejecutar lo siguiente: 
-    "SET PATH=%PATH%;C:\Program Files\Java\jdk1.8.0_171\bin;"
+    "SET PATH=%PATH%;C:\Program Files\Java\jdk1.8.0_171\bin;" o colocar la dirección de la carpeta de la version Java que se tenga instalado.
 📢 Luego volver a consultar la version de javac
     "javac -version"
 ```
@@ -49,6 +48,7 @@ Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_9.png)
 
 ```
+📢 Nos situamos en la carpeta donde tenemos creado nuestro "HolaMundo.java".
 📢 Ingresamos la siguiente instrucción: javac HolaMundo.java.
 📢 Lo que vamos a realizar ahora es convertir nuestro JAVA en CLASS. Para esto usamos javac(Java Compile).
 ```
