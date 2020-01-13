@@ -14,6 +14,12 @@ _5) Tipo de Datos._
 
 _6) Tipo de Datos - Enteros._
 
+_7) Tipo de Datos - Decimales._
+
+_8) Tipo de Datos - Caracteres._
+
+_9) Tipo de Datos - Booleano._
+
 _X) Límite de Tipo de Datos._
 
 _X) Manejo de Datos._
