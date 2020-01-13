@@ -21,13 +21,13 @@ _Clase 4: Usando Eclipse._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_3.png)
 
 ```
-📢 Crearemos nuestro proyecto Java de la siguiente forma.
+📢 Cerramos la pantalla de bienvenida.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_4.png)
 
 ```
-📢 Cerramos la pantalla de bienvenida.
+📢 Crearemos nuestro proyecto Java de la siguiente forma.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_5.png)
