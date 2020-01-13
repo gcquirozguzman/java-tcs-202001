@@ -10,6 +10,18 @@ _3) Hola Mundo._
 
 _4) Usando Eclipse._
 
+_5) Tipo de Datos._
+
+_6) Límite de Tipo de Datos._
+
+_7) Manejo de Datos._
+
+_8) Palabras reservadas._
+
+_9) Constantes._
+
+_10) Salida de Datos._
+
 ## Herramientas 🛠️
 
 _En este taller usaremos las siguientes herramientas. En las clases detallaremos como instalarlas y configurarlas._
