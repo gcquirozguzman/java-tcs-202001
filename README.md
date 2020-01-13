@@ -24,10 +24,22 @@ _Clase 5: Tipo de Datos._
 ```
 📢 A continuación indicamos los tipo de datos enteros y sus límites.
 
-  * long (–9,223,372,036,854,775,808 a 9,223,372,036,854,775,807)
-  * int (–2,147,483,648 a 2,147,483,647)
-  * short (–32,768 to 32,767)
-  * byte (–128 to 127)
+  * Tipo: long
+    Rango: –9,223,372,036,854,775,808 a 9,223,372,036,854,775,807)
+    Bytes: 8
+    
+  * Tipo 
+    Tipo: int
+    Rango: –2,147,483,648 a 2,147,483,647
+    Bytes: 4
+    
+  * Tipo: short
+    Rango: –32,768 to 32,767
+    Bytes: 2
+    
+  * Tipo: byte
+    Rango: –128 to 127
+    Bytes: 1
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_1.png)
