@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 5: Tipo de Datos._
+_Clase 5: Tipo de Datos - Enteros._
 
 ```
 📢 En Java tenemos los siguientes tipos de datos.
