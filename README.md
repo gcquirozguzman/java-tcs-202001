@@ -17,6 +17,7 @@ _Clase 7: Tipo de Datos - Decimales._
 
 ```
 📢 A continuación he colocado los 4 tipo de datos con los máximos valores que adminte. Si uno intenta sobreparar el límite nos mostrará un error.
+📢 Para el caso de las variables de tipo "Float" se debe colocar al final de la cifra la letra "F".
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-07/imagenes/pagina_7_1.png)
