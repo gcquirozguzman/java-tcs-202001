@@ -36,8 +36,8 @@ _Clase 5: Tipo de Datos - Enteros._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_2.png)
 
 ```
-📢 Cuando necesitemos declarar un tipo de dato en java y asignarle un valor podemos hacerlo de la siguiente forma.
-📢 (TIPO DE DATO) + (NOMBRE CON EL QUE QUEREMOS RECONOCER A NUESTRO DATO) = (DATO)
+📢 Cuando necesitemos declarar una variable en java y asignarle un valor podemos hacerlo de la siguiente forma.
+📢 (TIPO DE DATO) + (NOMBRE DE VARIABLE) = (DATO)
 📢 int miPrimerValorInt = 1;
 ```
 
@@ -52,7 +52,7 @@ _Clase 5: Tipo de Datos - Enteros._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_5.png)
 
 ```
-📢 Si queremos crear un tipo de dato, solo bastará con indicar el tipo de datos y el nombre.
+📢 Si queremos crear una variable, solo bastará con indicar el tipo de datos y el nombre de la variable.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_6.png)
@@ -64,7 +64,7 @@ _Clase 5: Tipo de Datos - Enteros._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_7.png)
 
 ```
-📢 Si queremos declarar varios tipo de datos en una línea es posible de la siguiente forma.
+📢 Si queremos declarar varias variables en una línea es posible de la siguiente forma.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_8.png)
