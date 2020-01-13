@@ -16,11 +16,13 @@ _6) Límite de Tipo de Datos._
 
 _7) Manejo de Datos._
 
-_8) Palabras reservadas._
+_8) Clases de Java Wrapper._
 
-_9) Constantes._
+_9) Palabras reservadas._
 
-_10) Salida de Datos._
+_10) Constantes._
+
+_11) Salida de Datos._
 
 ## Herramientas 🛠️
 
