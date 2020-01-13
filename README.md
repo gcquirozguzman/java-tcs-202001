@@ -8,7 +8,7 @@ _Clase 5: Tipo de Datos._
   * Enteros: 1, 2, 3, 4, 5, etc
   * Decimales: 10.5, 52.6, 9965.2, etc
   * Caracteres: a, b, c, etc
-  * Boleanos: verdadero o falso
+  * Booleano: verdadero o falso
 ```
 
 ```
