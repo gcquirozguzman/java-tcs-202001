@@ -12,17 +12,19 @@ _4) Usando Eclipse._
 
 _5) Tipo de Datos._
 
-_6) Límite de Tipo de Datos._
+_6) Tipo de Datos- Enteros._
 
-_7) Manejo de Datos._
+_X) Límite de Tipo de Datos._
 
-_8) Clases de Java Wrapper._
+_X) Manejo de Datos._
 
-_9) Palabras reservadas._
+_X) Clases de Java Wrapper._
 
-_10) Constantes._
+_X) Palabras reservadas._
 
-_11) Salida de Datos._
+_X) Constantes._
+
+_X) Salida de Datos._
 
 ## Herramientas 🛠️
 
