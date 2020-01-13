@@ -68,6 +68,17 @@ Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_6.png)
 
+```
+📢 Modificaremos el archivo Java agregando nuestro nombre.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_10.png)
+
+```
+📢 Al modificar el archivo tendremos que volver a compilar con el programa "javac" y volver a consumirlo con el JVM.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_11.png)
 
 ## Autores ✒️
 
