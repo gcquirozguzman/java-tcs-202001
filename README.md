@@ -23,7 +23,52 @@ _Clase 5: Tipo de Datos - Enteros._
     Bytes: 1
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_1.png)
+```
+📢 Crearemos una clase en donde practicaremos lo aprendido.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_1.png)
+
+```
+📢 Le colocaremos de nombre TipoDatos e indicaremos que se le agregue el método "main".
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_2.png)
+
+```
+📢 Cuando necesitemos declarar un tipo de dato en java y asignarle un valor podemos hacerlo de la siguiente forma.
+📢 (TIPO DE DATO) + (NOMBRE CON EL QUE QUEREMOS RECONOCER A NUESTRO DATO) = (DATO)
+📢 int miPrimerValorInt = 1;
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_3.png)
+
+```
+📢 Ejecutamos para ver la salida.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_4.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_5.png)
+
+```
+📢 Si queremos crear un tipo de dato, solo bastará con indicar el tipo de datos y el nombre.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_6.png)
+
+```
+📢 Cuando necesitemos asignarle un valor podemos llamarle y hacerlo.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_7.png)
+
+```
+📢 Si queremos declarar varios tipo de datos en una línea es posible de la siguiente forma.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_8.png)
+
 
 ## Autores ✒️
 
