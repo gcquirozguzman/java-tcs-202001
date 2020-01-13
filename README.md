@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 5: Tipo de Datos - Enteros._
+_Clase 6: Tipo de Datos - Enteros._
 
 ```
 📢 A continuación indicamos los tipo de datos enteros, rangos y espacio que ocupa en memoria en bytes.
