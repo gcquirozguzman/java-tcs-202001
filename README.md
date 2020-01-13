@@ -13,7 +13,6 @@ _Clase 7: Tipo de Datos - Decimales._
     Tipo: float
     Rango: 1.4e–045 to 3.4e+038
     Bytes: 4
-    
 ```
 
 ```
