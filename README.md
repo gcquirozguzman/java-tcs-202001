@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 3: Hola Mundo._
+_Clase 4: Usando Eclipse._
 
 Pondremos en práctica lo indicado en la clase 1. 
 
