@@ -3,24 +3,17 @@
 _Clase 7: Tipo de Datos - Decimales._
 
 ```
-📢 A continuación indicamos los tipo de datos enteros, rangos y espacio que ocupa en memoria en bytes.
+📢 A continuación indicamos los tipo de datos decimales, rangos y espacio que ocupa en memoria en bytes.
 
-  * Tipo: long
-    Rango: –9,223,372,036,854,775,808 a 9,223,372,036,854,775,807)
+  * Tipo: double
+    Rango: 4.9e–324 to 1.8e+308
     Bytes: 8
     
   * Tipo 
-    Tipo: int
-    Rango: –2,147,483,648 a 2,147,483,647
+    Tipo: float
+    Rango: 1.4e–045 to 3.4e+038
     Bytes: 4
     
-  * Tipo: short
-    Rango: –32,768 to 32,767
-    Bytes: 2
-    
-  * Tipo: byte
-    Rango: –128 to 127
-    Bytes: 1
 ```
 
 ```
