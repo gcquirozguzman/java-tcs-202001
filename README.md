@@ -6,7 +6,7 @@ _Clase 6: Tipo de Datos - Enteros._
 📢 A continuación indicamos los tipo de datos enteros, rangos y espacio que ocupa en memoria en bytes.
 
   * Tipo: long
-    Rango: –9,223,372,036,854,775,808 a 9,223,372,036,854,775,807)
+    Rango: –9,223,372,036,854,775,808 a 9,223,372,036,854,775,807
     Bytes: 8
     
   * Tipo 
