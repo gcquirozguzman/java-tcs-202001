@@ -12,7 +12,7 @@ _4) Usando Eclipse._
 
 _5) Tipo de Datos._
 
-_6) Tipo de Datos- Enteros._
+_6) Tipo de Datos - Enteros._
 
 _X) Límite de Tipo de Datos._
 
