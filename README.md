@@ -107,7 +107,7 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 📢 Dentro de la carpeta encontraremos el siguiente ejecutable. Con este podremos abrir nuestro IDE para comenzar a programar.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_17.png)
 
 ## Autores ✒️
 
