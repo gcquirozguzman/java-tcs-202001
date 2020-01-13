@@ -38,7 +38,7 @@ _Clase 5: Tipo de Datos - Enteros._
 ```
 📢 Cuando necesitemos declarar una variable en java y asignarle un valor podemos hacerlo de la siguiente forma.
 📢 (TIPO DE DATO) + (NOMBRE DE VARIABLE) = (DATO)
-📢 int miPrimerValorInt = 1;
+📢 Por ejemplo: int miPrimerValorInt = 1;
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_3.png)
