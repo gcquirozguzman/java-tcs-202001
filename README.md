@@ -11,9 +11,14 @@ _Clase 8: Tipo de Datos - Caracteres._
 
 ```
 📢 Para el caso de las variables de tipo "char", este puede aceptar las siguientes entradas.
+📢 Como se observa a continuación, tanto 'a' o 97 pueden ser asignados a la variable y dan la misma salida.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-08/imagenes/pagina_8_1.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-08/imagenes/pagina_8_4.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-08/imagenes/pagina_8_5.png)
 
 ```
 📢 Ejecutamos para ver la salida.
