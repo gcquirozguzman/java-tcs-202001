@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 5: Pendiente._
+_Clase 13: Salida de Datos.._
 
 ```
 📢 Pendiente.
