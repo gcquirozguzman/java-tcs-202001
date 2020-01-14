@@ -9,6 +9,11 @@ _Clase 13: Salida de Datos.._
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_1.png)
+
+```
+📢 Salida en consola.
+```
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_2.png)
 
 ```
@@ -17,6 +22,11 @@ _Clase 13: Salida de Datos.._
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_3.png)
+
+```
+📢 Salida en consola.
+```
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_4.png)
 
 ```
@@ -29,6 +39,11 @@ _Clase 13: Salida de Datos.._
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_5.png)
+
+```
+📢 Salida en consola.
+```
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_6.png)
 
 ## Autores ✒️
