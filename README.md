@@ -20,15 +20,13 @@ _8) Tipo de Datos - Caracteres._
 
 _9) Tipo de Datos - Booleano._
 
-_10) Manejo de Datos._
+_10) Clases de Java Wrapper._
 
-_11) Clases de Java Wrapper._
+_11) Palabras reservadas._
 
-_12) Palabras reservadas._
+_12) Constantes._
 
-_13) Constantes._
-
-_14) Salida de Datos._
+_13) Salida de Datos._
 
 ## Herramientas 🛠️
 
