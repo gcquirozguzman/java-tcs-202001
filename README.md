@@ -4,8 +4,8 @@ _Clase 11: Palabras reservadas._
 
 ```
 📢 Existen ciertas palabras que no podemos usarlas para nombres de variables, clases o métodos.
-📢 Estas palabras han sido reservadas por el lenguaje de programación. 
-📢 Cuenta intentamos usarlas, el IDE nos muestra el error.
+📢 Estas palabras han sido reservadas por el lenguaje de programación.
+📢 Cuando intentamos usarlas, el IDE nos muestra el error de sintaxis.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-11/imagenes/pagina_11_1.png)
