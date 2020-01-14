@@ -28,93 +28,93 @@ _12) Constantes._
 
 _13) Salida de Datos._
 
-_14) Operadores Matemáticos
+_14) Operadores Matemáticos_
 
-_15) Casting
+_15) Casting._
 
-_16) Parsing
+_16) Parsing._
 
-_17) Comparación Numérica
+_17) Comparación Numérica._
 
-_18) Operador Logico
+_18) Operador Lógico._
 
-_19) Manejo de Cadenas
+_19) Manejo de Cadenas._
 
-_20) Condicional - If y Else
+_20) Condicional - If y Else._
 
-_21) Condicional - Else if
+_21) Condicional - Else if._
 
-_22) Condicional - Anidada
+_22) Condicional - Anidada._
 
-_23) Condicional - Switch
+_23) Condicional - Switch._
 
-_24) Operador Ternario
+_24) Operador Ternario._
 
-_25) Ciclo - While
+_25) Ciclo - While._
 
-_26) Ciclo - Do while
+_26) Ciclo - Do while._
 
-_27) Ciclo - For
+_27) Ciclo - For._
 
-_28) Arreglo - Creación
+_28) Arreglo - Creación._
 
-_29) Arreglo - Asignado de valores
+_29) Arreglo - Asignado de valores._
 
-_30) Arreglo - Recorriendo el arreglo
+_30) Arreglo - Recorriendo el arreglo._
 
-_31) Arreglo - Adicionar valores
+_31) Arreglo - Adicionar valores._
 
-_32) Java como Programacion Orientada a Objetos
+_32) Java como Programación Orientada a Objetos._
 
-_33) Objeto
+_33) Objeto._
 
-_34) Métodos
+_34) Métodos._
 
-_35) Parámetros
+_35) Parámetros._
 
-_36) Modificadores de Acceso - Public
+_36) Modificadores de Acceso - Public._
 
-_37) Modificadores de Acceso - Private
+_37) Modificadores de Acceso - Private._
 
-_38) Modificadores de Acceso - Protect
+_38) Modificadores de Acceso - Protect._
 
-_39) Get y Set
+_39) Get y Set._
 
-_40) Constructor
+_40) Constructor._
 
-_41) Sobrecarga de Métodos
+_41) Sobrecarga de Métodos._
 
-_42) Sobrecarga de Constructores
+_42) Sobrecarga de Constructores._
 
-_43) Static
+_43) Static._
 
-_44) Herencia 
+_44) Herencia ._
 
-_45) Herencia - Sobreescritura de Métodos
+_45) Herencia - Sobreescritura de Métodos._
 
-_46) Herencia - Super
+_46) Herencia - Super._
 
-_47) Herencia  - Sobrescritura de Contructor
+_47) Herencia  - Sobrescritura de Contructor._
 
-_48) Polimorfismo
+_48) Polimorfismo._
 
-_49) Clases Abstractas
+_49) Clases Abstractas._
 
-_50) Interfaces
+_50) Interfaces._
 
-_51) Varias interfaces
+_51) Varias Interfaces._
 
-_52) Extend
+_52) Extend._
 
-_53) Default en Interfaces
+_53) Default en Interfaces._
 
-_54) Interactuando con la consola
+_54) Interactuando con la Consola._
 
-_55) JOptionPane
+_55) JOptionPane._
 
-_56) Generar Ejecutable
+_56) Generar Ejecutable._
 
-_57) Recomendaciones
+_57) Recomendaciones._
 
 ## Herramientas 🛠️
 
