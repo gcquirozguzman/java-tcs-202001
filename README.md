@@ -1,12 +1,12 @@
 # Taller Java TCS
 
-_Clase 5: Tema._
+_Clase 5: Pendiente._
 
 ```
-📢 Para iniciar el IDE ingresamos a la carpeta que ha sido descargada en la clase 2. Ahi encontraremos el archivo exe que iniciará el IDE.
+📢 Pendiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-0X/imagenes/pagina_4_1.png)
 
 ## Autores ✒️
 
