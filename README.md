@@ -1,12 +1,39 @@
 # Taller Java TCS
 
-_Clase 5: Pendiente._
+_Clase 5: Operadores Aritméticos._
 
 ```
-📢 Pendiente.
+📢 Para este tema crearemos la clase "OperadoresMatematicos.java" en donde colocaremos nuestras anotaciones.
+📢 Los operadores aritméticos nos ayudan a realizar operaciones matemáticas como suma, resta, multiplicación, división y resto.
+📢 Podemos reconocerlos así:
+
+  +	  Operador de Suma
+  -	  Operador de Resta
+  * 	Operador de Multiplicación
+  /	  Operador de División
+  %	  Operador de Resto
+  
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-0X/imagenes/pagina_4_1.png)
+```
+📢 En la práctica podemos usarlos de la siguiente forma.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-14/imagenes/pagina_14_1.png)
+
+```
+📢 Podemos usar también lo siguientes operadores de asignación.
+
+  x-- 		se representa 		x = x - 1;
+  x++ 		se representa 		x = x + 1;
+  x+=y		se representa 		x = x + y;
+  x-=y		se representa 		x = x - y;
+  x*=y		se representa 		x = x * y;
+  x/=y		se representa 		x = x / y;
+  x%=y		se representa 		x = x % y;
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-14/imagenes/pagina_14_2.png)
 
 ## Autores ✒️
 
