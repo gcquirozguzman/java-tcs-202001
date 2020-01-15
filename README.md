@@ -28,7 +28,7 @@ _12) Constantes._
 
 _13) Salida de Datos._
 
-_14) Operadores Matemáticos_
+_14) Operadores Aritméticos y de Asignación._
 
 _15) Casting._
 
