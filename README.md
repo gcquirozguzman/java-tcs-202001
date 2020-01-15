@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 5: Operadores Aritméticos._
+_Clase 14: Operadores Aritméticos._
 
 ```
 📢 Para este tema crearemos la clase "OperadoresMatematicos.java" en donde colocaremos nuestras anotaciones.
