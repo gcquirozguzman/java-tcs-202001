@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 13: Salida de Datos.._
+_Clase 13: Salida de Datos._
 
 ```
 📢 Cuandon queremos enviar un mensaje en la consola tenemos 2 opciones básicas para realizarlo.
@@ -45,6 +45,22 @@ _Clase 13: Salida de Datos.._
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_6.png)
+
+```
+📢 Podemos formar una cadena de mensaje de forma mas ordenada, esto usando la funcion "printf".
+📢 Cadena: %s       -> Acepta parámetros de tipo cadena.
+📢 Entero: %d       -> Acepta parámetros de tipo entero.
+📢 Decimal: %10.2f  -> Acepta parámetros de tipo decimal.
+   Enviamos el 10 como espacios que quiero que se agreguen a la izquierda, así como 2f para valores para indicar la cantidad máxima de decimales.
+    
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_7.png)
+
+```
+📢 Podemos encontrar mas información sobre los demás parámetros en el siguiente link.
+    https://www.baeldung.com/java-printstream-printf
+```
 
 ## Autores ✒️
 
