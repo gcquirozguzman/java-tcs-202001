@@ -1,12 +1,23 @@
 # Taller Java TCS
 
-_Clase 5: Pendiente._
+_Clase 15: Casting._
 
 ```
-📢 Pendiente.
+  
+📢 byte -> short -> char -> int -> long -> float -> double
+
+double -> float -> long -> int -> char -> short -> byte
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-0X/imagenes/pagina_4_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-15/imagenes/pagina_15_1.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-15/imagenes/pagina_15_2.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-15/imagenes/pagina_15_3.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-15/imagenes/pagina_15_4.png)
+
+
 
 ## Autores ✒️
 
