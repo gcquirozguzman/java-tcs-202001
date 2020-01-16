@@ -55,7 +55,7 @@ _Clase 13: Salida de Datos._
     
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_7.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_8.png)
 
 ```
 📢 Podemos encontrar mas información sobre los demás parámetros en el siguiente link.
