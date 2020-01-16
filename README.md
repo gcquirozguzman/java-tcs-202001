@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 5: Pendiente._
+_Clase 16: Parsing._
 
 ```
 📢 Pendiente.
