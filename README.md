@@ -47,7 +47,7 @@ _Clase 13: Salida de Datos._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_6.png)
 
 ```
-📢 Podemos formar una cadena de mensaje de forma mas ordenada, esto usando la funcion "printf".
+📢 Podemos formar una cadena de mensaje de forma mas ordenada, esto usando la función "printf".
 📢 Cadena: %s       -> Acepta parámetros de tipo cadena.
 📢 Entero: %d       -> Acepta parámetros de tipo entero.
 📢 Decimal: %10.2f  -> Acepta parámetros de tipo decimal.
