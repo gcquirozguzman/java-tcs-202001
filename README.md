@@ -3,10 +3,10 @@
 _Clase 16: Parsing._
 
 ```
-📢 Pendiente.
+📢 Nos permite analizar el valor de una variable para convertirlo a otro tipo.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-0X/imagenes/pagina_4_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-16/imagenes/pagina_16_1.png)
 
 ## Autores ✒️
 
