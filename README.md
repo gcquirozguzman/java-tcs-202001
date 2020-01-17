@@ -34,11 +34,11 @@ _15) Casting._
 
 _16) Parsing._
 
+_17) BigDecimal._
+
 _17) Comparación Numérica._
 
 _18) Operador Lógico._
-
-_19) BigDecimal._
 
 _20) Manejo de Cadenas._
 
