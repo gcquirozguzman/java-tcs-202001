@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 5: Pendiente._
+_Clase 21: Condicional - If y Else._
 
 ```
 📢 Pendiente.
