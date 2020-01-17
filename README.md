@@ -1,12 +1,48 @@
 # Taller Java TCS
 
-_Clase 5: Pendiente._
+_Clase 17: BigDecimal._
 
 ```
-📢 Pendiente.
+📢 Para operaciones decimales se recomienda usar BigDecimal para obtener un resultado exacto.
+📢 Consideremos el siguiente ejemplo.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-0X/imagenes/pagina_4_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-17/imagenes/pagina_17_1.png)
+
+```
+📢 Vemos que la suma ha sido efectuada sin problemas.
+📢 Pero en el siguiente ejemplo, la suma ya no es exacta.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-17/imagenes/pagina_17_2.png)
+
+```
+📢 Esto es debido a que las computadoras hacen el conteo en binario, y nosotros en decimal.
+📢 Ante este problema, uno de los caminos es el uso de BigDecimal.
+📢 Para poder usarlo necesitamos escribir "BigDecimal". Luego "CTRL + ESPACIO" para que nos muestre las opciones de importación.
+📢 Seleccionamos la libreria "java.math".
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-17/imagenes/pagina_17_3.png)
+
+```
+📢 Esto agregará la libreria que queremos usar en la parte superior.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-17/imagenes/pagina_17_4.png)
+
+```
+📢 Para poder conocer sobre BigDecimal es necesario ver sus principales operaciones.
+📢 Al final hacemos la prueba de sumar el valor 6 veces.  
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-17/imagenes/pagina_17_5.png)
+
+```
+📢 Retorna un resultado correcto.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-17/imagenes/pagina_17_6.png)
 
 ## Autores ✒️
 
