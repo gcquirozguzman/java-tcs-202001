@@ -38,27 +38,29 @@ _17) Comparación Numérica._
 
 _18) Operador Lógico._
 
-_19) Manejo de Cadenas._
+_19) BigDecimal._
 
-_20) Condicional - If y Else._
+_20) Manejo de Cadenas._
 
-_21) Condicional - Else if._
+_21) Condicional - If y Else._
 
-_22) Condicional - Anidada._
+_22) Condicional - Else if._
 
-_23) Condicional - Switch._
+_23) Condicional - Anidada._
 
-_24) Operador Ternario._
+_24) Condicional - Switch._
 
-_25) Ciclo - While._
+_25) Operador Ternario._
 
-_26) Ciclo - Do while._
+_26) Ciclo - While._
 
-_27) Ciclo - For._
+_27) Ciclo - Do while._
 
-_28) Arreglo - Creación._
+_28) Ciclo - For._
 
-_29) Arreglo - Asignado de valores._
+_29) Arreglo - Creación._
+
+_30) Arreglo - Asignado de valores._
 
 _30) Arreglo - Recorriendo el arreglo._
 
