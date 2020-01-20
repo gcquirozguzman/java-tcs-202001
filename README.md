@@ -17,7 +17,7 @@ _Clase 21: Condicional - If y Else._
     ejecutar A
   }
 
-📢 Podemos codificarlo de la siguiente forma.
+📢 Podemos codificarlo de la siguiente forma. Considerando IF como "si".
 
 ```
 
@@ -32,7 +32,7 @@ _Clase 21: Condicional - If y Else._
     ejecutar B
   }
   
-📢 Podemos codificarlo de la siguiente forma.
+📢 Podemos codificarlo de la siguiente forma. Considerando IF como "si" y ELSE como "caso contrario".
 
 ```
 
