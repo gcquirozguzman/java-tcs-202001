@@ -9,6 +9,7 @@ _Clase 26: Ciclo - While._
 
 ```
 📢 Esta estructura se puede explicar de la siguiente forma.
+📢 Téngase en cuenta que antes de ejecutarse el código, se evalua una condición.
 
   mientras sea cierto {
     ejecutar
