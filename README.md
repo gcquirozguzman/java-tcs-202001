@@ -35,6 +35,12 @@ _Clase 24: Condicional - Switch._
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-24/imagenes/pagina_24_1.png)
 
+```
+📢 También podemos analizar la condición de esta forma.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-24/imagenes/pagina_24_2.png)
+
 ## Autores ✒️
 
 * **Gian Carlo Quiroz Guzmán** - *Proyecto Demo* - [gcquirozguzman](https://github.com/gcquirozguzman)
