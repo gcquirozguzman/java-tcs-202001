@@ -9,23 +9,24 @@ _Clase 24: Condicional - Switch._
 ```
 
 ```
-  dato a evaluar{
-    
-    si (dato = valor_1){
-      ejecutar A;
-      finalizar;
-    } si (dato = valor_2){
-      ejecutar B;
-      finalizar;
-    } si (dato = valor_3){
-      ejecutar C;
-      finalizar;
-    } caso contrario {
-      ejecutar D;
-      finalizar;
-    }
-    
-  }
+  dato_evaluar
+  
+      ¿dato_evaluar es 1?
+        "El valor es 1"
+        finalizar;
+
+      ¿dato_evaluar es 2?
+        "El valor es 2"
+        finalizar;
+
+      ¿dato_evaluar es 3?
+        "El valor es 3"
+        finalizar;
+
+      Caso contrario
+        "El valor no es 1, 2 o 3"
+        finalizar;
+   
 ```
 
 ```
