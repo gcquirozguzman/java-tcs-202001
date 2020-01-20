@@ -18,6 +18,8 @@ _Clase 27: Ciclo - Do While._
 📢 Cuando la variable sea igual a 4 indicaremos que finalice (break).
 ```
 
+## Primero se ejecuta el código, luego se valida si es que se volverá a ejecutar.
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-27/imagenes/pagina_27_1.png)
 
 ```
@@ -27,6 +29,8 @@ _Clase 27: Ciclo - Do While._
 📢 Antes de que se vuelva a ejecutar el código, veriricaremos que el valor sea menor a 5.
 📢 Si la condición no es verdadera, ya no se ejecutará.
 ```
+
+## Primero se ejecuta el código, luego se valida si es que se volverá a ejecutar.
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-27/imagenes/pagina_27_2.png)
 
