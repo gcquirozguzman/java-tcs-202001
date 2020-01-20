@@ -1,12 +1,39 @@
 # Taller Java TCS
 
-_Clase 5: Pendiente._
+_Clase 26: Ciclo - While._
 
 ```
-📢 Pendiente.
+📢 Tener en cuenta que un ciclo o bucle nos permite ejecutar repetidas veces un trozo de código.
+📢 Uno de estos ciclos es While.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-0X/imagenes/pagina_4_1.png)
+```
+📢 Esta estructura se puede explicar de la siguiente forma.
+
+  mientras sea cierto {
+    ejecutar
+  }
+  
+```
+
+```
+📢 En este primer caso, tendremos un bucle que se ejecutará hasta que nosotros le indiquemos que pare.
+📢 Crearemos una variable en 0. 
+📢 Esta variable irá aumentando en 1. 
+📢 Cuando la variable sea igual a 5 indicaremos que finalice (break).
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-26/imagenes/pagina_26_1.png)
+
+```
+📢 En este segundo caso, tendremos un bucle que se ejecutará mientras la condición sea verdadera.
+📢 La condición será que la variable sera menor a 5.
+📢 Iremos aumentando el valor de la variable en 1.
+📢 Antes de que se vuelva a ejecutar el código, veriricaremos que el valor sea menor a 5.
+📢 Si la condición no es verdadera, ya no se ejecutará.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-26/imagenes/pagina_26_2.png)
 
 ## Autores ✒️
 
