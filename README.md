@@ -14,9 +14,10 @@ _Clase 27: Ciclo - Do While._
 ```
 📢 En este primer caso, tendremos un bucle que se ejecutará hasta que nosotros le indiquemos que pare.
 📢 Crearemos una variable en 0.
-📢 Paso 1) Aumentaremos la variable en 1. 
-📢 Paso 2) Verificamos que la condición sea válida. Si es válida vuelve al "Paso 1", sino finaliza.
-📢 Paso 3) Cuando la variable sea igual a 4 indicaremos que finalice (break). Caso contrario vuelve al "Paso 1", sino finaliza.
+📢 Paso 1) Verificamos que la condición sea válida.
+📢 Paso 2) Aumentamos la variable en 1. 
+📢 Paso 3) Volvemos al "Paso 1".
+📢 Solo cuando la variable llega a ser 4 finalizaremos el ciclo con la sentencia "break".
 ```
 
 ## Primero se ejecuta el código, luego se valida si es que se volverá a ejecutar.
@@ -26,8 +27,9 @@ _Clase 27: Ciclo - Do While._
 ```
 📢 En este segundo caso, tendremos un bucle que se ejecutará mientras la condición sea verdadera.
 📢 Crearemos una variable en 0.
-📢 Paso 1) Aumentaremos la variable en 1. 
-📢 Paso 2) Verificamos que la condición sea válida. Si es válida vuelve al "Paso 1", sino finaliza.
+📢 Paso 1) Verificamos que la condición sea válida.
+📢 Paso 2) Aumentamos la variable en 1. 
+📢 Paso 3) Volvemos al "Paso 1".
 ```
 
 ## Primero se ejecuta el código, luego se valida si es que se volverá a ejecutar.
