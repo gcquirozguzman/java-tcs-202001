@@ -24,7 +24,7 @@ _Clase 26: Ciclo - While._
 📢 Paso 1) Verificamos que la condición sea válida.
 📢 Paso 2) Aumentamos la variable en 1. 
 📢 Paso 3) Volvemos al "Paso 1".
-📢 Solo cuando la variable llega a ser 5 finalizaremos el ciclo con la sentencia "break";
+📢 Solo cuando la variable llega a ser 5 finalizaremos el ciclo con la sentencia "break".
 ```
 
 ## Primero se verifica que la condición es válida, luego se ejecuta el código.
