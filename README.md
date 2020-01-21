@@ -21,7 +21,7 @@ Este bloque podemos simplificarlo de la siguiente forma.
   
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-25/imagenes/pagina_25_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-25/imagenes/pagina_25_4.png)
 
 ```
 En caso de una condicion anidada, también es posible convertirla.
@@ -42,7 +42,7 @@ Este bloque podemos simplificarlo de la siguiente forma.
   
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-25/imagenes/pagina_25_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-25/imagenes/pagina_25_5.png)
 
 ## Autores ✒️
 
