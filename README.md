@@ -64,7 +64,7 @@ _30) Arreglo - Asignado de valores._
 
 _31) Arreglo - Recorriendo el arreglo._
 
-_32) Java como Programación Orientada a Objetos._
+_32) Programación Orientada a Objetos._
 
 _33) Objeto._
 
@@ -81,6 +81,9 @@ _38) Modificadores de Acceso - Protect._
 _39) Get y Set._
 
 _40) Constructor._
+
+
+
 
 _42) Sobrecarga de Métodos._
 
