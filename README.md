@@ -64,7 +64,9 @@ _30) Arreglo - Asignado de valores._
 
 _31) Arreglo - Recorriendo el arreglo._
 
-_32) Programación Orientada a Objetos._
+_32) Programación Orientada a Objetos - Mecanismos Básicos._
+
+_33) Programación Orientada a Objetos - Características._
 
 _33) Objeto._
 
