@@ -34,7 +34,7 @@ _Clase 28: Ciclo - For._
 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-28/imagenes/pagina_28_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-28/imagenes/pagina_28_2.png)
 
 
 ```
@@ -46,7 +46,7 @@ _Clase 28: Ciclo - For._
 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-28/imagenes/pagina_28_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-28/imagenes/pagina_28_3.png)
 
 
 ## Autores ✒️
