@@ -12,7 +12,7 @@ _Clase 26: Ciclo - While._
 📢 Paso 3) Volvemos al "Paso 1".
 ```
 
-## Primero se verifica que la condición es válida, luego se ejecuta el código.
+### Primero se verifica que la condición es válida, luego se ejecuta el código.
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-26/imagenes/pagina_26_2.png)
 
@@ -25,7 +25,7 @@ _Clase 26: Ciclo - While._
 📢 Dentro del bucle evaluamos si la variable llega a ser 5 para finalizar su ejecución con la sentencia "break".
 ```
 
-## Primero se verifica que la condición es válida, luego se ejecuta el código.
+### Primero se verifica que la condición es válida, luego se ejecuta el código.
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-26/imagenes/pagina_26_1.png)
 
