@@ -20,7 +20,7 @@ _Clase 27: Ciclo - Do While._
 📢 Solo cuando la variable llega a ser 4 finalizaremos el ciclo con la sentencia "break".
 ```
 
-## Primero se ejecuta el código, luego se valida si es que se volverá a ejecutar.
+#### Primero se ejecuta el código, luego se valida si es que se volverá a ejecutar.
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-27/imagenes/pagina_27_1.png)
 
@@ -32,7 +32,7 @@ _Clase 27: Ciclo - Do While._
 📢 Paso 3) Volvemos al "Paso 1".
 ```
 
-## Primero se ejecuta el código, luego se valida si es que se volverá a ejecutar.
+### Primero se ejecuta el código, luego se valida si es que se volverá a ejecutar.
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-27/imagenes/pagina_27_2.png)
 
