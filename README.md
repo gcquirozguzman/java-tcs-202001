@@ -1,12 +1,12 @@
 # Taller Java TCS
 
-_Clase 5: Pendiente._
+_Clase 3: Pendiente._
 
 ```
 📢 Pendiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-0X/imagenes/pagina_4_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-3/imagenes/pagina_3_1.png)
 
 ## Autores ✒️
 
