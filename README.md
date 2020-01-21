@@ -1,12 +1,12 @@
 # Taller Java TCS
 
-_Clase 5: Pendiente._
+_Clase 29: Arreglo - Creación._
 
 ```
 📢 Pendiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-0X/imagenes/pagina_4_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-29/imagenes/pagina_29_1.png)
 
 ## Autores ✒️
 
