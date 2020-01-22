@@ -64,23 +64,31 @@ _30) Arreglo - Asignado de valores._
 
 _31) Arreglo - Recorriendo el arreglo._
 
-_32) Programación Orientada a Objetos - Mecanismos Básicos._
+_32) Programación Orientada a Objetos (POO)._
 
-_33) Programación Orientada a Objetos - Características._
+_33) POO - Conceptos Fundamentales - Objeto._
 
-_33) Objeto._
+_34) POO - Conceptos Fundamentales - Clase._
 
-_34) Métodos._
+_35) POO - Conceptos Fundamentales - Atributo._
 
-_35) Parámetros._
+_36) POO - Conceptos Fundamentales - Método._
 
-_36) Modificadores de Acceso - Public._
+_37) POO - Conceptos Fundamentales - Mensaje._
 
-_37) Modificadores de Acceso - Private._
+----- PENDIENTE DEFINIR
 
-_38) Modificadores de Acceso - Protect._
+_35) Métodos._
 
-_39) Get y Set._
+_36) Parámetros._
+
+_37) Modificadores de Acceso - Public._
+
+_38) Modificadores de Acceso - Private._
+
+_39) Modificadores de Acceso - Protect._
+
+_40) Get y Set._
 
 _40) Constructor._
 
