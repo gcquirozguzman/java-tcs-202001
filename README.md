@@ -80,16 +80,9 @@ _38) Modificadores de Acceso - Default._
 
 _39) Modificadores de Acceso - Private._
 
-
-
----- Pendiente
-
 _40) Get y Set._
 
-_40) Constructor._
-
-_36) Parámetros._
-
+_41) Constructor._
 
 _42) Sobrecarga de Métodos._
 
