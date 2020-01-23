@@ -3,7 +3,7 @@
 _Clase 35: Modificadores de Acceso._
 
 ```
-📢 Los atributos de la clase pueden ser accedidos dependiendo del tipo de acceso que se le dé.
+📢 Los modificadores de acceso en Java nos ayudan a restringir el acceso de una clase, variable, constructor, método o miembro de datos.
 📢 Los diferentes tipos de acceso son:
     public
     protected
