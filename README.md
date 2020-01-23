@@ -1,12 +1,18 @@
 # Taller Java TCS
 
-_Clase 3: Pendiente._
+_Clase 37: Modificadores de Acceso - Protect._
 
 ```
-📢 Pendiente.
+📢 Cuando se tiene el modificador de acceso "Protected" se debe considerar lo siguiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-3/imagenes/pagina_3_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-37/imagenes/pagina_37_1.png)
+
+```
+📢 Vamos a crear un atributo de tipo "Protect".
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-37imagenes/pagina_37_2.png)
 
 ## Autores ✒️
 
