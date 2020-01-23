@@ -1,12 +1,20 @@
 # Taller Java TCS
 
-_Clase 3: Pendiente._
+_Clase 38: Modificadores de Acceso - Default._
 
 ```
-📢 Pendiente.
+📢 Cuando se tiene el modificador de acceso "Default" se debe considerar lo siguiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-3/imagenes/pagina_3_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-38/imagenes/pagina_38_1.png)
+
+```
+📢 Nuestros atributos también pueden tener el modificador de acceso como default. Crearemos unos atributos para esta prueba.
+📢 Debemos tener en cuenta que no será necesario agregar que la palabra "default".
+📢 Bastará con no asignarle ningun modificador de acceso.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-38/imagenes/pagina_38_2.png)
 
 ## Autores ✒️
 
