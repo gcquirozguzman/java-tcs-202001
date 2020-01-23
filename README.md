@@ -11,7 +11,7 @@ _Clase 32: Programación Orientada a Objetos (POO)._
 
 ```
 📢 Se nos ha encargado crear un programa que nos ayude a registrar los autos vendidos.
-📢 Usaremos los conocimientos adquiridos hasta este momentos para realizarlo.
+📢 Usaremos los conocimientos adquiridos hasta este momento para realizarlo.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-32/imagenes/pagina_32_1.png)
