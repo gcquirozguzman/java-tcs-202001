@@ -11,8 +11,8 @@ _Clase 40: Get y Set._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-40/imagenes/pagina_40_1.png)
 
 ```
-📢 Para que yo pueda acceder a estos atributos desde afuera de la clase, voy a usar los metodos get y set.
-📢 Se pueden crear colocando el cursor sobre el atributo y seleccionando la opcion generar.
+📢 Para que yo pueda acceder a estos atributos desde afuera de la clase, voy a usar los métodos get y set.
+📢 Se pueden crear colocando el cursor sobre el atributo y seleccionando la opción generar.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-40/imagenes/pagina_40_2.png)
@@ -28,10 +28,10 @@ _Clase 40: Get y Set._
 📢 Podemos fijarnos que estos métodos tienen como modificador de acceso el tipo público.
 📢 Si yo quisiera obtener el color de un objeto solo me bastaría con solicitarlo por su método get.
     getColor()
-📢 Si quisiera modificar el color de un objetos,  de la misma manera, debería realizarlo desde su método set.
+📢 Si quisiera modificar el color de un objeto,  de la misma manera, debería realizarlo desde su método set.
     setColor(String color)
 📢 Se debe tener en cuenta que el método set nos pide un parámetro de entrada para poder reemplazar el valor actual que tiene el objeto por el que le enviamos.
-📢 Por ejemplo si quiero cambiar a azul el carro deberia mandar.
+📢 Por ejemplo si quiero cambiar a azul el carro debería mandar.
     setColor("Azul")
     
 ```
