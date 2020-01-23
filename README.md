@@ -1,12 +1,27 @@
 # Taller Java TCS
 
-_Clase 3: Pendiente._
+_Clase 34: POO - Conceptos Fundamentales - Clase._
 
 ```
-📢 Pendiente.
-```
+📢 En el mundo real existen diversos tipos de objetos.
+📢 Por ejemplo para los vehiculos podemos encontrar autobus, camión, motocarro, etc.
+📢 La idea de crear una clase, es que sea una plantilla para crear otros objetos.
+📢 En una clase podemos indicar sus diferentes atributos y métodos(acciones).
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-3/imagenes/pagina_3_1.png)
+📢 Por ejemplo, si un carro tiene los siguiente atributos.
+    Color
+    Marca
+    Modelo
+    Peso
+    
+📢 Por ejemplo, si un carro tiene los siguiente atributos.
+    Encender
+    Frenar
+    Acelerar
+    
+📢 Podemos crear diferentes objetos teniendo definida la estructura.
+```
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-34/imagenes/pagina_34_1.png)
 
 ## Autores ✒️
 
