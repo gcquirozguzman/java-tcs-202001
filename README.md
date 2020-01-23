@@ -1,12 +1,15 @@
 # Taller Java TCS
 
-_Clase 3: Pendiente._
+_Clase 33: POO - Conceptos Fundamentales - Objeto._
 
 ```
-📢 Pendiente.
+📢 Un objeto en POO tiene como objetivo representar a alguna entidad de la vida real.
+📢 Por ejemplo, en el caso práctico que tenemos podemos identificar el primer objeto de la vida real que se convertirá en objeto en POO:
+  * Vehículo
+
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-3/imagenes/pagina_3_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-33/imagenes/pagina_33_1.png)
 
 ## Autores ✒️
 
