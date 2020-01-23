@@ -4,7 +4,7 @@ _Clase 20: Manejo de Cadenas._
 
 ```
 📢 Para el manejo de cadenas tenemos diferentes utilidades que nos facilitan el trabajo.
-📢 Para acceder solo basta con colocar un punto delante de la cadena y la opción de autocompletado nos brindará las opciones que podemos usar.
+📢 Para acceder solo basta con colocar un punto delante de la cadena y la opción de auto completado nos brindará las opciones que podemos usar.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-20/imagenes/pagina_20_5.png)
