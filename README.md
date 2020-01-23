@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 4: Pendiente._
+_Clase 41: Constructor._
 
 ```
 📢 Pendiente.
