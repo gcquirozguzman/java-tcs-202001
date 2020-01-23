@@ -39,7 +39,7 @@ _Clase 6: Tipo de Datos - Enteros._
 📢 Cuando necesitemos declarar una variable en java y asignarle un valor podemos hacerlo de la siguiente forma.
 📢 (TIPO DE DATO) + (NOMBRE DE VARIABLE) = (DATO)
 📢 Por ejemplo: int miPrimerValorInt = 1;
-📢 A continuación he colocado los 4 tipo de datos con los máximos valores que adminte. Si uno intenta sobreparar el límite nos mostrará un error.
+📢 A continuación he colocado los 4 tipo de datos con los máximos valores que admite. Si uno intenta sobrepasar el límite nos mostrará un error.
 📢 Para el caso de las variables de tipo "Long" se debe colocar al final de la cifra la letra "L".
 ```
 
