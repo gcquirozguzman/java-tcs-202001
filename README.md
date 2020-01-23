@@ -27,7 +27,7 @@ Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_3.png)
 
 ```
-📢 Probamos que la máquina reconozca el compilador. "javac -version"
+📢 Probamos que la máquina reconozca el compilador. "javac -versión"
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-03/imagenes/pagina_3_7.png)
@@ -40,8 +40,8 @@ Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro
 
 ```
 📢 En caso no se puedan configurar las variables de entorno por permisos, ejecutar lo siguiente: 
-    "SET PATH=%PATH%;C:\Program Files\Java\jdk1.8.0_171\bin;" o colocar la dirección de la carpeta de la version Java que se tenga instalado.
-📢 Luego volver a consultar la version de javac
+    "SET PATH=%PATH%;C:\Program Files\Java\jdk1.8.0_171\bin;" o colocar la dirección de la carpeta de la versión Java que se tenga instalado.
+📢 Luego volver a consultar la versión de javac
     "javac -version"
 ```
 
