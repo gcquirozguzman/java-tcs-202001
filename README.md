@@ -31,7 +31,7 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_5.png)
 
 ```
-📢 Se nos solicitará instalar tambien JRE. Seleccionamos siguiente.
+📢 Se nos solicitará instalar también JRE. Seleccionamos siguiente.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_6.png)
@@ -49,7 +49,7 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_8.png)
 
 ```
-📢 Modificaremos las variables de entorno del sistema. Para ingresasar a esta opción seleccionamos la tecla Windows y escribimos en la casilla "variable". Seleccionamos la opción que indica la imagen.
+📢 Modificaremos las variables de entorno del sistema. Para ingresar a esta opción seleccionamos la tecla Windows y escribimos en la casilla "variable". Seleccionamos la opción que indica la imagen.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-02/imagenes/pagina_9.png)
