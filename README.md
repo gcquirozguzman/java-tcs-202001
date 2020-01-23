@@ -74,9 +74,13 @@ _35) Modificadores de Acceso._
 
 _36) Modificadores de Acceso - Public._
 
-_37) Modificadores de Acceso - Private._
+_37) Modificadores de Acceso - Protect._
 
-_38) Modificadores de Acceso - Protect._
+_38) Modificadores de Acceso - Default._
+
+_39) Modificadores de Acceso - Private._
+
+
 
 ---- Pendiente
 
