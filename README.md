@@ -70,7 +70,7 @@ _33) POO - Conceptos Fundamentales - Objeto._
 
 _34) POO - Conceptos Fundamentales - Clase._
 
-_35) POO - Conceptos Fundamentales - Clase._
+_35) Modificadores de Acceso._
 
 _36) Modificadores de Acceso - Public._
 
