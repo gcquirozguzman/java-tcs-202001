@@ -14,7 +14,7 @@ _Clase 34: POO - Conceptos Fundamentales - Clase._
     Modelo
     Peso
     
-📢 Por ejemplo, si un carro tiene los siguiente atributos.
+📢 Por ejemplo, si un carro tiene los siguiente métodos.
     Encender
     Frenar
     Acelerar
