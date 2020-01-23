@@ -3,7 +3,7 @@
 _Clase 4: Usando Eclipse._
 
 ```
-📢 Para iniciar el IDE ingresamos a la carpeta que ha sido descargada en la clase 2. Ahi encontraremos el archivo exe que iniciará el IDE.
+📢 Para iniciar el IDE ingresamos a la carpeta que ha sido descargada en la clase 2. Ahí encontraremos el archivo exe que iniciará el IDE.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_1.png)
@@ -87,7 +87,7 @@ _Clase 4: Usando Eclipse._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_14.png)
 
 ```
-📢 Indicaremos un mensaje que queremos que se envie en la consola de Eclipse.
+📢 Indicaremos un mensaje que queremos que se envíe en la consola de Eclipse.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_15.png)
@@ -105,7 +105,7 @@ _Clase 4: Usando Eclipse._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_17.png)
 
 ```
-📢 Damos "Enter" y se generará automaticamente la estructura para documentar el método.
+📢 Damos "Enter" y se generará automáticamente la estructura para documentar el método.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_26.png)
@@ -160,7 +160,7 @@ _Clase 4: Usando Eclipse._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_24.png)
 
 ```
-📢 Vemos que nos envia el mensaje actualizado.
+📢 Vemos que nos envía el mensaje actualizado.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-04/imagenes/pagina_4_25.png)
