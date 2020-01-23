@@ -20,13 +20,13 @@ _Clase 17: BigDecimal._
 📢 Esto es debido a que las computadoras hacen el conteo en binario, y nosotros en decimal.
 📢 Ante este problema, uno de los caminos es el uso de BigDecimal.
 📢 Para poder usarlo necesitamos escribir "BigDecimal". Luego "CTRL + ESPACIO" para que nos muestre las opciones de importación.
-📢 Seleccionamos la libreria "java.math".
+📢 Seleccionamos la librería "java.math".
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-17/imagenes/pagina_17_3.png)
 
 ```
-📢 Esto agregará la libreria que queremos usar en la parte superior.
+📢 Esto agregará la librería que queremos usar en la parte superior.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-17/imagenes/pagina_17_4.png)
