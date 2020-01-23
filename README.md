@@ -26,7 +26,7 @@ _Clase 28: Ciclo - For._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-28/imagenes/pagina_28_1.png)
 
 ```
-📢  Quiero que se ejecute un bloque de código saltándo un número.
+📢  Quiero que se ejecute un bloque de código saltando un número.
   
   for(int i=0; i<=10;i=i+2){
     //Ejecutar Código
