@@ -1,12 +1,18 @@
 # Taller Java TCS
 
-_Clase 3: Pendiente._
+_Clase 39: Modificadores de Acceso - Private._
 
 ```
-📢 Pendiente.
+📢 Cuando se tiene el modificador de acceso "Private" se debe considerar lo siguiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-3/imagenes/pagina_3_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-39/imagenes/pagina_39_1.png)
+
+```
+📢 Esto quiere decir que se podrá acceder a ella solamente desde la misma clase.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-39/imagenes/pagina_39_2.png)
 
 ## Autores ✒️
 
