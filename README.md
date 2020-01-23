@@ -10,9 +10,10 @@ _Clase 38: Modificadores de Acceso - Default._
 
 ```
 📢 Esto quiere decir que se podrá acceder a ella desde la misma clase y desde otras clases que esten en el mismo paquete.
-📢 Nuestros atributos también pueden tener el modificador de acceso como default. Crearemos unos atributos para esta prueba.
+📢 Nuestros atributos también pueden tener el modificador de acceso como default. 
 📢 Debemos tener en cuenta que no será necesario agregar que la palabra "default".
 📢 Bastará con no asignarle ningun modificador de acceso.
+📢 Crearemos unos atributos para esta prueba.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-38/imagenes/pagina_38_2.png)
