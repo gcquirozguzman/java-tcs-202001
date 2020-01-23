@@ -17,7 +17,7 @@ _Clase 35: Modificadores de Acceso._
 
 ```
 📢 Para crear el proyecto abrimos nuestro IDE Eclipse.
-📢 Seleccionamos donde deseamos que esten nuestras fuentes.
+📢 Seleccionamos donde deseamos que estén nuestras fuentes.
 📢 Para mi caso, quiero que guarde las fuentes en la carpeta "java-tcs" en mi disco D.
 ```
 
@@ -54,7 +54,7 @@ _Clase 35: Modificadores de Acceso._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_6.png)
 
 ```
-📢 Seleccianmos en "No" para no cambiar las opciones que nos muestra el IDE por defecto.
+📢 Seleccionamos en "No" para no cambiar las opciones que nos muestra el IDE por defecto.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_7.png)
