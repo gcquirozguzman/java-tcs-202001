@@ -83,6 +83,12 @@ _Clase 35: Modificadores de Acceso._
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_11.png)
 
+```
+📢 Para las siguientes clases recordemos que un Paquete en Java es un contenedor de clases. Por ejemplo "main".
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_12.png)
+
 
 ## Autores ✒️
 
