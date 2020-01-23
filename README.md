@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 4: Pendiente._
+_Clase 43: Sobrecarga de Constructores._
 
 ```
 📢 Pendiente.
