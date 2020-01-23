@@ -10,7 +10,7 @@ _Clase 42: Sobrecarga de Métodos._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-42/imagenes/pagina_42_1.png)
 
 ```  
-📢 En una misma clase no puede existir otro método con el mismo nombre (corre) y con los mismos tipos de parametros (String).
+📢 En una misma clase no puede existir otro método con el mismo nombre (corre) y con los mismos tipos de parámetros (String).
 ```  
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-42/imagenes/pagina_42_2.png)
