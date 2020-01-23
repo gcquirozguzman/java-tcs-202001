@@ -3,7 +3,7 @@
 _Clase 13: Salida de Datos._
 
 ```
-📢 Cuandon queremos enviar un mensaje en la consola tenemos 2 opciones básicas para realizarlo.
+📢 Cuando queremos enviar un mensaje en la consola tenemos 2 opciones básicas para realizarlo.
 📢 La primera es: "System.out.print".
 📢 Esto nos permitirá imprimir en la consola sin salto de línea.
 ```
@@ -30,7 +30,7 @@ _Clase 13: Salida de Datos._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_4.png)
 
 ```
-📢 Es posible darle formato a nuestros mensaje.
+📢 Es posible darle formato a nuestros mensajes.
   \n : Salto de línea
   \t : Tabulador
   \\ : Diagonal inversa.
@@ -47,7 +47,7 @@ _Clase 13: Salida de Datos._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_6.png)
 
 ```
-📢 Podemos formar una cadena de mensaje de forma mas ordenada, esto usando la función "printf".
+📢 Podemos formar una cadena de mensaje de forma más ordenada, esto usando la función "printf".
 📢 Cadena: %s       -> Acepta parámetros de tipo cadena.
 📢 Entero: %d       -> Acepta parámetros de tipo entero.
 📢 Decimal: %10.2f  -> Acepta parámetros de tipo decimal.
@@ -58,7 +58,7 @@ _Clase 13: Salida de Datos._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_8.png)
 
 ```
-📢 Podemos encontrar mas información sobre los demás parámetros en el siguiente link.
+📢 Podemos encontrar más información sobre los demás parámetros en el siguiente link.
     https://www.baeldung.com/java-printstream-printf
 ```
 
