@@ -3,7 +3,7 @@
 _Clase 19: Operador Lógico._
 
 ```
-📢 A continuación detallamos los siguiente operadores lógicos.
+📢 A continuación detallamos los siguientes operadores lógicos.
     
     && Operador and (y)
     || Operador or (o)
