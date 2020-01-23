@@ -4,7 +4,7 @@ _Clase 34: POO - Conceptos Fundamentales - Clase._
 
 ```
 📢 En el mundo real existen diversos tipos de objetos.
-📢 Por ejemplo para los vehiculos podemos encontrar autobus, camión, motocarro, etc.
+📢 Por ejemplo para los vehículos podemos encontrar autobús, camión, motocarro, etc.
 📢 La idea de crear una clase, es que sea una plantilla para crear otros objetos.
 📢 En una clase podemos indicar sus diferentes atributos y métodos(acciones).
 
