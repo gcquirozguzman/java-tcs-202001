@@ -22,7 +22,7 @@ _Clase 14: Operadores Aritméticos._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-14/imagenes/pagina_14_1.png)
 
 ```
-📢 Podemos usar también lo siguientes operadores de asignación.
+📢 Podemos usar también los siguientes operadores de asignación.
 
   x-- 		se representa 		x = x - 1;
   x++ 		se representa 		x = x + 1;
