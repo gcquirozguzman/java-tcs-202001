@@ -70,29 +70,21 @@ _33) POO - Conceptos Fundamentales - Objeto._
 
 _34) POO - Conceptos Fundamentales - Clase._
 
-_35) POO - Conceptos Fundamentales - Atributo._
+_35) POO - Conceptos Fundamentales - Clase._
 
-_36) POO - Conceptos Fundamentales - Método._
+_36) Modificadores de Acceso - Public._
 
-_37) POO - Conceptos Fundamentales - Mensaje._
+_37) Modificadores de Acceso - Private._
 
------ PENDIENTE DEFINIR
+_38) Modificadores de Acceso - Protect._
 
-_35) Métodos._
-
-_36) Parámetros._
-
-_37) Modificadores de Acceso - Public._
-
-_38) Modificadores de Acceso - Private._
-
-_39) Modificadores de Acceso - Protect._
+---- Pendiente
 
 _40) Get y Set._
 
 _40) Constructor._
 
-
+_36) Parámetros._
 
 
 _42) Sobrecarga de Métodos._
