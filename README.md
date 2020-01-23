@@ -23,9 +23,9 @@ _Clase 5: Tipo de Datos._
 ### Rango
 
 ```
-📢 El tipo "int" del grupo de "Enteros" solo puede almaceran valores en este rango: (–2,147,483,648 a 2,147,483,647)
+📢 El tipo "int" del grupo de "Enteros" solo puede almacenar valores en este rango: (–2,147,483,648 a 2,147,483,647)
 📢 Si se trata de guardar el valor 4,000,000,000 en un tipo de valor "int" provocaríamos un error.
-📢 Si necesitamos guardar el valor 4,000,000,000 podemos usar uno con un rango mas amplio.
+📢 Si necesitamos guardar el valor 4,000,000,000 podemos usar uno con un rango más amplio.
 ```
 
 ### Espacio en Memoria
