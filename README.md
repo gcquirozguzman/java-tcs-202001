@@ -12,7 +12,7 @@ _Clase 37: Modificadores de Acceso - Protect._
 📢 Vamos a crear un atributo de tipo "Protect".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-37imagenes/pagina_37_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-37/imagenes/pagina_37_2.png)
 
 ## Autores ✒️
 
