@@ -3,8 +3,8 @@
 _Clase 24: Condicional - Switch._
 
 ```
-📢 Con Switch podemos hacer condiciones de una forma mas ordenada y estructurada.
-📢 Tenemos que tener en cuenta que luego de realizada la comparación tenemos que colocar break para finalizar la busqueda.
+📢 Con Switch podemos hacer condiciones de una forma más ordenada y estructurada.
+📢 Tenemos que tener en cuenta que luego de realizada la comparación tenemos que colocar break para finalizar la búsqueda.
 📢 Esta instrucción también tiene un else, para indicar todas las opciones restantes.
 ```
 
