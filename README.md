@@ -9,7 +9,7 @@ _Clase 25: Operador Ternario._
 ```
 A continuación indicamos el siguiente bloque condicional.
 
-  if(condicion){
+  if(condición){
     ejecutar A
   }else{
     ejecutar B
@@ -17,17 +17,17 @@ A continuación indicamos el siguiente bloque condicional.
 
 Este bloque podemos simplificarlo de la siguiente forma.
 
-  (condicion) ? ejecutar A : ejecutar B
+  (condición) ? ejecutar A : ejecutar B
   
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-25/imagenes/pagina_25_4.png)
 
 ```
-En caso de una condicion anidada, también es posible convertirla.
+En caso de una condición anidada, también es posible convertirla.
 
-  if(condicion){
-    if(condicion){
+  if(condición){
+    if(condición){
       ejecutar A.1
     }else{
       ejecutar A.2
@@ -38,7 +38,7 @@ En caso de una condicion anidada, también es posible convertirla.
 
 Este bloque podemos simplificarlo de la siguiente forma.
 
-  (condicion) ? ((condicion) ? ejecutar A.1 : ejecutar A.2) : ejecutar B
+  (condición) ? ((condición) ? ejecutar A.1 : ejecutar A.2) : ejecutar B
   
 ```
 
