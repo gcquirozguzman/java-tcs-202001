@@ -1,12 +1,88 @@
 # Taller Java TCS
 
-_Clase 3: Pendiente._
+_Clase 35: Modificadores de Acceso._
 
 ```
-📢 Pendiente.
+📢 Los atributos de la clase pueden ser accedidos dependiendo del tipo de acceso que se le dé.
+📢 Los diferentes tipos de acceso son:
+    public
+    protected
+    default
+    private
+    
+📢 A continuación crearemos nuestro objeto en un proyecto Java.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-3/imagenes/pagina_3_1.png)
+### Creación del Proyecto
+
+```
+📢 Para crear el proyecto abrimos nuestro IDE Eclipse.
+📢 Seleccionamos donde deseamos que esten nuestras fuentes.
+📢 Para mi caso, quiero que guarde las fuentes en la carpeta "java-tcs" en mi disco D.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_1.png)
+
+```
+📢 Si nos aparece una pantalla de bienvenida, solo la cerramos.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_2.png)
+
+```
+📢 Seleccionamos File>New>Other...
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_3.png)
+
+```
+📢 Buscamos la carpeta Java y seleccionamos "Java Project".
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_4.png)
+
+```
+📢 Indicamos un nombre para nuestro proyecto y seleccionamos "Next".
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_5.png)
+
+```
+📢 Seleccionamos finalizar.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_6.png)
+
+```
+📢 Seleccianmos en "No" para no cambiar las opciones que nos muestra el IDE por defecto.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_7.png)
+
+```
+📢 Seleccionamos el paquete "main" y hacemos clic derecho en ese elemento. Seleccionamos New > Class.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_8.png)
+
+```
+📢 A continuación indicaremos el nombre de nuestra clase.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_9.png)
+
+```
+📢 Creamos sus atributos.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_10.png)
+
+```
+📢 En las siguientes clases indicaremos a detalle estos modificadores de acceso.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-35/imagenes/pagina_35_11.png)
+
 
 ## Autores ✒️
 
