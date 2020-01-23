@@ -12,7 +12,7 @@ _Clase 12: Constantes._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-12/imagenes/pagina_12_1.png)
 
 ```
-📢 Si queremos modificar una variable estática tendriamos un error en la sintaxis. 
+📢 Si queremos modificar una variable estática tendríamos un error en la sintaxis. 
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-12/imagenes/pagina_12_2.png)
