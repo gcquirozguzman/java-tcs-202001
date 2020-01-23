@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 3: Pendiente._
+_Clase 36: Modificadores de Acceso - Public._
 
 ```
 📢 Pendiente.
