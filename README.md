@@ -13,7 +13,7 @@ _Clase 31: Arreglo - Recorriendo el arreglo._
     1) Desde donde iniciará el contador? 
       Necesitamos que inicie en 0. Desde el inicio del arreglo.
     2) Hasta donde ejecutará? 
-      Queremos que ejecute hasta el final. Que obtenga los valores [0],[1],[2],[3],[4]. Osea que nuestro ciclo se recorrerá mientras sea menor a 5.
+      Queremos que ejecute hasta el final. Que obtenga los valores [0],[1],[2],[3],[4]. O sea que nuestro ciclo se recorrerá mientras sea menor a 5.
     3) Cada cuanto aumentará el contador?
       Queremos que muestre todos, así que será de 1 en 1.
 ```
