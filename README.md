@@ -1,12 +1,12 @@
 # Taller Java TCS
 
-_Clase 4: Pendiente._
+_Clase 44: Static._
 
 ```
 📢 Pendiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-4/imagenes/pagina_4_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-44/imagenes/pagina_44_1.png)
 
 ## Autores ✒️
 
