@@ -5,7 +5,7 @@ _Clase 16: Parsing._
 ```
 📢 Nos permite analizar el valor de una variable para convertirlo a otro tipo.
 📢 En el siguiente ejemplo tenemos la cadena "2050". Si queremos guardarla en una variable entera o decimal, es necesario convertirla.
-📢 Para el primer caso estamos conviertiendo el valor en Integer. Para el seguro en Double.
+📢 Para el primer caso estamos convirtiendo el valor en Integer. Para el seguro en Double.
 📢 Tener en cuenta que las clases Wrapper nos ofrecen diferentes métodos. Para llamarlos, solo basta colocar el punto y luego "CTRL + ESPACIO".
 ```
 
