@@ -3,7 +3,7 @@
 _Clase 22: Condicional - Else If._
 
 ```
-📢 Cuando tenemos mas de 1 condición a evaluar podemos usar la siguiente instrucción.
+📢 Cuando tenemos más de 1 condición a evaluar podemos usar la siguiente instrucción.
 📢 Condicional ELSE IF
 
   si(condición){
