@@ -17,7 +17,7 @@ _Clase 41: Constructor._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-41/imagenes/pagina_41_2.png)
 
 ```
-📢 Vemos que el constructor nos pide como parametros:
+📢 Vemos que el constructor nos pide como parámetros:
     
     String color, String marca, String modelo, Integer peso
     
