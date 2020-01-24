@@ -96,7 +96,7 @@ _46) Herencia ._
 
 _47) Herencia - Sobreescritura de Métodos._
 
-_48) Herencia - Super._
+_48) Herencia - Super y This._
 
 _49) Herencia  - Sobrescritura de Contructor._
 
