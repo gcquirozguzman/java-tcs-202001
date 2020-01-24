@@ -1,12 +1,38 @@
 # Taller Java TCS
 
-_Clase 4: Pendiente._
+_Clase 48: Herencia - Super y This._
+
+### Super
 
 ```
-📢 Pendiente.
+📢 La referencia "Super" permite llamar a los métodos y variables de la super clase. 
+📢 Por ejemplo, crearé el método "llamar_persona()" en la clase Alumno.
+📢 Desde ahi llamaré al método "mensaje()" de la clase Persona
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-4/imagenes/pagina_4_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-48/imagenes/pagina_48_1.png)
+
+### This
+
+```
+📢 La referencia "This" puede ser usada dentro de cualquier método para referirse a un objeto de la misma clase.
+📢 Por ejemplo, cuando yo quiero modificar el valor de mi objeto con el parámetros que reciba uso "this"
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-48/imagenes/pagina_48_7.png)
+
+```
+📢  "This" también puede invocar al constructor de la misma subclase.
+📢  Separaré al constructor que tengo, separando los parámetros heredados.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-48/imagenes/pagina_48_8.png)
+
+```
+📢  Agregando "This" puedo llamar al constructor que acabo de crear dentro de otro.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-48/imagenes/pagina_48_9.png)
 
 ## Autores ✒️
 
