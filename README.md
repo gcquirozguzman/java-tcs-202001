@@ -13,13 +13,13 @@ _Clase 46: Herencia._
 
 ```
 📢 A partir de esto podemos nombrar a la clase Persona como "Superclase" y a las clases Alumno y Profesor como "Subclase".
-📢 Procederémos a representarlo en el código creando las clases Persona, Alumno y Profesor.
+📢 Procederemos a representarlo en el código creando las clases Persona, Alumno y Profesor.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_2.png)
 
 ```
-📢 Agregaremos los atributos que hemos indicado en la gráfica con sus get, set y contructor.
+📢 Agregaremos los atributos que hemos indicado en la gráfica con sus get, set y constructor.
 ```
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_3.png)
 
@@ -48,7 +48,7 @@ _Clase 46: Herencia._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_9.png)
 
 ```
-📢 Si llamo a la clase Alumno y a su costructor para crear un objeto ya me aparecen todos los atributos.
+📢 Si llamo a la clase Alumno y a su constructor para crear un objeto ya me aparecen todos los atributos.
 ```
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_10.png)
 
