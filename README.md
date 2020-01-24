@@ -98,9 +98,7 @@ _47) Herencia - Sobreescritura de Métodos._
 
 _48) Herencia - Super y This._
 
-_49) Herencia  - Sobrescritura de Contructor._
-
-_50) Polimorfismo._
+_49) Polimorfismo._
 
 _50) Clases Abstractas._
 
