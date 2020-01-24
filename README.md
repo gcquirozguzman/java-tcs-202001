@@ -7,7 +7,7 @@ _Clase 48: Herencia - Super y This._
 ```
 📢 La referencia "Super" permite llamar a los métodos y variables de la super clase. 
 📢 Por ejemplo, crearé el método "llamar_persona()" en la clase Alumno.
-📢 Desde ahi llamaré al método "mensaje()" de la clase Persona
+📢 Desde ahí llamaré al método "mensaje()" de la clase Persona
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-48/imagenes/pagina_48_1.png)
@@ -16,7 +16,7 @@ _Clase 48: Herencia - Super y This._
 
 ```
 📢 La referencia "This" puede ser usada dentro de cualquier método para referirse a un objeto de la misma clase.
-📢 Por ejemplo, cuando yo quiero modificar el valor de mi objeto con el parámetros que reciba uso "this"
+📢 Por ejemplo, cuando yo quiero modificar el valor de mi objeto con los parámetros que reciba uso "this"
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-48/imagenes/pagina_48_7.png)
