@@ -1,12 +1,22 @@
 # Taller Java TCS
 
-_Clase 4: Pendiente._
+_Clase 45: Final._
 
 ```
-📢 Pendiente.
+📢 Tengamos en cuenta que una variables de tipo final no pueden ser sobreescrito. 
+📢 Usaré la clase VariablesSistema.
+📢 Agregaré una variable de tipo final.
+📢 También le agregaré el modificador static para poder llamarla en la clase Principal facilmente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-4/imagenes/pagina_4_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-45/imagenes/pagina_45_1.png)
+
+```
+📢 Agregaré la variable y trataré de asignarle un valor.
+📢 El IDE me advertirá que esto no es posible.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-45/imagenes/pagina_45_2.png)
 
 ## Autores ✒️
 
