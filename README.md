@@ -108,6 +108,8 @@ _52) Varias Interfaces._
 
 _53) Default en Interfaces._
 
+_54) Llamando una Interfaz._
+
 _54) Interactuando con la Consola._
 
 _55) JOptionPane._
