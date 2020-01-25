@@ -23,6 +23,11 @@ _Clase 54: Interactuando con la Consola._
 📢 Informamos que ya no usaremos el objeto Scanner, de esta forma liberamos recursos.
 
     scanner.close();
+
+📢 Tener en cuenta que las librerías importadas son las siguiente.
+
+    import java.io.InputStream;
+    import java.util.Scanner;
     
 ```
 
