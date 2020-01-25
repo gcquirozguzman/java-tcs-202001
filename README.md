@@ -23,7 +23,7 @@ _Clase 53: Default en Interfaces._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-53/imagenes/pagina_53_3.png)
 
 ```
-📢 De esta forma, en todas las clases que llama a la interfaz, implicitamente se ha agregado el método y su implementación.
+📢 De esta forma, en todas las clases que llama a la interfaz, implícitamente se ha agregado el método y su implementación.
 ```
 
 ## Autores ✒️
