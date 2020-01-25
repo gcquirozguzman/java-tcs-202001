@@ -1,6 +1,6 @@
 # Taller Java TCS
 
-_Clase 4: Pendiente._
+_Clase 54: Interactuando con la Consola._
 
 ```
 📢 Pendiente.
