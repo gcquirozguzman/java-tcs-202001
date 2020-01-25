@@ -54,6 +54,15 @@ _Clase 49: Polimorfismo._
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-49/imagenes/pagina_49_8.png)
 
+```
+📢 Para aclarar el funcionamiento de lo explicado agregaré la siguiente gráfica.
+📢 Cuando asignamos la clase hija a una clase padre sucede lo siguiente.
+📢 Aún conservará intactos los métodos que no obtenga coincidencia con la clase padre.
+📢 El método getDespedir() por ejemplo, no sobreescribira nada de la clase padre porque ahi no existe un método similar.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-49/imagenes/pagina_49_9.png)
+
 ## Autores ✒️
 
 * **Gian Carlo Quiroz Guzmán** - *Proyecto Demo* - [gcquirozguzman](https://github.com/gcquirozguzman)
