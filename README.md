@@ -46,7 +46,7 @@ _Clase 51: Interfaces._
 ```
 📢 Vemos que ha salido una advertencia.
 📢 Esto nos indica que debemos llamar a los métodos de la interfaz.
-📢 Posicionamos el cursor sobre la linea roja de la advertencia.
+📢 Posicionamos el cursor sobre la línea roja de la advertencia.
 📢 Seleccionamos la primera opción.
 ```
 
@@ -62,7 +62,7 @@ _Clase 51: Interfaces._
 📢 El método estudiar no me pide que retorne nada.
 📢 El método obtenerNota() me pide que le retorne un Integer.
 📢 El método obtenerNombre() me pide que le retorne un String.
-📢 El método obtenerNombre(String codigoAlumno) me pide que le retorne un String y que le envie un parámetro para que pueda usarlo.
+📢 El método obtenerNombre(String codigoAlumno) me pide que le retorne un String y que le envíe un parámetro para que pueda usarlo.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-51/imagenes/pagina_51_9.png)
