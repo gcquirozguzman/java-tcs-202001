@@ -106,17 +106,15 @@ _51) Interfaces._
 
 _52) Varias Interfaces._
 
-_53) Extend._
+_53) Default en Interfaces._
 
-_54) Default en Interfaces._
+_54) Interactuando con la Consola._
 
-_55) Interactuando con la Consola._
+_55) JOptionPane._
 
-_56) JOptionPane._
+_56) Generar Ejecutable._
 
-_57) Generar Ejecutable._
-
-_58) Recomendaciones._
+_57) Recomendaciones._
 
 ## Herramientas 🛠️
 
