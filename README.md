@@ -135,6 +135,14 @@ _Clase 55: JOptionPane._
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_16.png)
 
+### Indicaciones
+
+```
+📢 Si se desea conocer todas las opciones que tiene, por ejemplo JOptionPane, solo bastaría agregar la palabra y luego el punto. Ahí aparecerán las opciones.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_17.png)
+
 ## Autores ✒️
 
 * **Gian Carlo Quiroz Guzmán** - *Proyecto Demo* - [gcquirozguzman](https://github.com/gcquirozguzman)
