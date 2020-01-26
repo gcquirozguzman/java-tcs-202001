@@ -17,7 +17,9 @@ Todo empieza cuando Los archivos Java ingresan a su COMPILADOR y son convertidos
 
 Estos archivos se componen de ByteCode, que son un conjunto de instrucciones optimizadas que se encuentran preparadas para ser ejecutadas y consumidas por nuestra máquina virtual de Java (JVM).
 
-Entre el Byte Code (o el MSIL en el caso de .NET) y el sistema operativo se coloca un componente especial llamado Máquina virtual que es el que realmente va a ejecutar el código.
+Lo último que tenemos que entender es que entre el Byte Code y el sistema operativo se coloca nuestra Máquina Virtual que es el que realmente va a ejecutar el código
+
+A continuación unos conceptos interesantes.
 
 ```
 📢 JRE - Donde está la máquina virtual
