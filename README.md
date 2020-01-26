@@ -12,7 +12,12 @@ Cuando hablamos de Java tenemos que entender que este nombre hace referencia a 2
 ```
 
 A continuación te explicaré como funciona la plataforma en donde ejecutaremos nuestras aplicaciones. 
-Todo empieza cuando Los archivos Java ingresan a su COMPILADOR y son convertidos en archivos .class. Estos archivos se componen de ByteCode, que son un conjunto de instrucciones optimizadas que se encuentran preparadas para ser ejecutadas y consumidas por nuestra máquina virtual de Java (JVM).
+
+Todo empieza cuando Los archivos Java ingresan a su COMPILADOR y son convertidos en archivos .class. 
+
+Estos archivos se componen de ByteCode, que son un conjunto de instrucciones optimizadas que se encuentran preparadas para ser ejecutadas y consumidas por nuestra máquina virtual de Java (JVM).
+
+Entre el Byte Code (o el MSIL en el caso de .NET) y el sistema operativo se coloca un componente especial llamado Máquina virtual que es el que realmente va a ejecutar el código.
 
 ```
 📢 JRE - Donde está la máquina virtual
