@@ -2,7 +2,7 @@
 
 _Clase 1: Hablemos un poco de Java._
 
-Te presento la plataforma en donde ejecutaremos nuestras aplicaciones. Los archivos Java ingresan al COMPILADOR y son convertidos en .class. Estos archivos se componen de ByteCode, que son un conjunto de instrucciones optimizadas que se encuentran preparadas para ser ejecutadas y consumidas por nuestra máquina virtual de Java (JVM).
+A continuación te explicare como funciona la plataforma en donde ejecutaremos nuestras aplicaciones. Los archivos Java ingresan al COMPILADOR y son convertidos en .class. Estos archivos se componen de ByteCode, que son un conjunto de instrucciones optimizadas que se encuentran preparadas para ser ejecutadas y consumidas por nuestra máquina virtual de Java (JVM).
 
 ```
 📢 JRE - Donde está la máquina virtual
