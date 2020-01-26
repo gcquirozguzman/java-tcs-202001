@@ -2,7 +2,18 @@
 
 _Clase 1: Hablemos un poco de Java._
 
-A continuación te explicare como funciona la plataforma en donde ejecutaremos nuestras aplicaciones. Los archivos Java ingresan al COMPILADOR y son convertidos en .class. Estos archivos se componen de ByteCode, que son un conjunto de instrucciones optimizadas que se encuentran preparadas para ser ejecutadas y consumidas por nuestra máquina virtual de Java (JVM).
+Cuando hablamos de Java tenemos que entender que este nombre hace referencia a 2 cosas
+
+```
+📢 Lenguaje de Programación
+    Es un lenguaje que nos permite escribir instrucciones con la finalidad de controlar el comportamiento físico y/o lógico de una computadora.
+📢 Plataforma Informática
+    Es un entorno o plataforma capaz de ejecutar aplicaciones desarrolladas usando el lenguaje de programación Java.
+```
+
+En esta primera 
+A continuación te explicaré como funciona la plataforma en donde ejecutaremos nuestras aplicaciones. 
+Todo empieza cuando Los archivos Java ingresan al COMPILADOR y son convertidos en .class. Estos archivos se componen de ByteCode, que son un conjunto de instrucciones optimizadas que se encuentran preparadas para ser ejecutadas y consumidas por nuestra máquina virtual de Java (JVM).
 
 ```
 📢 JRE - Donde está la máquina virtual
