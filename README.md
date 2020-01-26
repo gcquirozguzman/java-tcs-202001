@@ -11,15 +11,14 @@ Cuando hablamos de Java tenemos que entender que este nombre hace referencia a 2
     Es un entorno o plataforma capaz de ejecutar aplicaciones desarrolladas usando el lenguaje de programación Java.
 ```
 
-En esta primera 
 A continuación te explicaré como funciona la plataforma en donde ejecutaremos nuestras aplicaciones. 
-Todo empieza cuando Los archivos Java ingresan al COMPILADOR y son convertidos en .class. Estos archivos se componen de ByteCode, que son un conjunto de instrucciones optimizadas que se encuentran preparadas para ser ejecutadas y consumidas por nuestra máquina virtual de Java (JVM).
+Todo empieza cuando Los archivos Java ingresan a su COMPILADOR y son convertidos en archivos .class. Estos archivos se componen de ByteCode, que son un conjunto de instrucciones optimizadas que se encuentran preparadas para ser ejecutadas y consumidas por nuestra máquina virtual de Java (JVM).
 
 ```
 📢 JRE - Donde está la máquina virtual
 📢 JDK - Incluye el JRE y compilador de java
 ```
-
+    
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/imagenes/plataforma.png)
 
 WORA significa Escribir una vez, Ejecutar en cualquier lugar.
