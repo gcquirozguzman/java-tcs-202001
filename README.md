@@ -26,7 +26,7 @@ A continuación unos conceptos interesantes.
 📢 JDK - Incluye el JRE y compilador de java
 ```
     
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/imagenes/plataforma.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_1_1.png)
 
 WORA significa Escribir una vez, Ejecutar en cualquier lugar.
 
@@ -35,7 +35,7 @@ WORA significa Escribir una vez, Ejecutar en cualquier lugar.
 📢 No olvidemos que cada dispositivo tiene una diferente arquitectura, sin embargo existe una JVM para cada entorno (Windows, Linux, Android, etc).
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-01/imagenes/wora.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_1_2.png)
 
 Java maneja diferentes ediciones para diferentes problemáticas en nuestro día a día.
 
