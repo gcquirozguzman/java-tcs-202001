@@ -10,49 +10,49 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 📢 Ingresamos a la página de descargas (https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_01.png)
 
 ```
 📢 Nos dirigimos al JDK con la versión que requerimos y aceptamos la licencia.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_02.png)
 
 ```
 📢 Seleccionamos el archivo tipo exe
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_03.png)
 
 ```
 📢 Ejecutamos el archivo descargado y seleccionamos continuar hasta el final
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_5.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_05.png)
 
 ```
 📢 Se nos solicitará instalar también JRE. Seleccionamos siguiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_6.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_06.png)
 
 ```
 📢 Esperamos a que finalice la instalación.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_7.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_07.png)
 
 ```
 📢 La instalación ha terminado.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_8.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_08.png)
 
 ```
 📢 Modificaremos las variables de entorno del sistema. Para ingresar a esta opción seleccionamos la tecla Windows y escribimos en la casilla "variable". Seleccionamos la opción que indica la imagen.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_9.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_02_09.png)
 
 ```
 📢 Seleccionamos botón "Variable de entorno".
