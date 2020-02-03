@@ -114,7 +114,7 @@ _55) JOptionPane._
 
 _56) Generar Ejecutable._
 
-## Recomendaciones 🚀
+## Recomendaciones 😊
 
 _Este taller tiene parte teórica y práctica, las cuales son necesarias para comprender en su totalidad los temas._
 
