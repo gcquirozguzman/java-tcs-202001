@@ -1,6 +1,6 @@
 # Taller Java TCS                                                                       
 
-📄 ##Regresar a la página principal
+📄 ## Regresar a la página principal
 
 _Clase 1: Hablemos un poco de Java._
 
