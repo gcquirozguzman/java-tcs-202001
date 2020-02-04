@@ -2,7 +2,8 @@
 
 ## Temario 🚀
 
-The Link [Registration](http://www.registration.com)
+<a href="http://example.com/" target="_blank">example</a>
+
 
 _1) Hablemos un poco de Java._
 
