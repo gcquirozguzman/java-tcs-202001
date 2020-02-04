@@ -1,5 +1,5 @@
 # Taller Java TCS                                                                       
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001)
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CNAAA00001)
 
 _Clase 1: Hablemos un poco de Java._
 
@@ -52,4 +52,4 @@ Java maneja diferentes ediciones para diferentes problemáticas en nuestro día 
 
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
 
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001)
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CNAAA00001)
