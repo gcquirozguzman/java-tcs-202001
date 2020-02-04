@@ -2,7 +2,8 @@
 
 ## Temario 🚀
 
-<a href="http://example.com/" target="_blank">example</a>
+[go](http://stackoverflow.com){:target="_blank"}.
+
 
 
 _1) Hablemos un poco de Java._
