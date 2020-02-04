@@ -1,8 +1,10 @@
-# Taller Java TCS
+# Taller Java TCS                                                                       
+
+##📄 Regresar a la página principal
 
 _Clase 1: Hablemos un poco de Java._
 
-📄 Regresar a la página principal
+
 
 Cuando hablamos de Java tenemos que entender que este nombre hace referencia a 2 cosas
 
