@@ -4,7 +4,7 @@
 
 _[1) Hablemos un poco de Java.](https://github.com/gcquirozguzman/java-tcs-202001/tree/HUPCJ00001)_ 
 
-_2) Configuremos nuestro ambiente._
+_[2) Configuremos nuestro ambiente.](https://github.com/gcquirozguzman/java-tcs-202001/tree/CNAAA00001)_ 
 
 _3) Hola Mundo._
 
