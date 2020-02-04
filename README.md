@@ -1,9 +1,8 @@
 # Taller Java TCS                                                                       
 
-📄 ## Regresar a la página principal
+#### 📄 [Regresar a la página principal](https://github.com/gcquirozguzman/java-tcs-202001)
 
-_Clase 1: Hablemos un poco de Java._
-
+_[1) Hablemos un poco de Java.](https://github.com/gcquirozguzman/java-tcs-202001/tree/HUPCJ00001)_ 
 
 
 Cuando hablamos de Java tenemos que entender que este nombre hace referencia a 2 cosas
