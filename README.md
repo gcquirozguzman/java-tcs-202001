@@ -2,7 +2,7 @@
 
 ## Temario 🚀
 
-[_1) Hablemos un poco de Java.](https://github.com/gcquirozguzman/java-tcs-202001/tree/HUPCJ00001)_ 
+_[1) Hablemos un poco de Java.](https://github.com/gcquirozguzman/java-tcs-202001/tree/HUPCJ00001)_ 
 
 _2) Configuremos nuestro ambiente._
 
