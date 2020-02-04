@@ -1,8 +1,8 @@
 # Taller Java TCS                                                                       
 
-#### 🗃️ [Regresar a la página principal](https://github.com/gcquirozguzman/java-tcs-202001)
+#### 🗃️ [Regresar a la página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📏 #### 📥 [Regresar a la página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📏 #### 📤 [Regresar a la página principal](https://github.com/gcquirozguzman/java-tcs-202001)
 
-#### 📲 [Regresar a la página principal](https://github.com/gcquirozguzman/java-tcs-202001)
+
 
 _Clase 1: Hablemos un poco de Java._
 
