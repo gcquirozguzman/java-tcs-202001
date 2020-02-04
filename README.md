@@ -2,10 +2,6 @@
 
 ## Temario 🚀
 
-[go](http://stackoverflow.com){:target="_blank"}.
-
-
-
 _1) Hablemos un poco de Java._
 
 _2) Configuremos nuestro ambiente._
