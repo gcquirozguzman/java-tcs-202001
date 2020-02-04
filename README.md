@@ -6,55 +6,55 @@ _Clase 4: Usando Eclipse._
 📢 Para iniciar el IDE ingresamos a la carpeta que ha sido descargada en la clase 2. Ahí encontraremos el archivo exe que iniciará el IDE.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_01.png)
 
 ```
 📢 Esperaremos a que inicie.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_02.png)
 
 ```
 📢 Indicamos donde queremos que esté nuestro proyecto Java.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_03.png)
 
 ```
 📢 Cerramos la pantalla de bienvenida.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_4.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_04.png)
 
 ```
 📢 Crearemos nuestro proyecto Java de la siguiente forma.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_5.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_05.png)
 
 ```
 📢 Seleccionamos el tipo de proyecto que queremos.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_6.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_06.png)
 
 ```
 📢 Indicamos el nombre del proyecto.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_7.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_07.png)
 
 ```
 📢 Si nos aparece este mensaje, podemos omitirlo. Es para cambiar la apariencia de nuestro ambiente de trabajo.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_8.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_08.png)
 
 ```
 📢 Crearemos un paquete en donde pondremos nuestro archivo Java. Este paquete es como una carpeta en donde pondremos nuestro archivo.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_9.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/UEAAA00001_09.png)
 
 ```
 📢 Indicaremos el nombre de los paquetes (main.java). Esto quiere decir que se creará un paquete de nombre main y dentro de este, un paquete de nombre java.
