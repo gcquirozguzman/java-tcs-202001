@@ -2,7 +2,7 @@
 
 ## Temario 🚀
 
-_1) Hablemos un poco de Java._
+_1) [Hablemos un poco de Java](http://stackoverflow.com)._ 
 
 _2) Configuremos nuestro ambiente._
 
