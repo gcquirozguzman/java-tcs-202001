@@ -2,8 +2,7 @@
 
 #### 📄 [Regresar a la página principal](https://github.com/gcquirozguzman/java-tcs-202001)
 
-_[1) Hablemos un poco de Java.](https://github.com/gcquirozguzman/java-tcs-202001/tree/HUPCJ00001)_ 
-
+_Clase 1: Hablemos un poco de Java._
 
 Cuando hablamos de Java tenemos que entender que este nombre hace referencia a 2 cosas
 
