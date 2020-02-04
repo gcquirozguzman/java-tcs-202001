@@ -8,7 +8,7 @@ Pondremos en práctica lo indicado en la clase 1.
 📢 En una carpeta crearemos un archivo Java de nombre HolaMundo.java
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_03_01.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_01.png)
 
 ```
 📢 Editamos el archivo JAVA.
@@ -18,25 +18,25 @@ Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro
 📢 Dentro del método "public static void main" imprimiremos un mensaje en la consola, "Hola Mundo". 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_03_02.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_02.png)
 
 ```
 📢 Para que la VM lea estas instrucciones, necesitamos convertir el Java en Class.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_03_03.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_03.png)
 
 ```
 📢 Probamos que la máquina reconozca el compilador. "javac -versión"
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_03_07.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_07.png)
 
 ```
 📢 Es posible que no reconozca el compilador.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_03_08.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_08.png)
 
 ```
 📢 En caso no se puedan configurar las variables de entorno por permisos, ejecutar lo siguiente: 
@@ -45,7 +45,7 @@ Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro
     "javac -version"
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_03_09.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_09.png)
 
 ```
 📢 Nos situamos en la carpeta donde tenemos creado nuestro "HolaMundo.java".
@@ -53,32 +53,32 @@ Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro
 📢 Lo que vamos a realizar ahora es convertir nuestro JAVA en CLASS. Para esto usamos javac(Java Compile).
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_03_04.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_04.png)
 
 ```
 📢 Podemos ver que se ha creado un archivo de clase Java con ByteCode en su interior.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_03_05.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_05.png)
 
 ```
 📢 Ahora invocaremos a la JVM para que pueda consumirlo.
 📢 Ingresamos la siguiente instrucción: java HolaMundo
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_03_06.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_06.png)
 
 ```
 📢 Modificaremos el archivo Java agregando nuestro nombre.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_03_10.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_10.png)
 
 ```
 📢 Al modificar el archivo tendremos que volver a compilar con el programa "javac" y volver a consumirlo con el JVM.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/clase_03_11.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_11.png)
 
 ## Autores ✒️
 
