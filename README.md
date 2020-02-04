@@ -46,10 +46,10 @@ Java maneja diferentes ediciones para diferentes problemáticas en nuestro día 
 📢 JEE - Se utiliza para desarrollar aplicaciones web empresariales
 ```
 
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001)
-
 ## Autores ✒️
 
 * **Gian Carlo Quiroz Guzmán** - *Proyecto Demo* - [gcquirozguzman](https://github.com/gcquirozguzman)
 
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
+
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001)
