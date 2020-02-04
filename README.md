@@ -12,19 +12,19 @@ _[4) Usando Eclipse.](https://github.com/gcquirozguzman/java-tcs-202001/tree/UEA
 
 _[5) Tipo de Datos.](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDD0100001)_ 
 
-_[6) Tipo de Datos - Enteros.](https://github.com/gcquirozguzman/java-tcs-202001/tree/00001)_ 
+_[6) Tipo de Datos - Enteros.](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDE100001)_ 
 
-_[7) Tipo de Datos - Decimales.](https://github.com/gcquirozguzman/java-tcs-202001/tree/00001)_ 
+_[7) Tipo de Datos - Decimales.](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDD100001)_ 
 
-_[8) Tipo de Datos - Caracteres.](https://github.com/gcquirozguzman/java-tcs-202001/tree/00001)_ 
+_[8) Tipo de Datos - Caracteres.](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDC100001)_ 
 
-_[9) Tipo de Datos - Booleano.](https://github.com/gcquirozguzman/java-tcs-202001/tree/00001)_ 
+_[9) Tipo de Datos - Booleano.](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDB100001)_ 
 
-_[10) Clases de Java Wrapper.](https://github.com/gcquirozguzman/java-tcs-202001/tree/00001)_ 
+_[10) Clases de Java Wrapper.](https://github.com/gcquirozguzman/java-tcs-202001/tree/CDJW100001)_ 
 
-_[11) Palabras Reservadas.](https://github.com/gcquirozguzman/java-tcs-202001/tree/00001)_ 
+_[11) Palabras Reservadas.](https://github.com/gcquirozguzman/java-tcs-202001/tree/PR00100001)_ 
 
-_[12) Constantes.](https://github.com/gcquirozguzman/java-tcs-202001/tree/00001)_ 
+_[12) Constantes.](https://github.com/gcquirozguzman/java-tcs-202001/tree/CST0100001)_ 
 
 _[13) Salida de Datos.](https://github.com/gcquirozguzman/java-tcs-202001/tree/00001)_ 
 
