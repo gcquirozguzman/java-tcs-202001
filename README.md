@@ -1,4 +1,5 @@
 # Taller Java TCS
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/MPRI100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/TRUC100001)
 
 _Clase 40: Get y Set._
 
@@ -42,6 +43,6 @@ _Clase 40: Get y Set._
 
 * **Gian Carlo Quiroz Guzmán** - *Proyecto Demo* - [gcquirozguzman](https://github.com/gcquirozguzman)
 
-
-
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
+
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/MPRI100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/TRUC100001)
