@@ -1,4 +1,5 @@
 # Taller Java TCS
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/STRU100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/FNAL100001)
 
 _Clase 44: Static._
 
@@ -71,6 +72,6 @@ _Clase 44: Static._
 
 * **Gian Carlo Quiroz Guzmán** - *Proyecto Demo* - [gcquirozguzman](https://github.com/gcquirozguzman)
 
-
-
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
+
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/STRU100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/FNAL100001)
