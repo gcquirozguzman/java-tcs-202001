@@ -1,5 +1,5 @@
 # Taller Java TCS
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/ICLC100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/GE00100001 )
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/ICLC100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/GE00100001)
 
 _Clase 55: JOptionPane._
 
@@ -150,4 +150,4 @@ _Clase 55: JOptionPane._
 
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
 
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/ICLC100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/GE00100001 )
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/ICLC100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/GE00100001)
