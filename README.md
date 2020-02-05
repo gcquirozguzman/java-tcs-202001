@@ -1,4 +1,5 @@
 # Taller Java TCS
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CEI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CS00100001)
 
 _Clase 23: Condicional - Anidada._
 
@@ -37,6 +38,6 @@ _Clase 23: Condicional - Anidada._
 
 * **Gian Carlo Quiroz Guzmán** - *Proyecto Demo* - [gcquirozguzman](https://github.com/gcquirozguzman)
 
-
-
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
+
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CEI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CS00100001)
