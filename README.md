@@ -1,4 +1,5 @@
 # Taller Java TCS
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDC100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CDJW100001)
 
 _Clase 9: Tipo de Datos - Booleano._
 
@@ -28,6 +29,6 @@ _Clase 9: Tipo de Datos - Booleano._
 
 * **Gian Carlo Quiroz Guzmán** - *Proyecto Demo* - [gcquirozguzman](https://github.com/gcquirozguzman)
 
-
-
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
+
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDC100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CDJW100001)
