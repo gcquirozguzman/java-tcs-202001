@@ -28,13 +28,13 @@ _Clase 6: Tipo de Datos - Enteros._
 📢 Crearemos una clase en donde practicaremos lo aprendido.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_1.png)
 
 ```
 📢 Le colocaremos de nombre TipoDatos e indicaremos que se le agregue el método "main".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_2.png)
 
 ```
 📢 Cuando necesitemos declarar una variable en java y asignarle un valor podemos hacerlo de la siguiente forma.
@@ -44,33 +44,33 @@ _Clase 6: Tipo de Datos - Enteros._
 📢 Para el caso de las variables de tipo "Long" se debe colocar al final de la cifra la letra "L".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_3.png)
 
 ```
 📢 Ejecutamos para ver la salida.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_4.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_4.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_5.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_5.png)
 
 ```
 📢 Si queremos crear una variable, solo bastará con indicar el tipo de datos y el nombre de la variable.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_6.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_6.png)
 
 ```
 📢 Cuando necesitemos asignarle un valor podemos llamarle y hacerlo.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_7.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_7.png)
 
 ```
 📢 Si queremos declarar varias variables en una línea es posible de la siguiente forma.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-06/imagenes/pagina_6_8.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_8.png)
 
 
 ## Autores ✒️
