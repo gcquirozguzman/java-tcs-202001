@@ -11,6 +11,7 @@ _Clase 8: Tipo de Datos - Caracteres._
 ```
 
 ```
+📢 Crearemos la clase "TipoDatosCaracteres" en donde pondremos nuestro código.
 📢 Para el caso de las variables de tipo "char", este puede aceptar las siguientes entradas.
 ```
 
