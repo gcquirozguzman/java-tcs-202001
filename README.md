@@ -18,6 +18,7 @@ _Clase 7: Tipo de Datos - Decimales._
 
 ```
 📢 A continuación he colocado los 4 tipo de datos con los máximos valores que admite. Si uno intenta sobrepasar el límite nos mostrará un error.
+📢 Crearemos la clase "TipoDatosDecimales" en donde pondremos nuestro código.
 📢 Para el caso de las variables de tipo "Float" se debe colocar al final de la cifra la letra "F".
 ```
 
