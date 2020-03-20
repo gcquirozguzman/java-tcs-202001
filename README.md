@@ -34,7 +34,7 @@ _Clase 6: Tipo de Datos - Enteros._
 📢 Le colocaremos de nombre TipoDatos e indicaremos que se le agregue el método "main".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_10.png)
 
 ```
 📢 Cuando necesitemos declarar una variable en java y asignarle un valor podemos hacerlo de la siguiente forma.
@@ -44,7 +44,7 @@ _Clase 6: Tipo de Datos - Enteros._
 📢 Para el caso de las variables de tipo "Long" se debe colocar al final de la cifra la letra "L".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDE100001_11.png)
 
 ```
 📢 Ejecutamos para ver la salida.
