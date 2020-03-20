@@ -1,6 +1,6 @@
 package main.java;
 
-public class TipoDatos {
+public class TipoDatosEnteros {
 
 	public static void main(String[] args) {
 		
