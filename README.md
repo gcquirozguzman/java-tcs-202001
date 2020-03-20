@@ -14,22 +14,22 @@ _Clase 8: Tipo de Datos - Caracteres._
 📢 Para el caso de las variables de tipo "char", este puede aceptar las siguientes entradas.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/master/imagenes/TDDC100001_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDC100001_1.png)
 
 ```
 📢 Como se observa a continuación, tanto 'a' o 97 pueden ser asignados a la variable y dan la misma salida.
 📢 En el siguiente cuadro podemos ver las equivalencias para los caracteres. Sin embargo, existen otras equivalencias, pero por ahora estas serán suficientes.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/master/imagenes/TDDC100001_6.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDC100001_6.png)
 
 ```
 📢 Ejecutamos para ver la salida.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/master/imagenes/TDDC100001_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDC100001_2.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/master/imagenes/TDDC100001_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDC100001_3.png)
 
 
 ## Autores ✒️
