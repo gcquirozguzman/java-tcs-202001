@@ -21,15 +21,15 @@ _Clase 7: Tipo de Datos - Decimales._
 📢 Para el caso de las variables de tipo "Float" se debe colocar al final de la cifra la letra "F".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-07/imagenes/pagina_7_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDD100001_4.png)
 
 ```
 📢 Ejecutamos para ver la salida.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-07/imagenes/pagina_7_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDD100001_2.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-07/imagenes/pagina_7_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDD100001_5.png)
 
 
 ## Autores ✒️
