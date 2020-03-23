@@ -14,14 +14,14 @@ _Clase 9: Tipo de Datos - Booleano._
 📢 Para el caso de las variables de tipo "Boolean", este puede aceptar las siguientes entradas.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-09/imagenes/pagina_9_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDB100001_9_1.png)
 
 ```
 📢 Ejecutamos para ver la salida.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-09/imagenes/pagina_9_2.png)
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-09/imagenes/pagina_9_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDB100001_9_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDB100001_9_3.png)
 
 
 
