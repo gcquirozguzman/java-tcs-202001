@@ -7,7 +7,7 @@ _Clase 38: Modificadores de Acceso - Default._
 📢 Cuando se tiene el modificador de acceso "Default" se debe considerar lo siguiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-38/imagenes/pagina_38_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MDEF100001_1.png)
 
 ```
 📢 Esto quiere decir que se podrá acceder a ella desde la misma clase y desde otras clases que estén en el mismo paquete.
@@ -17,7 +17,7 @@ _Clase 38: Modificadores de Acceso - Default._
 📢 Crearemos unos atributos para esta prueba.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-38/imagenes/pagina_38_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MDEF100001_2.png)
 
 ## Autores ✒️
 
