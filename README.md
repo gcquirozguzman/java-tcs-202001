@@ -9,13 +9,13 @@ _Clase 11: Palabras reservadas._
 📢 Cuando intentamos usarlas, el IDE nos muestra el error de sintaxis.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-11/imagenes/pagina_11_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PR00100001_3.png)
 
 ```
 📢 Existen 50 palabras reservadas.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-11/imagenes/pagina_11_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PR00100001_2.png)
 
 ## Autores ✒️
 
