@@ -7,7 +7,7 @@ _Clase 37: Modificadores de Acceso - Protected._
 📢 Cuando se tiene el modificador de acceso "Protected" se debe considerar lo siguiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-37/imagenes/pagina_37_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MPPR100001_1.png)
 
 ```
 📢 Esto quiere decir que se podrá acceder a ella desde la misma clase y desde otras clases que estén en el mismo paquete.
@@ -15,7 +15,7 @@ _Clase 37: Modificadores de Acceso - Protected._
 📢 Vamos a crear un atributo de tipo "Protected".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-37/imagenes/pagina_37_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MPPR100001_2.png)
 
 ## Autores ✒️
 
