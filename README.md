@@ -7,20 +7,20 @@ _Clase 36: Modificadores de Acceso - Public._
 📢 Cuando se tiene el modificador de acceso "Public" se debe considerar lo siguiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-36/imagenes/pagina_36_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MPU0100001_1.png)
 
 ```
 📢 Por ejemplo, nuestra clase es públic.
 📢 Esto quiere decir que se podrá acceder a ella desde cualquier parte del proyecto.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-36/imagenes/pagina_36_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MPU0100001_2.png)
 
 ```
 📢 Nuestros atributos también pueden ser públicos. Crearemos unos atributos para esta prueba.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-36/imagenes/pagina_36_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MPU0100001_3.png)
 
 ## Autores ✒️
 
