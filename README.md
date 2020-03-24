@@ -22,7 +22,7 @@ _Clase 34: POO - Conceptos Fundamentales - Clase._
     
 📢 Podemos crear diferentes objetos teniendo definida la estructura.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-34/imagenes/pagina_34_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/POOC100001_1.png)
 
 ## Autores ✒️
 
