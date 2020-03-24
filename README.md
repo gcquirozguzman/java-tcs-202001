@@ -13,6 +13,7 @@ _Clase 39: Modificadores de Acceso - Private._
 📢 Esto quiere decir que se podrá acceder a ella solamente desde la misma clase.
 📢 Nuestros atributos también pueden tener el modificador de acceso como private. 
 📢 Crearemos unos atributos para esta prueba.
+📢 Modificaremos la clase "Vehiculo" que creamos anteriormente.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MPRI100001_2.png)
