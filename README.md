@@ -10,10 +10,11 @@ _Clase 19: Operador Lógico._
     || Operador or (o)
     ! Operador not (no)
 
+📢 Crearemos la clase "OperadorLogico" en donde pondremos nuestro código.
 📢 Estos operadores podemos usarlos de la siguiente forma.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-19/imagenes/pagina_19_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/OL00100001_1.png)
 
 ## Autores ✒️
 
