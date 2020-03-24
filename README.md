@@ -24,7 +24,7 @@ _Clase 28: Ciclo - For._
 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-28/imagenes/pagina_28_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CF00100001_1.png)
 
 ```
 📢  Quiero que se ejecute un bloque de código saltando un número.
@@ -35,7 +35,7 @@ _Clase 28: Ciclo - For._
 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-28/imagenes/pagina_28_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CF00100001_2.png)
 
 
 ```
@@ -47,7 +47,7 @@ _Clase 28: Ciclo - For._
 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-28/imagenes/pagina_28_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CF00100001_3.png)
 
 
 ## Autores ✒️
