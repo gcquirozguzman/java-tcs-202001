@@ -8,6 +8,7 @@ _Clase 21: Condicional - If y Else._
 📢 Esto quiere decir que el código será ejecutado desde arriba hacia abajo.
 📢 En medio de esta ejecución nosotros podemos agregar condiciones.
 📢 Con una condición podemos decidir que camino tomar.
+📢 Crearemos la clase "CondicionalIfElse." en donde pondremos nuestro código.
 📢 Por ejemplo, si deseo validar algunos datos para saber que acción tomar puedo graficarlo así:
 ```
 
