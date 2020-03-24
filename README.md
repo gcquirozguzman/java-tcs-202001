@@ -9,26 +9,26 @@ _Clase 13: Salida de Datos._
 📢 Esto nos permitirá imprimir en la consola sin salto de línea.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/SDD0100001_1.png)
 
 ```
 📢 Salida en consola.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/SDD0100001_2.png)
 
 ```
 📢 La segunda es: "System.out.println".
 📢 Esto nos permitirá imprimir en la consola con salto de línea.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/SDD0100001_3.png)
 
 ```
 📢 Salida en consola.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_4.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/SDD0100001_4.png)
 
 ```
 📢 Es posible darle formato a nuestros mensajes.
@@ -39,13 +39,13 @@ _Clase 13: Salida de Datos._
   \' : Comillas simples.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_5.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/SDD0100001_5.png)
 
 ```
 📢 Salida en consola.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_6.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/SDD0100001_6.png)
 
 ```
 📢 Podemos formar una cadena de mensaje de forma más ordenada, esto usando la función "printf".
@@ -56,7 +56,7 @@ _Clase 13: Salida de Datos._
     
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-13/imagenes/pagina_13_8.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/SDD0100001_8.png)
 
 ```
 📢 Podemos encontrar más información sobre los demás parámetros en el siguiente link.
