@@ -12,6 +12,7 @@ _Clase 30: Arreglo - Asignado de valores._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/AADV100001_1.png)
 
 ```
+📢 Crearemos la clase "ArregloAsignadoValores" en donde pondremos nuestro código.
 📢 A continuación agregaré 3 valores al arreglo en posiciones no consecutivas.
 ```
 
