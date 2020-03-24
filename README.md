@@ -8,6 +8,7 @@ _Clase 16: Parsing._
 📢 En el siguiente ejemplo tenemos la cadena "2050". Si queremos guardarla en una variable entera o decimal, es necesario convertirla.
 📢 Para el primer caso estamos convirtiendo el valor en Integer. Para el seguro en Double.
 📢 Tener en cuenta que las clases Wrapper nos ofrecen diferentes métodos. Para llamarlos, solo basta colocar el punto y luego "CTRL + ESPACIO".
+📢 Crearemos la clase "Parsing" en donde pondremos nuestro código.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRS0100001_2.png)
