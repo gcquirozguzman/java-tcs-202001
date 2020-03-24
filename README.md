@@ -5,7 +5,7 @@ _Clase 17: BigDecimal._
 
 ```
 📢 Para operaciones decimales se recomienda usar BigDecimal para obtener un resultado exacto.
-📢 Crearemos la clase "BigDecimal" en donde pondremos nuestro código.
+📢 Crearemos la clase "ClaseBigDecimal" en donde pondremos nuestro código.
 📢 Consideremos el siguiente ejemplo.
 ```
 
