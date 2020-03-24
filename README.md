@@ -17,6 +17,7 @@ _Clase 14: Operadores Aritméticos._
 ```
 
 ```
+📢 Crearemos la clase "OperadoresAritmeticos" en donde pondremos nuestro código.
 📢 En la práctica podemos usarlos de la siguiente forma.
 ```
 
