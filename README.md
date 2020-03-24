@@ -32,15 +32,16 @@ _Clase 24: Condicional - Switch._
 
 ```
 📢 A continuación veremos de forma práctica esta instrucción.
+📢 Crearemos la clase "CondicionalSwitch" en donde pondremos nuestro código.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-24/imagenes/pagina_24_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CS00100001_1.png)
 
 ```
 📢 También podemos analizar la condición de esta forma.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-24/imagenes/pagina_24_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CS00100001_2.png)
 
 ## Autores ✒️
 
