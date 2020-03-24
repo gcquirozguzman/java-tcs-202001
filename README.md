@@ -12,6 +12,7 @@ _Clase 36: Modificadores de Acceso - Public._
 ```
 📢 Por ejemplo, nuestra clase es públic.
 📢 Esto quiere decir que se podrá acceder a ella desde cualquier parte del proyecto.
+📢 Modificaremos la clase "Vehiculo" que creamos anteriormente.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MPU0100001_2.png)
