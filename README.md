@@ -24,10 +24,11 @@ _Clase 22: Condicional - Else If._
   }
 
 📢 Podemos codificarlo de la siguiente forma. Considerando IF como "si", ELSE IF como "SINO" y ELSE como "caso contrario".
+📢 Crearemos la clase "CondicionalElseIf" en donde pondremos nuestro código.
 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-22/imagenes/pagina_22_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CEI0100001_1.png)
 
 ## Autores ✒️
 
