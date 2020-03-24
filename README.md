@@ -7,6 +7,7 @@ _Clase 26: Ciclo - While._
 📢 Tener en cuenta que un ciclo o bucle nos permite ejecutar repetidas veces una porción de código.
 📢 Uno de estos ciclos es While. Este ciclo verifica antes de iniciar o volver a ejecutar el código.
 📢 En este primer caso, tendremos un bucle que se ejecutará mientras la condición sea verdadera.
+📢 Crearemos la clase "CicloWhile" en donde pondremos nuestro código.
 📢 Crearemos una variable en 0. 
 📢 Paso 1) Verificamos que la condición sea válida. En este caso (e < 5).
 📢 Paso 2) Aumentamos la variable en 1 (e++).
