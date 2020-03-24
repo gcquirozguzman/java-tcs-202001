@@ -15,6 +15,7 @@ _Clase 38: Modificadores de Acceso - Default._
 📢 Debemos tener en cuenta que no será necesario agregar que la palabra "default".
 📢 Bastará con no asignarle ningún modificador de acceso.
 📢 Crearemos unos atributos para esta prueba.
+📢 Modificaremos la clase "Vehiculo" que creamos anteriormente.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MDEF100001_2.png)
