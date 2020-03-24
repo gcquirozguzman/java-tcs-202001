@@ -9,6 +9,7 @@ _Clase 29: Arreglo - Creación._
 ```
 
 ```
+📢 Crearemos la clase "ArregloCreacion" en donde pondremos nuestro código.
 📢 Si quiero crear un arreglo que guarde valores String.
 📢 Se debe indicar cuando valores se le permitirá guardar, para nuestro caso será 5.
   
@@ -16,7 +17,7 @@ _Clase 29: Arreglo - Creación._
   
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-29/imagenes/pagina_29_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/AC00100001_1.png)
 
 ```
 📢 Si necesito guardar las notas de 10 alumnos, podría crear un arreglo de enteros.
@@ -25,7 +26,7 @@ _Clase 29: Arreglo - Creación._
   
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-29/imagenes/pagina_29_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/AC00100001_2.png)
 
 ## Autores ✒️
 
