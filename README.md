@@ -14,6 +14,7 @@ _Clase 15: Casting._
 📢 Casting automático.
 📢 Se puede realizar cuando tratamos de cambiar un tipo de variable pequeño a grande. A continuación los tenemos ordenado por tamaño de pequeño a grande.
 📢 byte -> short -> char -> int -> long -> float -> double
+📢 Crearemos la clase "Casting" en donde pondremos nuestro código.
 📢 Por ejemplo, quisiera que mi variable "int", sea ahora "double".
 ```
 
