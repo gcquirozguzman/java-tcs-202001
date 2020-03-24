@@ -12,6 +12,7 @@ _Clase 9: Tipo de Datos - Booleano._
 
 ```
 📢 Para el caso de las variables de tipo "Boolean", este puede aceptar las siguientes entradas.
+📢 Crearemos la clase "TipoDatosBooleano" en donde pondremos nuestro código.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TDDB100001_1.png)
