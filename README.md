@@ -13,6 +13,7 @@ _Clase 37: Modificadores de Acceso - Protected._
 📢 Esto quiere decir que se podrá acceder a ella desde la misma clase y desde otras clases que estén en el mismo paquete.
 📢 También se podrá acceder desde una subclase. Es decir, desde una clase que depende de otra (Herencia). Esto se detallará en las siguientes clases.
 📢 Vamos a crear un atributo de tipo "Protected".
+📢 Modificaremos la clase "Vehiculo" que creamos anteriormente.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MPPR100001_2.png)
