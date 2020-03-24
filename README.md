@@ -15,7 +15,7 @@ _Clase 26: Ciclo - While._
 
 ### Primero se verifica que la condición es válida, luego se ejecuta el código.
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-26/imagenes/pagina_26_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CW00100001_2.png)
 
 ```
 📢 En este segundo caso, tendremos un bucle que se ejecutará hasta que nosotros le indiquemos que finalice.
@@ -28,7 +28,7 @@ _Clase 26: Ciclo - While._
 
 ### Primero se verifica que la condición es válida, luego se ejecuta el código.
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-26/imagenes/pagina_26_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CW00100001_1.png)
 
 ## Autores ✒️
 
