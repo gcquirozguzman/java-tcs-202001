@@ -11,12 +11,29 @@ _Clase 10: Clases de Java Wrapper._
 
 ```
 📢 Ahora que el valor está guardado en la esta variable de tipo wrapper puedo usar todas las opciones que me provee.
-📢 Crearemos la clase "TipoDatosBooleano" en donde pondremos nuestro código.
+📢 Crearemos la clase "ClasesJavaWrapper" en donde pondremos nuestro código.
+📢 Antes de empezar a invocar las clases que necesitamos, tenemos que agregar a nuestro proyecto la versión con la que se compilará.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CDJW100001_3.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CDJW100001_4.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CDJW100001_5.png)
+
+```
+📢 A continuación agregaremos el código.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CDJW100001_6.png)
+
+```
 📢 Para saber los métodos que tiene mi variable, solo bastaría poner un punto delante y usar la opción de auto completado del IDE.
     CTRL + ESPACIO
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CDJW100001_2.png)
+
 
 ## Autores ✒️
 
