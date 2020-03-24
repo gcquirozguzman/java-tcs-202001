@@ -14,6 +14,7 @@ _Clase 28: Ciclo - For._
 
 ```
 📢  Explicaremos como funciona en el siguiente ejemplo.
+📢 Crearemos la clase "CicloFor" en donde pondremos nuestro código.
 📢  Supongamos que quiero que se ejecute 10 veces un bloque de código.
 📢  Creamos desde que número queremos que inicie. Iniciaremos desde 0 (int i=0).
 📢  Definimos hasta cuando deseamos que se ejecute. Mientras sea menor o igual a 10 (i<=10).
