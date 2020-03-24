@@ -21,7 +21,7 @@ _Clase 14: Operadores Aritméticos._
 📢 En la práctica podemos usarlos de la siguiente forma.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-14/imagenes/pagina_14_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/OAYD100001_1.png)
 
 ```
 📢 Podemos usar también los siguientes operadores de asignación.
@@ -35,7 +35,7 @@ _Clase 14: Operadores Aritméticos._
   x%=y		se representa 		x = x % y;
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-14/imagenes/pagina_14_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/OAYD100001_2.png)
 
 ## Autores ✒️
 
