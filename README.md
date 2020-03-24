@@ -5,6 +5,7 @@ _Clase 31: Arreglo - Recorriendo el arreglo._
 
 ```
 📢 Es posible obtener los datos del arreglo uno a uno como lo hemos visto.
+📢 Crearemos la clase "ArregloRecorriendoArreglo" en donde pondremos nuestro código.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/AREA100001_2.png)
