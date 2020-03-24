@@ -10,13 +10,13 @@ _Clase 16: Parsing._
 📢 Tener en cuenta que las clases Wrapper nos ofrecen diferentes métodos. Para llamarlos, solo basta colocar el punto y luego "CTRL + ESPACIO".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-16/imagenes/pagina_16_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRS0100001_2.png)
 
 ```
 📢 Buscamos la opción para el parseo y revisamos las salidas.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-16/imagenes/pagina_16_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRS0100001_1.png)
 
 ## Autores ✒️
 
