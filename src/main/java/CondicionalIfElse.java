@@ -4,18 +4,18 @@ public class CondicionalIfElse {
 	
 	public static void main(String[] args) {
 		
-		boolean condicion_1 = true;
+		Integer numero_1 = 6;
 		
-		if(condicion_1){
-			System.out.println("Condicion verdadera");
+		if(numero_1 == 6){
+			System.out.println("Numero es 6");
 		}
 		
-		boolean condicion_2 = false;
+		Integer numero_2 = 9;
 		
-		if(condicion_2){
-			System.out.println("Condicion verdadera");
+		if(numero_2 == 3){
+			System.out.println("Numero es 3");
 		} else {
-			System.out.println("Condicion false");
+			System.out.println("Numero no es 3");
 		}
 		
 	}
