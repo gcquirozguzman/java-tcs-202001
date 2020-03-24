@@ -6,6 +6,7 @@ public class Vehiculo {
 	private String marca;	
 	private String modelo;	
 	private Integer peso;
+	
 	public String getColor() {
 		return color;
 	}
