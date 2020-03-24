@@ -5,7 +5,7 @@ _Clase 40: Get y Set._
 
 ```
 📢 Los métodos get y set son usados para obtener valores (get) y para modificar los valores (set) de los atributos.
-📢 A continuación tengo la clase "Vehiculo" de nuestro caso práctico.
+📢 Modificaremos la clase "Vehiculo" que creamos anteriormente.
 📢 He declarado como privado a los atributos para que solo sea posible acceder a ellos desde la misma clase.
 ```
 
