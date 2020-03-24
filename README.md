@@ -11,7 +11,7 @@ _Clase 10: Clases de Java Wrapper._
 
 ```
 📢 Ahora que el valor está guardado en la esta variable de tipo wrapper puedo usar todas las opciones que me provee.
-📢 Crearemos la clase "TipoDatosBooleano" en donde pondremos nuestro código.
+📢 Crearemos la clase "ClasesJavaWrapper" en donde pondremos nuestro código.
 📢 Para saber los métodos que tiene mi variable, solo bastaría poner un punto delante y usar la opción de auto completado del IDE.
     CTRL + ESPACIO
 ```
