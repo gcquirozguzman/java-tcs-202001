@@ -32,7 +32,7 @@ _Clase 23: Condicional - Anidada._
 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-23/imagenes/pagina_23_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CA00100001_1.png)
 
 ## Autores ✒️
 
