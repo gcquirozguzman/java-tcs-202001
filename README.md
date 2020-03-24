@@ -14,7 +14,7 @@ _Clase 27: Ciclo - Do While._
 
 ### Primero se ejecuta el código, luego se valida si es que se volverá a ejecutar.
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-27/imagenes/pagina_27_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CDW0100001_2.png)
 
 ```
 📢 En este segundo caso, tendremos un bucle que se ejecutará hasta que nosotros le indiquemos que pare.
@@ -27,7 +27,7 @@ _Clase 27: Ciclo - Do While._
 
 ### Primero se ejecuta el código, luego se valida si es que se volverá a ejecutar.
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-27/imagenes/pagina_27_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CDW0100001_1.png)
 
 ## Autores ✒️
 
