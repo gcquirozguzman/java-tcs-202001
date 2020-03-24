@@ -32,6 +32,7 @@ _Clase 24: Condicional - Switch._
 
 ```
 📢 A continuación veremos de forma práctica esta instrucción.
+📢 Crearemos la clase "CondicionalSwitch" en donde pondremos nuestro código.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CS00100001_1.png)
