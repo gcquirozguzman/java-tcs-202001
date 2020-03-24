@@ -4,6 +4,7 @@
 _Clase 13: Salida de Datos._
 
 ```
+📢 Crearemos la clase "SalidaDatos" en donde pondremos nuestro código.
 📢 Cuando queremos enviar un mensaje en la consola tenemos 2 opciones básicas para realizarlo.
 📢 La primera es: "System.out.print".
 📢 Esto nos permitirá imprimir en la consola sin salto de línea.
