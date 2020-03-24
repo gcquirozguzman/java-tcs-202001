@@ -20,9 +20,11 @@ _Clase 18: Comparación Numérica._
     A es Igual que B
   * A != B
     A es Diferente que B
-    
+
+📢 Crearemos la clase "ComparacionNumerica" en donde pondremos nuestro código.
+
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-18/imagenes/pagina_18_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CN00100001_1.png)
 
 ### Comparación Decimales
 
@@ -36,7 +38,7 @@ _Clase 18: Comparación Numérica._
     
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-18/imagenes/pagina_18_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CN00100001_2.png)
 
 ### Comparación BigDecimal
 
@@ -50,7 +52,7 @@ _Clase 18: Comparación Numérica._
     
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-18/imagenes/pagina_18_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CN00100001_3.png)
 
 ## Autores ✒️
 
