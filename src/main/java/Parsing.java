@@ -1,6 +1,7 @@
 package main.java;
 
 public class Parsing {
+	
 	public static void main(String[] args) {
 		
 		String texto = "2050";
@@ -14,5 +15,6 @@ public class Parsing {
 		System.out.println("Salida decimal : "+decimal);
 		
 	}
+	
 }
 
