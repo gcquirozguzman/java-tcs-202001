@@ -6,6 +6,7 @@ _Clase 27: Ciclo - Do While._
 ```
 📢 Otro de los ciclos que veremos será Do While. Este ciclo ejecutar primero el código y luego verifica si debe ejecutarse nuevamente.
 📢 En este primer caso, tendremos un bucle que se ejecutará mientras la condición sea verdadera.
+📢 Crearemos la clase "CicloDoWhile" en donde pondremos nuestro código.
 📢 Crearemos una variable en 0.
 📢 Paso 1) Verificamos que la condición sea válida. En este caso (u < 5).
 📢 Paso 2) Aumentamos la variable en 1 (u++). 
