@@ -28,6 +28,7 @@ _Clase 23: Condicional - Anidada._
     ejecutar D
   }
 
+📢 Crearemos la clase "CondicionalAnidada" en donde pondremos nuestro código.
 📢 Podemos codificarlo de la siguiente forma. Considerando IF como "si", ELSE IF como "SINO" y ELSE como "caso contrario".
 
 ```
