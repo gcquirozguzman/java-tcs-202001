@@ -10,19 +10,19 @@ _Clase 12: Constantes._
 📢 Por ejemplo: días de la semana, puerto del servidor, nombre de la empresa, etc.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-12/imagenes/pagina_12_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CST0100001_1.png)
 
 ```
 📢 Si queremos modificar una variable estática tendríamos un error en la sintaxis. 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-12/imagenes/pagina_12_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CST0100001_2.png)
 
 ```
 📢 Ahora pensemos en otra variable que si va a ser modificada en tiempo de ejecución. Visitas del día, saldo actual, etc.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-12/imagenes/pagina_12_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CST0100001_3.png)
 
 
 ## Autores ✒️
