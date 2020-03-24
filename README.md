@@ -17,9 +17,9 @@ _Clase 15: Casting._
 📢 Por ejemplo, quisiera que mi variable "int", sea ahora "double".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-15/imagenes/pagina_15_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CAST100001_1.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-15/imagenes/pagina_15_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CAST100001_2.png)
 
 ```
 📢 Casting automático.
@@ -28,9 +28,9 @@ _Clase 15: Casting._
 📢 Por ejemplo, quisiera que mi variable "double", sea ahora "byte".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-15/imagenes/pagina_15_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CAST100001_3.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-15/imagenes/pagina_15_4.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CAST100001_4.png)
 
 
 ## Autores ✒️
