@@ -22,7 +22,7 @@ _Clase 21: Condicional - If y Else._
 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-21/imagenes/pagina_21_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CIYE100001_1.png)
 
 ```
 📢 Si queremos que para una condición se ejecute algo y para todo lo demás se ejecute otra cosa podemos usar la siguiente sentencia.
@@ -38,7 +38,7 @@ _Clase 21: Condicional - If y Else._
 
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-21/imagenes/pagina_21_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CIYE100001_2.png)
 
 
 ## Autores ✒️
