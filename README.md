@@ -5,24 +5,24 @@ _Clase 40: Get y Set._
 
 ```
 📢 Los métodos get y set son usados para obtener valores (get) y para modificar los valores (set) de los atributos.
-📢 A continuación tengo la clase "Vehiculo" de nuestro caso práctico.
+📢 Modificaremos la clase "Vehiculo" que creamos anteriormente.
 📢 He declarado como privado a los atributos para que solo sea posible acceder a ellos desde la misma clase.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-40/imagenes/pagina_40_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/GS00100001_1.png)
 
 ```
 📢 Para que yo pueda acceder a estos atributos desde afuera de la clase, voy a usar los métodos get y set.
 📢 Se pueden crear colocando el cursor sobre el atributo y seleccionando la opción generar.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-40/imagenes/pagina_40_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/GS00100001_2.png)
 
 ```
 📢 También puede ser generado dando clic derecho en la clase y seleccionando esta opción para generar.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-40/imagenes/pagina_40_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/GS00100001_3.png)
 
 ```
 📢 Ahora que ya he generado los métodos get y set voy a poder acceder desde estos a los atributos de la clase.
@@ -37,7 +37,7 @@ _Clase 40: Get y Set._
     
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-40/imagenes/pagina_40_4.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/GS00100001_4.png)
 
 ## Autores ✒️
 
