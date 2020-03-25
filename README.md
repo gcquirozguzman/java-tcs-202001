@@ -68,6 +68,12 @@ _Clase 51: Interfaces._
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/INT0100001_9.png)
 
+```
+📢 Modificaremos la clase "Principal" que creamos anteriormente..
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/INT0100001_10.png)
+
 ## Autores ✒️
 
 * **Gian Carlo Quiroz Guzmán** - *Proyecto Demo* - [gcquirozguzman](https://github.com/gcquirozguzman)
