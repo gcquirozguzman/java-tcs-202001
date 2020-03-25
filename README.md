@@ -10,13 +10,13 @@ _Clase 43: Sobrecarga de Constructores._
 📢 Vemos que si agregamos 2 métodos iguales en una misma clase nos da error.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-42/imagenes/pagina_42_4.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/STRU100001_1.png)
 
 ```
 📢 Sin embargo, es posible agregar 2 constructores pero con diferentes parámetros.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-42/imagenes/pagina_42_5.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/STRU100001_2.png)
 
 ## Autores ✒️
 
