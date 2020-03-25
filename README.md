@@ -8,20 +8,20 @@ _Clase 47: Sobreescritura de Métodos._
 📢 Agregaré un método en la clase "Persona".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-47/imagenes/pagina_47_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HSDM100001_1.png)
 
 ```
 📢 En la clase Alumno escribiré otro método pero con la anotación "@Override".
 📢 Esto me permite sobreescribir un método de una clase de la que estoy heredando tantos atributos como métodos.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-47/imagenes/pagina_47_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HSDM100001_2.png)
 
 ```
 📢 Cuando realizo una prueba, puedo verificar que se ha sobreescrito el método.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-47/imagenes/pagina_47_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HSDM100001_3.png)
 
 ## Autores ✒️
 
