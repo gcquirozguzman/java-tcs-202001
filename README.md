@@ -41,7 +41,7 @@ _Clase 46: Herencia._
 ```
 📢 Borraremos el constructor y lo volveremos a crear. Se recomienda usar las herramientas del IDE.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_8.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_12.png)
 
 ```
 📢 A continuación vemos que ya se han agregado los atributos de la otra clase.
