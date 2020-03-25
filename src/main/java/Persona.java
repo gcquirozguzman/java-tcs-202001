@@ -4,11 +4,11 @@ public class Persona {
 
 	private String nombre;
 	
-	private Integer dias;
+	private Integer edad;
 
-	public Persona(String nombre, Integer dias) {
+	public Persona(String nombre, Integer edad) {
 		this.nombre = nombre;
-		this.dias = dias;
+		this.edad = edad;
 	}
 
 	public String getNombre() {
@@ -18,13 +18,13 @@ public class Persona {
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
-
-	public Integer getDias() {
-		return dias;
+	
+	public Integer getEdad() {
+		return edad;
 	}
 
-	public void setDias(Integer dias) {
-		this.dias = dias;
+	public void setEdad(Integer edad) {
+		this.edad = edad;
 	}
 	
 }
