@@ -36,6 +36,7 @@ _Clase 50: Clases Abstractas._
 
 ```
 📢 Ahora podemos ver que como en toda herencia, puedo acceder a los métodos de la clase padre e hijo.
+📢 Modificaremos la clase "Principal" que creamos anteriormente.
 ```
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CABS100001_6.png)
 
