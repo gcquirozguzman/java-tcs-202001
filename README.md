@@ -25,7 +25,7 @@ _Clase 53: Default en Interfaces._
 
 ```
 📢 De esta forma, en todas las clases que llama a la interfaz, implícitamente se ha agregado el método y su implementación.
-📢 Considerar que esta implementación solo es aceptada para versiones de java 8 o superior.
+📢 Considerar que esta implementación solo es aceptada para versiones de java 8 o superior. En caso se use una versión inferior, nos aparecerá un mensaje como el siguiente.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/DEI0100001_4.png)
