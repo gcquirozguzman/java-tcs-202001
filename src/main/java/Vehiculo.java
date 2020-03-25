@@ -7,6 +7,13 @@ public class Vehiculo {
 	private String modelo;	
 	private Integer peso;
 	
+	public Vehiculo(String color, String marca, String modelo, Integer peso) {
+		this.color = color;
+		this.marca = marca;
+		this.modelo = modelo;
+		this.peso = peso;
+	}
+	
 	public String getColor() {
 		return color;
 	}
