@@ -11,33 +11,34 @@ _Clase 50: Clases Abstractas._
 📢 Para indicar que la clase es de tipo abstracta, solo bastará indicar a la clase con la palabra "abstract".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-50/imagenes/pagina_50_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CABS100001_1.png)
 
 ```
 📢 Ahora crearemos la clase hijo. Al igual que en la herencia importaremos los métodos y atributos de la clase padre con "extends".
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-50/imagenes/pagina_50_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CABS100001_2.png)
 
 ```
 📢 Es posible instancia una clase abstracta.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-50/imagenes/pagina_50_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CABS100001_3.png)
 
 ```
 📢 Pero no es posible inicializarla.
 📢 Esto debido a que el objetivo de esa es crear otras clases en base a ella.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-50/imagenes/pagina_50_4.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CABS100001_4.png)
 
 ```
 📢 A continuación indicaremos instanciaremos e inicializaremos a la clase.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-50/imagenes/pagina_50_5.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CABS100001_5.png)
 
 ```
 📢 Ahora podemos ver que como en toda herencia, puedo acceder a los métodos de la clase padre e hijo.
+📢 Modificaremos la clase "Principal" que creamos anteriormente.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-50/imagenes/pagina_50_6.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CABS100001_6.png)
 
 
 ## Autores ✒️
