@@ -8,20 +8,28 @@ _Clase 52: Varias Interfaces._
 📢 Crearé la interfaz "AccionesAlumno2" y le agregaré el método "reprueba()".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-52/imagenes/pagina_52_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/VINT100001_1.png)
 
 ```
 📢 Separado por una coma agregaré la otro interfaz.
 📢 Vemos que me da la advertencia que nos pide implementar los métodos de la interfaz "AccionesAlumno2".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-52/imagenes/pagina_52_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/VINT100001_2.png)
 
 ```
 📢 Luego de implementarlos se agregan los métodos faltantes a mi clase.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-52/imagenes/pagina_52_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/VINT100001_3.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/VINT100001_4.png)
+
+```
+📢 Modificaremos la clase "Principal" que creamos anteriormente.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/VINT100001_5.png)
 
 ## Autores ✒️
 
