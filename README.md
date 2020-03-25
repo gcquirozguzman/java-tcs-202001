@@ -7,11 +7,20 @@ _Clase 49: Polimorfismo._
 📢 Para explicar este concepto agregaré un método que me envíe un mensaje en la consola.
 📢 También crearé un constructor. Pero los crearé sin parámetros.
 📢 Esto con la finalidad de inicializar el objeto sin que me solicite parámetros.
+📢 Modificaremos la clase "Persona" que creamos anteriormente.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/POLI100001_1.png)
 
+```
+📢 Modificaremos la clase "Alumno" que creamos anteriormente.
+```
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/POLI100001_2.png)
+
+```
+📢 Modificaremos la clase "Profesor" que creamos anteriormente.
+```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/POLI100001_3.png)
 
@@ -30,6 +39,7 @@ _Clase 49: Polimorfismo._
     persona = new Alumno()
 📢 Invocaré al método saludar() de la clase Persona.
 📢 Podemos ver que nos retorna el mensaje de la clase que hemos asignado.
+📢 Modificaremos la clase "Principal" que creamos anteriormente.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/POLI100001_6.png)
