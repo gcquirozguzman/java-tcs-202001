@@ -1,4 +1,13 @@
 # Taller Java TCS
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/STI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/HERE100001)
+
+_Clase 45: Final._
+
+```
+📢 Tengamos en cuenta que una variable de tipo final no pueden ser sobreescrito. 
+📢 Modificaremos la clase "VariablesSistema" que creamos anteriormente.
+📢 Agregaré una variable de tipo final.
+📢 También le agregaré el modificador# Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/FNAL100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/HSDM100001)
 
 _Clase 46: Herencia._
@@ -10,50 +19,50 @@ _Clase 46: Herencia._
 📢 Es posible juntar estos atributos como muestra la gráfica.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_1.png)
 
 ```
 📢 A partir de esto podemos nombrar a la clase Persona como "Superclase" y a las clases Alumno y Profesor como "Subclase".
 📢 Procederemos a representarlo en el código creando las clases Persona, Alumno y Profesor.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_2.png)
 
 ```
 📢 Agregaremos los atributos que hemos indicado en la gráfica con sus get, set y constructor.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_3.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_4.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_4.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_5.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_5.png)
 
 ```
 📢 A la clase Alumno y Profesor, agregaremos la palabra extends seguro de la clase de donde queremos traer sus atributos.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_6.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_6.png)
 
 ```
 📢 Se nos indicará la advertencia que el constructor debe contener los atributos del la clase de la que heredamos sus atributos.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_7.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_7.png)
 
 ```
 📢 Borraremos el constructor y lo volveremos a crear. Se recomienda usar las herramientas del IDE.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_8.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_8.png)
 
 ```
 📢 A continuación vemos que ya se han agregado los atributos de la otra clase.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_9.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_9.png)
 
 ```
 📢 Si llamo a la clase Alumno y a su constructor para crear un objeto ya me aparecen todos los atributos.
 ```
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_10.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_10.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-46/imagenes/pagina_46_11.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HERE100001_11.png)
 
 ## Autores ✒️
 
@@ -62,3 +71,22 @@ _Clase 46: Herencia._
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
 
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/FNAL100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/HSDM100001)
+ static para poder llamarla en la clase Principal fácilmente.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/FNAL100001_1.png)
+
+```
+📢 Agregaré la variable y trataré de asignarle un valor.
+📢 El IDE me advertirá que esto no es posible.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/FNAL100001_2.png)
+
+## Autores ✒️
+
+* **Gian Carlo Quiroz Guzmán** - *Proyecto Demo* - [gcquirozguzman](https://github.com/gcquirozguzman)
+
+⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
+
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/STI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/HERE100001)
