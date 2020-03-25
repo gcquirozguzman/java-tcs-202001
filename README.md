@@ -4,6 +4,7 @@
 _Clase 54: Interactuando con la Consola._
 
 ```
+📢 Modificaremos la clase "Principal" que creamos anteriormente.
 📢 Para poder obtener los valores que escribo en la consola es necesario agregar las siguientes líneas.
     
     InputStream stream = System.in;
