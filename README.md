@@ -11,7 +11,7 @@ _Clase 48: Herencia - Super y This._
 📢 Desde ahí llamaré al método "mensaje()" de la clase Persona
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-48/imagenes/pagina_48_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HST0100001_1.png)
 
 ### This
 
@@ -20,20 +20,20 @@ _Clase 48: Herencia - Super y This._
 📢 Por ejemplo, cuando yo quiero modificar el valor de mi objeto con los parámetros que reciba uso "this"
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-48/imagenes/pagina_48_7.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HST0100001_7.png)
 
 ```
 📢  "This" también puede invocar al constructor de la misma subclase.
 📢  Separaré al constructor que tengo, separando los parámetros heredados.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-48/imagenes/pagina_48_8.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HST0100001_8.png)
 
 ```
 📢  Agregando "This" puedo llamar al constructor que acabo de crear dentro de otro.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-48/imagenes/pagina_48_9.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HST0100001_9.png)
 
 ## Autores ✒️
 
