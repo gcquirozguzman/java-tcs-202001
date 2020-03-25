@@ -6,6 +6,7 @@ _Clase 41: Constructor._
 ```
 📢 Un constructor inicializa(asigna valores) a un objeto.
 📢 Cuando creamos un objeto podemos ayudarnos de un constructor para indicar que valores tendran sus atributos.
+📢 Modificaremos la clase "Vehiculo" que creamos anteriormente.
 📢 Para poder crear un constructor hacemos clic dentro de la clase.
 ```
 
