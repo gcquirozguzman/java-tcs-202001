@@ -13,6 +13,8 @@ public class Principal {
 		
 		Alumno alumno_1 = new Alumno("Gian", 50, 5);
 		
+		alumno_1.mensaje();
+		
 	}
 	
 }

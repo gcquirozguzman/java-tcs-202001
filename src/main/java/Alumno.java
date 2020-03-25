@@ -8,6 +8,11 @@ public class Alumno extends Persona{
 		super(nombre, dias);
 		this.grado_actual = grado_actual;
 	}
+	
+	@Override
+	public void mensaje(){
+		System.out.println("Este es un mensaje de Alumno");
+	}
 
 	public Integer getGrado_actual() {
 		return grado_actual;

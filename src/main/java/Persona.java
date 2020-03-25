@@ -5,6 +5,10 @@ public class Persona {
 	private String nombre;
 	
 	private Integer edad;
+	
+	public void mensaje(){
+		System.out.println("Este es un mensaje de Persona");
+	}
 
 	public Persona(String nombre, Integer edad) {
 		this.nombre = nombre;
