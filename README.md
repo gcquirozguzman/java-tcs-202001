@@ -5,7 +5,7 @@ _Clase 45: Final._
 
 ```
 📢 Tengamos en cuenta que una variable de tipo final no pueden ser sobreescrito. 
-📢 Usaré la clase VariablesSistema.
+📢 Modificaremos la clase "VariablesSistema" que creamos anteriormente.
 📢 Agregaré una variable de tipo final.
 📢 También le agregaré el modificador static para poder llamarla en la clase Principal fácilmente.
 ```
