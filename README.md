@@ -8,7 +8,7 @@ _Clase 55: JOptionPane._
 📢 Esta clase contiene los siguientes métodos.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_1.png)
 
 ```
 📢 Crearemos una clase "Programa" donde indicaremos los métodos de JOptionPane.
@@ -44,11 +44,11 @@ _Clase 55: JOptionPane._
 📢 Para que se muestren debemos ejecutar como "Java Application" la clase.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_2.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_3.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_4.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_4.png)
 
 ### ShowInputDialog
 
@@ -56,14 +56,14 @@ _Clase 55: JOptionPane._
 📢 También podemos generar ventanas con consultas.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_5.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_5.png)
 
 ```
 📢 Envía una consulta y el resultado lo guarda en una variable:
     String respuesta = JOptionPane.showInputDialog("Cuanto es 1 + 1?");
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_6.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_6.png)
 
 
 ```
@@ -71,14 +71,14 @@ _Clase 55: JOptionPane._
     String respuesta = JOptionPane.showInputDialog("Cuanto es 1 + 1?", "La respuesta es 2");
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_7.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_7.png)
 
 ```
 📢 Envía una consulta, se envía un título e ícono .El resultado lo guarda en una variable.:
     String respuesta = JOptionPane.showInputDialog(null, "Ingrese su clave nuevamente", "Error!", JOptionPane.ERROR_MESSAGE);
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_8.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_8.png)
 
 
 ```
@@ -87,9 +87,9 @@ _Clase 55: JOptionPane._
    String respuesta = (String) JOptionPane.showInputDialog(null, "Seleccione Alumno", "Jalados", JOptionPane.DEFAULT_OPTION, null, alumnos, alumnos[2]);
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_9.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_9.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_10.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_10.png)
 
 ### ShowConfirmDialog
 
@@ -97,28 +97,28 @@ _Clase 55: JOptionPane._
 📢 De la misma forma, podemos generar ventanas con consultas con opciones de respuesta en botones.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_11.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_11.png)
 
 ```
 📢 Se genera la ventana, se envía el mensaje y se muestran los botones por defecto. El resultado lo guarda en una variable:
     int respuesta = JOptionPane.showConfirmDialog(null, "¿Está seguro?");
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_12.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_12.png)
 
 ```
 📢 Se genera la ventana, se envía el mensaje, título y los botones que deseamos mostrar. El resultado lo guarda en una variable:
     int respuesta = JOptionPane.showConfirmDialog(null, "¿Esta seguro?", "Alerta!", JOptionPane.YES_NO_OPTION);
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_13.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_13.png)
 
 ```
 📢 Se genera la ventana, se envía el mensaje, título, los botones que deseamos mostrar y el ícono de la ventana. El resultado lo guarda en una variable:
     int respuesta = JOptionPane.showConfirmDialog(null, "¿Esta seguro?", "Alerta!", JOptionPane.YES_NO_OPTION, JOptionPane.ERROR_MESSAGE);
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_14.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_14.png)
 
 ### ShowOptionDialog
 
@@ -126,7 +126,7 @@ _Clase 55: JOptionPane._
 📢 Por último, podemos generar ventanas con todas las opciones anteriores.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_15.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_15.png)
 
 ```
 📢 Se genera la ventana, se envía el mensaje, título, los botones que deseamos mostrar, el ícono de la ventana, opciones y la opción marcada por defecto. El resultado lo guarda en una variable:
@@ -134,7 +134,7 @@ _Clase 55: JOptionPane._
 				JOptionPane.QUESTION_MESSAGE, null, options, options[0]);
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_16.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_16.png)
 
 ### Indicaciones
 
@@ -142,7 +142,7 @@ _Clase 55: JOptionPane._
 📢 Si se desea conocer todas las opciones que tiene, por ejemplo JOptionPane, solo bastaría agregar la palabra y luego el punto. Ahí aparecerán las opciones.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-55/imagenes/pagina_55_17.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/JOP0100001_17.png)
 
 ## Autores ✒️
 
