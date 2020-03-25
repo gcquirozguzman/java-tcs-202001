@@ -32,13 +32,13 @@ _Clase 54: Interactuando con la Consola._
     
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-54/imagenes/pagina_54_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ICLC100001_1.png)
 
 ```
 📢 Si queremos probar hacemos clic izquierdo en la clase.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-54/imagenes/pagina_54_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ICLC100001_2.png)
 
 ## Autores ✒️
 
