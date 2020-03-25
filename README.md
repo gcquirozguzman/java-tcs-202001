@@ -8,20 +8,20 @@ _Clase 56: Generar Ejecutable._
 📢 La llamaré "EjecutableTCS".
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-56/imagenes/pagina_56_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/GE00100001_1.png)
 
 ```
 📢 Seleccionaré el proyecto e indicaré que quiero exportarlo.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-56/imagenes/pagina_56_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/GE00100001_2.png)
 
 
 ```
 📢 Seleccionare la opción seleccionada.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-56/imagenes/pagina_56_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/GE00100001_3.png)
 
 
 ```
@@ -29,28 +29,28 @@ _Clase 56: Generar Ejecutable._
 📢 Elegiré EjecutableTCS.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-56/imagenes/pagina_56_4.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/GE00100001_4.png)
 
 
 ```
 📢 Seleccionaré donde deseo la descarga.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-56/imagenes/pagina_56_5.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/GE00100001_5.png)
 
 
 ```
 📢 Reviso que ha generado.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-56/imagenes/pagina_56_6.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/GE00100001_6.png)
 
 
 ```
 📢 Lo ejecuto y verifico que me muestre el mensaje.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-56/imagenes/pagina_56_7.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/GE00100001_7.png)
 
 
 ## Autores ✒️
