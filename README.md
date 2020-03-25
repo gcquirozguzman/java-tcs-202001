@@ -9,13 +9,13 @@ _Clase 41: Constructor._
 📢 Para poder crear un constructor hacemos clic dentro de la clase.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-41/imagenes/pagina_41_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TRUC100001_1.png)
 
 ```
 📢 Seleccionamos omitir agregar "super" al constructor.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-41/imagenes/pagina_41_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TRUC100001_2.png)
 
 ```
 📢 Vemos que el constructor nos pide como parámetros:
@@ -25,7 +25,7 @@ _Clase 41: Constructor._
 📢 Estos son los valores que le enviaremos para que cree nuestro objeto.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/Clase-41/imagenes/pagina_41_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/TRUC100001_3.png)
 
 ## Autores ✒️
 
