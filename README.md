@@ -8,6 +8,7 @@ _Clase 44: Static._
 📢 Podemos usarlo con la finalidad de que estén disponibles globalmente para varias clases.
 📢 Por ejemplo, si queremos declarar el ip de la base de datos.
 📢 Esta ip la deberíamos declarar en todas las clases que se van a conectar al a base de datos (Prueba_1.java, Prueba_2.java y Prueba_3.java).
+📢 Crearemos la clase "Prueba_1", "Prueba_2" y "Prueba_3" en donde pondremos nuestro código.
 📢 Esto ocasionaría que se separe memoria para 3 variables de tipo String que se encuentran en estas 3 clases.
 ```
 
