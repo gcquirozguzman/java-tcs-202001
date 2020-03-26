@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/SDD0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CAST100001)
 
-_Clase 14: Operadores Aritméticos._
+_Clase: Operadores Aritméticos._
 
 ```
 📢 Para este tema crearemos la clase "OperadoresMatematicos.java" en donde colocaremos nuestras anotaciones.
