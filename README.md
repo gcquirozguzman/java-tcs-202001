@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/POOO100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/MDA0100001)
 
-_Clase 34: POO - Conceptos Fundamentales - Clase._
+_Clase: POO - Conceptos Fundamentales - Clase._
 
 ```
 📢 En el mundo real existen diversos tipos de objetos.
