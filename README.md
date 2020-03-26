@@ -1,7 +1,7 @@
 # Taller Java TCS                                                                       
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CNAAA00001)
 
-_Hablemos un poco de Java._
+_Clase: Hablemos un poco de Java._
 
 Cuando hablamos de Java tenemos que entender que este nombre hace referencia a 2 cosas
 
