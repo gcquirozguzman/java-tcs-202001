@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CABS100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/VINT100001)
 
-_Clase 51: Interfaces._
+_Clase: Interfaces._
 
 ```
 📢 Podemos entender que una interfaz es una lista de acciones que puede llevar a cabo un determinado objeto, pero de forma resumida.
