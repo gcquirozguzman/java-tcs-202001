@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CS00100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CW00100001)
 
-_Clase 25: Operador Ternario._
+_Clase: Operador Ternario._
 
 ```
 📢 Cuando queremos hacer una validación de forma resumida, podemos optar por este tipo de estructura.
