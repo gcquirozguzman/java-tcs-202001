@@ -11,7 +11,7 @@ _Clase: Array - Creación._
 ```
 📢 Crearemos la clase "ArregloCreacion" en donde pondremos nuestro código.
 📢 Si quiero crear un arreglo que guarde valores String.
-📢 Se debe tener en cuenta que es posible indicar cuando valores se le permitirá guardar, para nuestro caso será 5.
+📢 Se debe tener en cuenta que se debe indicar cuantos valores se le permitirá guardar, para nuestro caso será 5.
   
     String[] mi_arreglo_string = new String[5];
   
