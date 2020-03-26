@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/OAYD100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/PRS0100001)
 
-_Clase 15: Casting._
+_Clase: Casting._
 
 ```
 📢 Definamos que Casting, es la acción de transformar una variable primitiva de un tipo a otro.
