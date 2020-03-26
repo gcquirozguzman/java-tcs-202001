@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/MDA0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/MPPR100001)
 
-_Clase 36: Modificadores de Acceso - Public._
+_Clase: Modificadores de Acceso - Public._
 
 ```
 📢 Cuando se tiene el modificador de acceso "Public" se debe considerar lo siguiente.
