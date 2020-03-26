@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CW00100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CF00100001)
 
-_Clase 27: Ciclo - Do While._
+_Clase: Ciclo - Do While._
 
 ```
 📢 Otro de los ciclos que veremos será Do While. Este ciclo ejecutar primero el código y luego verifica si debe ejecutarse nuevamente.
