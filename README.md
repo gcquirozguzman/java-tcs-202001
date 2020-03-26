@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDE100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDC100001)
 
-_Clase 7: Tipo de Datos - Decimales._
+_Clase: Tipo de Datos - Decimales._
 
 ```
 📢 A continuación indicamos los tipo de datos decimales, rangos y espacio que ocupa en memoria en bytes.
