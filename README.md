@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/JOP0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 
 
-_Clase 56: Generar Ejecutable._
+_Clase: Generar Ejecutable._
 
 ```
 📢 Crearé una clase con public static void main.
