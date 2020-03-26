@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/AC00100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/AREA100001)
 
-_Clase 30: Arreglo - Asignado de valores._
+_Clase: Arreglo - Asignado de valores._
 
 ```
 📢 Siguiendo con los anteriores ejemplos asignaremos valores a nuestros arreglos.
