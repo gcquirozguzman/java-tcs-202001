@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/MDEF100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/GS00100001)
 
-_Clase 39: Modificadores de Acceso - Private._
+_Clase: Modificadores de Acceso - Private._
 
 ```
 📢 Cuando se tiene el modificador de acceso "Private" se debe considerar lo siguiente.
