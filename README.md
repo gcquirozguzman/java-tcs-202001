@@ -10,6 +10,10 @@ _Clase: Array._
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_1.png)
 
+```
+📢 Modificando Array.
+```
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_2.png)
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_3.png)
