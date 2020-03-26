@@ -3,6 +3,7 @@
 
 _Clase: Alta Cohesion y Bajo Acoplamiento._
 
+### Acoplamiento
 ```
 📢 Que pasaría si agregamos un método en una interfaz que es llamada muchas veces en diferentes clases. 
 📢 Voy a simular este caso copiando la clase "AccionesAlumnoImpl".
