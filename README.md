@@ -1,7 +1,7 @@
 # Taller Java TCS
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/DEI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/MDEX100001)
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/ACBA100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/ENUM100001)
 
-_Clase: Alta Cohesión y Bajo Acoplamiento._
+_Clase: Manejo de Excepciones._
 
 ### Alta Cohesión
 ```
@@ -50,4 +50,4 @@ _Clase: Alta Cohesión y Bajo Acoplamiento._
 
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
 
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/DEI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/MDEX100001)
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/ACBA100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/ENUM100001)
