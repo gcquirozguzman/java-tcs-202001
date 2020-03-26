@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/AREA100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/POOO100001)
 
-_Clase 32: Programación Orientada a Objetos (POO)._
+_Clase: Programación Orientada a Objetos (POO)._
 
 ```
 📢 La programación orientada a objetos es una filosofía que permite el diseño de aplicaciones orientadas a objetos.
