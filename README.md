@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/ARRY100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/LIST100001)
 
-_Clase: ArrayList._
+_Clase: List._
 
 ```
 📢 Permite almacenar datos en memoria de forma similar a los Arrays.
