@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CDW0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/AC00100001)
 
-_Clase 28: Ciclo - For._
+_Clase: Ciclo - For._
 
 ```
 📢 Esta estructura se puede explicar de la siguiente forma.
