@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/FNAL100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/HSDM100001)
 
-_Clase 46: Herencia._
+_Clase: Herencia._
 
 ```
 📢 Si yo tengo la clase alumno y profesor me puedo dar cuenta que ambos tiene atributos en común.
