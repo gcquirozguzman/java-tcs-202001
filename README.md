@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/BD00100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/OL00100001)
 
-_Clase 18: Comparación Numérica._
+_Clase: Comparación Numérica._
 
 ### Comparación Enteros
 
