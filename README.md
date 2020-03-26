@@ -1,5 +1,5 @@
 # Taller Java TCS
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/AADV100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/POO0100001)
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/AREA100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/POO0100001)
 
 _Clase: Array._
 
@@ -25,4 +25,4 @@ _Clase: Array._
 
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
 
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/AADV100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/POO0100001)
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/AREA100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/POO0100001)
