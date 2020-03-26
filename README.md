@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/MPPR100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/MPRI100001)
 
-_Clase 38: Modificadores de Acceso - Default._
+_Clase: Modificadores de Acceso - Default._
 
 ```
 📢 Cuando se tiene el modificador de acceso "Default" se debe considerar lo siguiente.
