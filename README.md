@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/OT00100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CDW0100001)
 
-_Clase 26: Ciclo - While._
+_Clase: Ciclo - While._
 
 ```
 📢 Tener en cuenta que un ciclo o bucle nos permite ejecutar repetidas veces una porción de código.
