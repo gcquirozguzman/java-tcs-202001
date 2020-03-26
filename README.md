@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/POO0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/POOC100001)
 
-_Clase 33: POO - Conceptos Fundamentales - Objeto._
+_Clase: POO - Conceptos Fundamentales - Objeto._
 
 ```
 📢 Un objeto en POO tiene como objetivo representar a alguna entidad de la vida real.
