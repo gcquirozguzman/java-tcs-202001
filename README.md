@@ -1,35 +1,46 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/DEI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/MDEX100001)
 
-_Clase: Alta Cohesion y Bajo Acoplamiento._
+_Clase: Alta Cohesión y Bajo Acoplamiento._
 
-### Acoplamiento
+### Alta Cohesión
 ```
-📢 Que pasaría si agregamos un método en una interfaz que es llamada muchas veces en diferentes clases. 
-📢 Voy a simular este caso copiando la clase "AccionesAlumnoImpl".
+📢 Cada elemento debe realizar solo 1 función.
+📢 Unión fuerte entre 2 elementos de algo.
 ```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/DEI0100001_1.png)
-
+### Bajo Acoplamiento
 ```
-📢 Agregaré 1 método a la interfaz "AccionesAlumno".
-📢 Podemos ver que en todas las clases donde la llama nos sale la advertencia para implementar los métodos.
+📢 Esto indica que existe independencia entre clases.
+📢 Permite la unión de 2 o mas piezas requeridas por el aplicativo.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/DEI0100001_2.png)
+```
+📢 Esto permite crear código mantenible, reutilizable y escalable.
+📢 Crearemos la clase "AltaCohesionBajoAcoplamiento" en donde pondremos nuestro código.
+📢 Podría crear un método en donde coloque todas mis operaciones.
+📢 ¿Pero que sucede si es que necesito llamar ciertas operaciones de este método en otro? 
+📢 Supongamos que tengo el método calcularNotasAlumno() y calificarProfesor().
+
+  > obtenerNotasAlumno() - Método que solo obtiene notas de alumno de una BD (Alta Cohesión).
+  > obtenerNotasProfesor() - Método que solo obtiene notas de profesor de una BD (Alta Cohesión).
+  > sumarNotas() - Método que solo suma notas. Este método lo usaré para ambos casos (Alta Cohesión).
+  > mostrarNotas() - Método que se encarga de mostrar notas en la consola (Alta Cohesión).
+
+📢 El método calcularNotasAlumno() llamará a las siguiente (Bajo Acoplamiento):
+  > obtenerNotasAlumno()
+  > sumarNotas()
+  > mostrarNotas()
+📢 El método obtenerNotasProfesor() llamará a las siguiente (Bajo Acoplamiento):
+  > obtenerNotasProfesor()
+  > sumarNotas()
+  > mostrarNotas()
 
 ```
-📢 Si quisiera que un método se replique ya implementado podemos usar el método "default".
-```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/DEI0100001_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ACBA100001_3.png)
 
-```
-📢 De esta forma, en todas las clases que llama a la interfaz, implícitamente se ha agregado el método y su implementación.
-📢 Considerar que esta implementación solo es aceptada para versiones de java 8 o superior. En caso se use una versión inferior, nos aparecerá un mensaje como el siguiente.
-```
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ACBA100001_4.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/DEI0100001_4.png)
 
 ## Autores ✒️
 
