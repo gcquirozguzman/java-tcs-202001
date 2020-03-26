@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDB100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/PR00100001)
 
-_Clase 10: Clases de Java Wrapper._
+_Clase: Clases de Java Wrapper._
 
 ```
 📢 Las clases wrapper tiene como uno de sus objetivos proveer opciones para trabajar con los tipo de datos primitivos.
