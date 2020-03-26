@@ -70,7 +70,7 @@ _[33) ArrayList.](https://github.com/gcquirozguzman/java-tcs-202001/tree/ARLT100
 
 _[34) List.](https://github.com/gcquirozguzman/java-tcs-202001/tree/LIST100001)_ 
 
-_[35) HashMap.](https://github.com/gcquirozguzman/java-tcs-202001/tree/LVSA100001)_ 
+_[35) Map y HashMap.](https://github.com/gcquirozguzman/java-tcs-202001/tree/LVSA100001)_ 
 
 _[36) Programación Orientada a Objetos (POO).](https://github.com/gcquirozguzman/java-tcs-202001/tree/POO0100001)_ 
 
