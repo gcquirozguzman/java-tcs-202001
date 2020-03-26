@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CEI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CS00100001)
 
-_Clase 23: Condicional - Anidada._
+_Clase: Condicional - Anidada._
 
 ```
 📢 Es posible tener una condición dentro de otra condición.
