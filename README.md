@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/STI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/HERE100001)
 
-_Clase 45: Final._
+_Clase: Final._
 
 ```
 📢 Tengamos en cuenta que una variable de tipo final no pueden ser sobreescrito. 
