@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/AREA100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/ARLT100001)
 
-_Clase: Array._
+_Clase: Resumen - Array._
 
 ```
 📢 Se utilizan para almacenar múltiples valores en una sola variable.
