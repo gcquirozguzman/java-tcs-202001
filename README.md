@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/HST0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CABS100001)
 
-_Clase 49: Polimorfismo._
+_Clase: Polimorfismo._
 
 ```
 📢 Para explicar este concepto agregaré un método que me envíe un mensaje en la consola.
