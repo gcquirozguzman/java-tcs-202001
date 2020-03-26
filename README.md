@@ -13,10 +13,10 @@ _Clase: List._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LIST100001_1.png)
 
 ```
-📢 Si creamos una clase "Computador", es posible usar un ArrayLista para almacenarlos.
+📢 A continuación, se detalla mejor el uso de esta colección.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARLT100001_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LIST100001_2.png)
 
 ## Autores ✒️
 
