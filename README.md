@@ -3,46 +3,14 @@
 
 _Clase: Manejo de Excepciones._
 
-### Alta Cohesión
 ```
-📢 Cada elemento debe realizar solo 1 función.
-📢 Unión fuerte entre 2 elementos de algo.
-```
-### Bajo Acoplamiento
-```
-📢 Esto indica que existe independencia entre clases.
-📢 Permite la unión de 2 o mas piezas requeridas por el aplicativo.
+📢 Que pasaría si tu aplicativo se conecta a una base de datos, pero debido a un mantenimiento la BD no esta disponible.
+📢 ¿Como podríamos controlar estos escenarios que no prevemos?
+📢 Ante esto, lo recomentable sería encerrar nuestra llamada a base de datos en un bloque de error (try-catch).
+📢 Crearemos la clase "ManejoExcepciones" en donde pondremos nuestro código.
 ```
 
-```
-📢 Esto permite crear código mantenible, reutilizable y escalable.
-📢 Crearemos la clase "AltaCohesionBajoAcoplamiento" en donde pondremos nuestro código.
-📢 Podría crear un método en donde coloque todas mis operaciones.
-📢 ¿Pero que sucede si es que necesito llamar ciertas operaciones de este método en otro? 
-📢 Supongamos que tengo el método calcularNotasAlumno() y calificarProfesor().
-
-  > obtenerNotasAlumno() - Método que solo obtiene notas de alumno de una BD (Alta Cohesión).
-  > obtenerNotasProfesor() - Método que solo obtiene notas de profesor de una BD (Alta Cohesión).
-  > sumarNotas() - Método que solo suma notas. Este método lo usaré para ambos casos (Alta Cohesión).
-  > mostrarNotas() - Método que se encarga de mostrar notas en la consola (Alta Cohesión).
-
-📢 El método calcularNotasAlumno() llamará a las siguiente (Bajo Acoplamiento):
-  > obtenerNotasAlumno()
-  > sumarNotas()
-  > mostrarNotas()
-📢 El método obtenerNotasProfesor() llamará a las siguiente (Bajo Acoplamiento):
-  > obtenerNotasProfesor()
-  > sumarNotas()
-  > mostrarNotas()
-
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ACBA100001_3.png)
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ACBA100001_4.png)
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ACBA100001_2.png)
-
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MDEX100001_1.png)
 
 ## Autores ✒️
 
