@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CAST100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/BD00100001)
 
-_Clase 16: Parsing._
+_Clase: Parsing._
 
 ```
 📢 Nos permite analizar el valor de una variable para convertirlo a otro tipo.
