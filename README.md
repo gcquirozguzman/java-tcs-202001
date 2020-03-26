@@ -27,11 +27,22 @@ _Clase: Manejo de Excepciones._
 ```
 📢 Esta palabra nos permite lanzar una excepción propia.
 📢 Crearemos la clase "ControlErrorDivision" en donde pondremos nuestro código.
+📢 Acá colocaremos todo lo que indicará cuando se detecte el error.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MDEX100001_3.png)
 
+```
+📢 Crearemos un método de nombre división en donde colocaremos nuestra lógica.
+📢 Se debe visualizar que se agrega la palabra Throw con la clase que hemos creado.
+📢 Esto permite que ante la existencia el igualdad en la comparación (b == 0) se retorne el error personalizado "ControlErrorDivision".
+```
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MDEX100001_4.png)
+
+```
+📢 Comprobamos la salida.
+```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/MDEX100001_5.png)
 
