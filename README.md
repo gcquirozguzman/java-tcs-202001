@@ -58,13 +58,13 @@ _[27) Ciclo - Do while.](https://github.com/gcquirozguzman/java-tcs-202001/tree/
 
 _[28) Ciclo - For.](https://github.com/gcquirozguzman/java-tcs-202001/tree/CF00100001)_ 
 
-_[29) Arreglo - Creación.](https://github.com/gcquirozguzman/java-tcs-202001/tree/AC00100001)_ 
+_[29) Array - Creación.](https://github.com/gcquirozguzman/java-tcs-202001/tree/AC00100001)_ 
 
-_[30) Arreglo - Asignado de valores.](https://github.com/gcquirozguzman/java-tcs-202001/tree/AADV100001)_ 
+_[30) Array - Asignado de valores.](https://github.com/gcquirozguzman/java-tcs-202001/tree/AADV100001)_ 
 
-_[31) Arreglo - Recorriendo el arreglo.](https://github.com/gcquirozguzman/java-tcs-202001/tree/AREA100001)_ 
+_[31) Array - Recorriendo el arreglo.](https://github.com/gcquirozguzman/java-tcs-202001/tree/AREA100001)_ 
 
-_[32) Array.](https://github.com/gcquirozguzman/java-tcs-202001/tree/ARRY100001)_ 
+_[32) Array - Ejemplos.](https://github.com/gcquirozguzman/java-tcs-202001/tree/ARRY100001)_ 
 
 _[33) ArrayList.](https://github.com/gcquirozguzman/java-tcs-202001/tree/ARLT100001)_ 
 
