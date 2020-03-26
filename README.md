@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/POLI100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/INT0100001)
 
-_Clase 50: Clases Abstractas._
+_Clase: Clases Abstractas._
 
 ```
 📢 Una clase abstracta no representa un objeto en concreto.
