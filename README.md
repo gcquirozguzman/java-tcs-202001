@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/STRU100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/FNAL100001)
 
-_Clase 44: Static._
+_Clase: Static._
 
 ```
 📢 Este modificador puede ser usado en variables, clases o campos.
