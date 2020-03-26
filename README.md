@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDC100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CDJW100001)
 
-_Clase 9: Tipo de Datos - Booleano._
+_Clase: Tipo de Datos - Booleano._
 
 ```
 📢 A continuación indicamos los tipo de datos decimales, rangos y espacio que ocupa en memoria en bit.
