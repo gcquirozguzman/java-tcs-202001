@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/HUPCJ00001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/HMAAA00001)
 
-_Clase 2: Configuremos nuestro ambiente._
+_Clase: Configuremos nuestro ambiente._
 
 Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse (Herramienta para desarrollo).
 
