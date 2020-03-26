@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CNAAA00001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/UEAAA00001)
 
-_Clase 3: Hola Mundo._
+_Clase: Hola Mundo._
 
 Pondremos en práctica lo indicado en la clase 1. 
 
