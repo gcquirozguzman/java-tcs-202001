@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CIYE100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CA00100001)
 
-_Clase 22: Condicional - Else If._
+_Clase: Condicional - Else If._
 
 ```
 📢 Cuando tenemos más de 1 condición a evaluar podemos usar la siguiente instrucción.
