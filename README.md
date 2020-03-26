@@ -1,30 +1,24 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/LIST100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/POO0100001)
 
-_Clase: HashMap._
+_Clase: Map y HashMap._
 
 ```
-📢 Es una colección ordenada de objetos.
-📢 Se pueden almacenar valores duplicados. 
-📢 Crearemos la clase "EjemploList" en donde pondremos nuestro código.
-📢 La interfaz de List se implementa mediante las clases de ArrayList , LinkedList , Vector y Stack. Por ejemplo:
+📢 La interfaz Map define el comportamiento general de una estructura.
+📢 Para almacenar valores, estos deben ser guardado en relación de key --> value.
+📢 Crearemos la clase "EjemploHashMap" en donde pondremos nuestro código.
+📢 La interfaz de List se implementa mediante las clase HashMap. Por ejemplo:
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LIST100001_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LVSA100001_1.png)
 
 ```
-📢 A continuación, se detalla mejor el uso de esta colección.
+📢 A continuación, se detalla mejor su uso.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LIST100001_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LVSA100001_2.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LIST100001_3.png)
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LIST100001_4.png)
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LIST100001_5.png)
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LIST100001_6.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LVSA100001_3.png)
 
 ## Autores ✒️
 
