@@ -16,9 +16,21 @@ _Clase: Array._
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_2.png)
 
+```
+📢 Recorriendo Array.
+```
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_3.png)
 
+```
+📢 Usando Array como Arreglo.
+```
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_4.png)
+
+```
+📢 Recorriendo Array
+```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_5.png)
 
