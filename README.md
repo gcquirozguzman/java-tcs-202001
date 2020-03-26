@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDD0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDD100001)
 
-_Clase 6: Tipo de Datos - Enteros._
+_Clase: Tipo de Datos - Enteros._
 
 ```
 📢 A continuación indicamos los tipo de datos enteros, rangos y espacio que ocupa en memoria en bytes.
