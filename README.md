@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/VINT100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/ICLC100001)
 
-_Clase: Default en Interfaces._
+_Clase: Alta Cohesion y Bajo Acoplamiento._
 
 ```
 📢 Que pasaría si agregamos un método en una interfaz que es llamada muchas veces en diferentes clases. 
