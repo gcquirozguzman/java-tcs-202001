@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CST0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/OAYD100001)
 
-_Clase 13: Salida de Datos._
+_Clase: Salida de Datos._
 
 ```
 📢 Crearemos la clase "SalidaDatos" en donde pondremos nuestro código.
