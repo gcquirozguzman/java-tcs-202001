@@ -6,30 +6,23 @@ _Clase: Properties._
 ### Excepción Simple
 
 ```
-📢 Es una "clase" especial que representa un grupo de constantes.
-📢 Crearemos el enum "DiasSemana" en donde pondremos nuestro código.
+📢 Es posible consultar datos desde un archivo properties.
+📢 Para este ejemplo, vamos a crear un archivo properties en el disco D.
+📢 Nombre: prueba.properties
+📢 Contenido:
+# Obtener IP Servidor
+servidor.ip=192.168.1.1
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ENUM100001_1.png)
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ENUM100001_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PROT100001_1.png)
 
 ```
-📢 Podemos llamarlas de la siguiente forma.
-📢 Crearemos la clase "EnumEjemplo" en donde pondremos nuestro código.
+📢 Crearemos la clase "PropertiesEjemplo" en donde pondremos nuestro código.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ENUM100001_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PROT100001_2.png)
 
-```
-📢 Es posible agregar varios subvalores.
-📢 Crearemos la clase "MonedaEnum" en donde pondremos nuestro código.
-📢 Modificaremos la clase "EnumEjemplo", llamando a este nuevo Enum que se ha creado.
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ENUM100001_4.png)
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ENUM100001_5.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PROT100001_3.png)
 
 ## Autores ✒️
 
