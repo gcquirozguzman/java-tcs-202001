@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/HMAAA00001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDD0100001)
 
-_Clase 4: Usando Eclipse._
+_Clase: Usando Eclipse._
 
 ```
 📢 Para iniciar el IDE ingresamos a la carpeta que ha sido descargada en la clase 2. Ahí encontraremos el archivo exe que iniciará el IDE.
