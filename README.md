@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CDJW100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CST0100001)
 
-_Clase 11: Palabras reservadas._
+_Clase: Palabras reservadas._
 
 ```
 📢 Existen ciertas palabras que no podemos usarlas para nombres de variables, clases o métodos.
