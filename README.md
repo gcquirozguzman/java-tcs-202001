@@ -4,29 +4,20 @@
 _Clase: Array._
 
 ```
-📢 Es posible obtener los datos del arreglo uno a uno como lo hemos visto.
-📢 Crearemos la clase "ArregloRecorriendoArreglo" en donde pondremos nuestro código.
+📢 Se utilizan para almacenar múltiples valores en una sola variable.
+📢 Crearemos la clase "EjemploArray" en donde pondremos nuestro código.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/AREA100001_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_1.png)
 
-```
-📢 Debemos recordar que este bucle necesita que indiquemos 3 datos.
-    1) Desde donde iniciará el contador? 
-      Necesitamos que inicie en 0. Desde el inicio del arreglo.
-    2) Hasta donde ejecutará? 
-      Queremos que ejecute hasta el final. Que obtenga los valores [0],[1],[2],[3],[4]. O sea que nuestro ciclo se recorrerá mientras sea menor a 5.
-    3) Cada cuanto aumentará el contador?
-      Queremos que muestre todos, así que será de 1 en 1.
-```
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_2.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/AREA100001_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_3.png)
 
-```
-📢 En este otro ejemplo queremos que se recorra el arreglo pero de 2 en 2. Para esto, nuestro último dato debe indicarlo (i=i+2).
-```
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_4.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/AREA100001_3.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARRY100001_5.png)
+
 
 ## Autores ✒️
 
