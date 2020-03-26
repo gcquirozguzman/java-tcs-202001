@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/MPRI100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/TRUC100001)
 
-_Clase 40: Get y Set._
+_Clase: Get y Set._
 
 ```
 📢 Los métodos get y set son usados para obtener valores (get) y para modificar los valores (set) de los atributos.
