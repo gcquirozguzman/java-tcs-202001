@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/SDM0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/STI0100001)
 
-_Clase 43: Sobrecarga de Constructores._
+_Clase: Sobrecarga de Constructores._
 
 ```  
 📢 Podemos hacer otro ejercicio con el constructor.
