@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/MDC0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CEI0100001)
 
-_Clase 21: Condicional - If y Else._
+_Clase: Condicional - If y Else._
 
 ```
 📢 En Java el flujo de la ejecución del código es lineal.
