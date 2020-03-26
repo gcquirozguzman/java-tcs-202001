@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/HERE100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/HST0100001)
 
-_Clase 47: Sobreescritura de Métodos._
+_Clase: Sobreescritura de Métodos._
 
 ```
 📢 Es posible sobreescribir el método de la clase padre o superclase.
