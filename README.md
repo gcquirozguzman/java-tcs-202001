@@ -4,7 +4,8 @@
 _Clase: ArrayList._
 
 ```
-📢 Se utilizan para almacenar múltiples valores en una sola variable.
+📢 Permite almacenar datos en memoria de forma similar a los Arrays
+📢 La forma en que almacena es de forma dinámica, por lo que no es necesario declarar su tamaño como pasa con los Arrays.
 📢 Crearemos la clase "EjemploArray" en donde pondremos nuestro código.
 ```
 
