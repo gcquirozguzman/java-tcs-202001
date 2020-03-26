@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/GS00100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/SDM0100001)
 
-_Clase 41: Constructor._
+_Clase: Constructor._
 
 ```
 📢 Un constructor inicializa(asigna valores) a un objeto.
