@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/MPU0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/MDEF100001)
 
-_Clase 37: Modificadores de Acceso - Protected._
+_Clase: Modificadores de Acceso - Protected._
 
 ```
 📢 Cuando se tiene el modificador de acceso "Protected" se debe considerar lo siguiente.
