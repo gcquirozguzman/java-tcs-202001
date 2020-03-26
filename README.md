@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CA00100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/OT00100001)
 
-_Clase 24: Condicional - Switch._
+_Clase: Condicional - Switch._
 
 ```
 📢 Con Switch podemos hacer condiciones de una forma más ordenada y estructurada.
