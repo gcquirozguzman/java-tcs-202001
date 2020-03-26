@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/PRS0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CN00100001)
 
-_Clase 17: BigDecimal._
+_Clase: BigDecimal._
 
 ```
 📢 Para operaciones decimales se recomienda usar BigDecimal para obtener un resultado exacto.
