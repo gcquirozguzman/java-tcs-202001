@@ -1,7 +1,7 @@
 # Taller Java TCS
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/MDEX100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/PROT100001)
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/ENUM100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/ICLC100001)
 
-_Clase: Enum._
+_Clase: Properties._
 
 ### Excepción Simple
 
@@ -37,4 +37,4 @@ _Clase: Enum._
 
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
 
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/MDEX100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/PROT100001)
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/ENUM100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/ICLC100001)
