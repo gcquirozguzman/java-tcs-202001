@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/ICLC100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/GE00100001)
 
-_Clase 55: JOptionPane._
+_Clase: JOptionPane._
 
 ```
 📢 Es una clase que nos sirve de una serie de ventanas de diálogo para comunicarnos con nuestro programa.
