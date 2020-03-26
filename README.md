@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CN00100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/MDC0100001)
 
-_Clase 19: Operador Lógico._
+_Clase: Operador Lógico._
 
 ```
 📢 A continuación detallamos los siguientes operadores lógicos.
