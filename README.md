@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/POOC100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/MPU0100001)
 
-_Clase 35: Modificadores de Acceso._
+_Clase: Modificadores de Acceso._
 
 ```
 📢 Los modificadores de acceso en Java nos ayudan a restringir el acceso de una clase, variable, constructor, método o miembro de datos.
