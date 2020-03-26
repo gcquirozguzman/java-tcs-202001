@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/OL00100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CIYE100001)
 
-_Clase 20: Manejo de Cadenas._
+_Clase: Manejo de Cadenas._
 
 ```
 📢 Para el manejo de cadenas tenemos diferentes utilidades que nos facilitan el trabajo.
