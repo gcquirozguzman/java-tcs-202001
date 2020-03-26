@@ -4,12 +4,18 @@
 _Clase: ArrayList._
 
 ```
-📢 Permite almacenar datos en memoria de forma similar a los Arrays
+📢 Permite almacenar datos en memoria de forma similar a los Arrays.
 📢 La forma en que almacena es de forma dinámica, por lo que no es necesario declarar su tamaño como pasa con los Arrays.
 📢 Crearemos la clase "EjemploArray" en donde pondremos nuestro código.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARLT100001_1.png)
+
+```
+📢 Si creamos una clase "Computador", es posible usar un ArrayLista para almacenarlos.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARLT100001_2.png)
 
 ## Autores ✒️
 
