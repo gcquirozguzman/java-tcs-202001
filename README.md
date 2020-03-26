@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/TRUC100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/STRU100001)
 
-_Clase 42: Sobrecarga de Métodos._
+_Clase: Sobrecarga de Métodos._
 
 ```
 📢 El identificador de un método es la unión del nombre y los parámetros que tiene. 
