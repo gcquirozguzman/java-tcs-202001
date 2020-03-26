@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/INT0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/DEI0100001)
 
-_Clase 52: Varias Interfaces._
+_Clase: Varias Interfaces._
 
 ```
 📢 Es posible importar varias interfaces en un clase.
