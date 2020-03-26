@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/PR00100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/SDD0100001)
 
-_Clase 12: Constantes._
+_Clase: Constantes._
 
 ```
 📢 Una constante es una variable que mantiene su valor a lo largo de toda la vida del programa. 
