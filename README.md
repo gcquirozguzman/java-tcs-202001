@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDD100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/TDDB100001)
 
-_Clase 8: Tipo de Datos - Caracteres._
+_Clase: Tipo de Datos - Caracteres._
 
 ```
 📢 A continuación indicamos los tipo de datos decimales, rangos y espacio que ocupa en memoria en bytes.
