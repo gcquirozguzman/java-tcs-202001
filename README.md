@@ -4,12 +4,13 @@
 _Clase: List._
 
 ```
-📢 Permite almacenar datos en memoria de forma similar a los Arrays.
-📢 La forma en que almacena es de forma dinámica, por lo que no es necesario declarar su tamaño como pasa con los Arrays.
-📢 Crearemos la clase "EjemploArray" en donde pondremos nuestro código.
+📢 Es una colección ordenada de objetos.
+📢 Se pueden almacenar valores duplicados. 
+📢 Crearemos la clase "EjemploList" en donde pondremos nuestro código.
+📢 La interfaz de List se implementa mediante las clases de ArrayList , LinkedList , Vector y Stack. Por ejemplo:
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ARLT100001_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/LIST100001_1.png)
 
 ```
 📢 Si creamos una clase "Computador", es posible usar un ArrayLista para almacenarlos.
