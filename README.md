@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/CF00100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/AADV100001)
 
-_Clase 29: Arreglo - Creación._
+_Clase: Arreglo - Creación._
 
 ```
 📢 Podemos entender como un arreglo o array, una estructura de datos en la que podemos almacenar datos de un mismo tipo.
