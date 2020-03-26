@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/AADV100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/POO0100001)
 
-_Clase: Arreglo - Recorriendo el arreglo._
+_Clase: Array._
 
 ```
 📢 Es posible obtener los datos del arreglo uno a uno como lo hemos visto.
