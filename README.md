@@ -1,5 +1,5 @@
 # Taller Java TCS
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/DEI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/JOP0100001)
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/DEI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/HILO100001)
 
 _Clase: Interactuando con la Consola._
 
@@ -47,4 +47,4 @@ _Clase: Interactuando con la Consola._
 
 ⌨️ con ❤️ por [gcquirozguzman](https://github.com/gcquirozguzman) 😊
 
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/DEI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/JOP0100001)
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/DEI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/HILO100001)
