@@ -4,42 +4,39 @@
 _Clase: Hilos._
 
 ```
-📢 Crearemos la clase "Hilo" en donde pondremos nuestro código.
-📢 Para poder obtener los valores que escribo en la consola es necesario agregar las siguientes líneas.
-    
-    InputStream stream = System.in;
-		Scanner scanner = new Scanner(stream);
-    
-📢 Enviaremos un mensaje a la consola.
-
-    System.out.println("Ingrese un valor : ");
-
-📢 La siguiente linea bloquea la ejecución del programa hasta obtener una respuesta seguro de Enter.
-    
-    String input = scanner.next();
-
-📢 Obtenemos el valor escrito en la consola consultando a la variable "input".
-
-    System.out.println("El valor ingresado es : " + input);
-    
-📢 Informamos que ya no usaremos el objeto Scanner, de esta forma liberamos recursos.
-
-    scanner.close();
-
-📢 Tener en cuenta que las librerías importadas son las siguiente.
-
-    import java.io.InputStream;
-    import java.util.Scanner;
-    
+📢 Crearemos la clase "MiHilo" en donde pondremos nuestro código.
+📢 Haremos que extienda a Thread como indica la imagen.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ICLC100001_1.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HILO100001_1.png)
 
 ```
-📢 Si queremos probar hacemos clic izquierdo en la clase.
+📢 Un hilo es un proceso ligero o subproceso puede ser ejecutada por un sistema.
+📢 La máquina virtual Java permite que una aplicación tenga múltiples hilos ejecutándose simultáneamente.
+📢 Para este ejemplo, trabajaremos con 2 variables.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/ICLC100001_2.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HILO100001_2.png)
+
+```
+📢 Crearemos un constructor que llamaremos al iniciar un hilo.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HILO100001_3.png)
+
+```
+📢 Ahora lo que resta es llamar a nuestra misma clase e invocar al constructor que creamos hace un momento.
+📢 Con "start" iniciamos el hilo.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HILO100001_4.png)
+
+```
+📢 A continuación muestro toda la clase creada para este ejemplo.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HILO100001_5.png)
+
 
 ## Autores ✒️
 
