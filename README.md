@@ -135,7 +135,6 @@ _[65) Generar Ejecutable.](https://github.com/gcquirozguzman/java-tcs-202001/tre
 ## Recomendaciones 😊
 
 _Este taller tiene parte teórica y práctica, las cuales son necesarias para comprender en su totalidad los temas._
-_Queda como tema pendiente: Manejo de excepciones e hilos._
 
 ## Herramientas 🛠️
 
