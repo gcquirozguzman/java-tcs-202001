@@ -4,7 +4,7 @@
 _Clase: Hilos._
 
 ```
-📢 Modificaremos la clase "Principal" que creamos anteriormente.
+📢 Crearemos la clase "Hilo" en donde pondremos nuestro código.
 📢 Para poder obtener los valores que escribo en la consola es necesario agregar las siguientes líneas.
     
     InputStream stream = System.in;
