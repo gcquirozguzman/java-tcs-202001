@@ -136,6 +136,12 @@ _[65) Generar Ejecutable.](https://github.com/gcquirozguzman/java-tcs-202001/tre
 
 _Este taller tiene parte teórica y práctica, las cuales son necesarias para comprender en su totalidad los temas._
 
+## Proyecto Salida 🐉
+
+_Este taller tiene parte teórica y práctica, las cuales son necesarias para comprender en su totalidad los temas._
+
+_[65) Generar Ejecutable.](https://github.com/gcquirozguzman/java-tcs-202001/tree/GE00100001)_ 
+
 ## Herramientas 🛠️
 
 _En este taller usaremos las siguientes herramientas. En las clases detallaremos como instalarlas y configurarlas._
