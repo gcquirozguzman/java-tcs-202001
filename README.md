@@ -138,9 +138,7 @@ _Este taller tiene parte teórica y práctica, las cuales son necesarias para co
 
 ## Proyecto Salida 🐉
 
-_Este taller tiene parte teórica y práctica, las cuales son necesarias para comprender en su totalidad los temas._
-
-_[65) Generar Ejecutable.](https://github.com/gcquirozguzman/java-tcs-202001/tree/GE00100001)_ 
+_Puedes obtener la indicaciones para el proyecto de salida aquí(https://github.com/gcquirozguzman/java-tcs-202001/tree/GE00100001)._
 
 ## Herramientas 🛠️
 
