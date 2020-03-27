@@ -1,7 +1,7 @@
 # Taller Java TCS
 ### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001/tree/DEI0100001) 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001) 📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/JOP0100001)
 
-_Clase: Interactuando con la Consola._
+_Clase: Hilos._
 
 ```
 📢 Modificaremos la clase "Principal" que creamos anteriormente.
