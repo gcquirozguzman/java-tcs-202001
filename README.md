@@ -32,10 +32,17 @@ _Clase: Hilos._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HILO100001_4.png)
 
 ```
-📢 A continuación muestro toda la clase creada para este ejemplo.
+📢 Ambos procesos se ejecutarían en simultaneo.
+📢 Podemos visualizar la salida de cada proceso en el mensaje que hemos colocado.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HILO100001_5.png)
+
+```
+📢 A continuación muestro toda la clase creada para este ejemplo.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HILO100001_6.png)
 
 
 ## Autores ✒️
