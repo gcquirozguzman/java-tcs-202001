@@ -1,5 +1,9 @@
 # Taller Java TCS
 
+## Comencemos 🍔
+
+_¿Qué es programar? [aquí](https://github.com/gcquirozguzman/java-tcs-202001/tree/QEPR100001)._
+
 ## Temario 🚀
 
 _[1) Hablemos un poco de Java.](https://github.com/gcquirozguzman/java-tcs-202001/tree/HUPCJ00001)_ 
