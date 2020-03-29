@@ -1,7 +1,7 @@
 # Taller Java TCS                                                                       
-### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/CNAAA00001)
+### 📥 [Página Anterior](https://github.com/gcquirozguzman/java-tcs-202001)          🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)          📤 [Página Siguiente](https://github.com/gcquirozguzman/java-tcs-202001/tree/HUPCJ00001)
 
-_Clase: Hablemos un poco de Java._
+_¿Qué es programar?._
 
 Cuando hablamos de Java tenemos que entender que este nombre hace referencia a 2 cosas
 
