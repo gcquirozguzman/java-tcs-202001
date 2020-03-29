@@ -2,7 +2,7 @@
 
 ## Comencemos 🍔
 
-_¿Qué es programar? [aquí](https://github.com/gcquirozguzman/java-tcs-202001/tree/QEPR100001)._
+_[¿Qué es programar?](https://github.com/gcquirozguzman/java-tcs-202001/tree/QEPR100001)._
 
 ## Temario 🚀
 
