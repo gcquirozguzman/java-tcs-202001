@@ -4,9 +4,9 @@
 _¿Qué es programar?._
 
 ```
-📢 Si buscamos una descripción en pocas palabras sobre qué es programar, encontraríamos frases como: «crear software usando un lenguaje de programación»,  «darle instrucciones al ordenador» o «enseñarle al ordenador a hacer algo».
-
-Este es un curso práctico y creemos que es mejor que vayas descubriendo en qué consiste programar, realizando precisamente esa actividad. En esta sección de introducción hablaremos de forma breve sobre algunos conceptos esenciales, algo así como el «abc» que nos permita comenzar a andar.
+📢 Si queremos ser resumidos, podemos entender que programar es crear software mediante un lenguaje de programación.
+📢 Este es un curso práctico que tienen como principal objetivo enseñarte a programar.
+📢 En esta primera sección veremos la importancia de esta actividad.
 ```
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=X5Wkp1gsNik)
 
