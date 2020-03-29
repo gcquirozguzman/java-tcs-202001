@@ -9,7 +9,7 @@ _¿Qué es programar?._
 Este es un curso práctico y creemos que es mejor que vayas descubriendo en qué consiste programar, realizando precisamente esa actividad. En esta sección de introducción hablaremos de forma breve sobre algunos conceptos esenciales, algo así como el «abc» que nos permita comenzar a andar.
 ```
 
-![Error: video no ha sido cargada](https://www.youtube.com/watch?v=X5Wkp1gsNik)
+https://www.youtube.com/watch?v=X5Wkp1gsNik
 
 
 ## Autores ✒️
