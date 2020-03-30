@@ -148,13 +148,16 @@ _Puedes obtener la indicaciones para el proyecto de salida [aquí](https://githu
 
 _En este taller usaremos las siguientes herramientas. En las clases detallaremos como instalarlas y configurarlas._
 
-🔧 [JDK 7u80 ó Superior]
+🔧 [JDK 8u71 ó Superior]
 ```
-📢 Link Descarga JDK 7u80 - https://download.oracle.com/otn/java/jdk/7u80-b15/jdk-7u80-windows-x64.exe
+📢 Acceder a la página de descarga: https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
+📢 Ir a la sección Java SE Development Kit 8u171
+📢 Descargar la versión Windows x86	o Windows x64.
+📢 Instalar
 ```
-🔧 [Eclipse Mars.2 Release (4.5.2) ó Superior]
+🔧 [Eclipse IDE Oxygen ó Superior]
 ```
-📢 Link Descarga Eclipse IDE Kepler SR2 Packages - https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR2/eclipse-jee-kepler-SR2-win32-x86_64.zip
+📢 Link Descarga Eclipse IDE Oxygen 3a Packages - https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/oxygen/3a/eclipse-jee-oxygen-3a-win32-x86_64.zip
 ```
 
 ## Autores ✒️
