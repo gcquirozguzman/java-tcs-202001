@@ -103,7 +103,7 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 📢 Verificamos la versión ingresando a la consola de comandos. Ingresamos "java -version" para consultar.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_16.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_30.png)
 
 #### Descargando IDE Eclipse Mars.2
 
