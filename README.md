@@ -11,7 +11,7 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 📢 Ingresamos a la página de descargas (https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_18.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_28.png)
 
 ```
 📢 Nos dirigimos al JDK con la versión que requerimos y aceptamos la licencia.
