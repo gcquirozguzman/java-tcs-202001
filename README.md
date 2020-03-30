@@ -8,40 +8,48 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 #### Instalando JDK 7u80
 
 ```
-📢 Ingresamos a la página de descargas (https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)
+📢 Ingresamos a la página de descargas (https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_01.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_18.png)
 
 ```
 📢 Nos dirigimos al JDK con la versión que requerimos y aceptamos la licencia.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_02.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_19.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_20.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_21.png)
 
 ```
-📢 Seleccionamos el archivo tipo exe
+📢 Seleccionamos el archivo tipo exe descargado y lo iniciamos.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_03.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_22.png)
 
 ```
-📢 Ejecutamos el archivo descargado y seleccionamos continuar hasta el final
+📢 Continuamos con la instalación.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_05.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_23.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_24.png)
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_25.png)
 
 ```
 📢 Se nos solicitará instalar también JRE. Seleccionamos siguiente.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_06.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_26.png)
 
 ```
-📢 Esperamos a que finalice la instalación.
+📢 La instalación ha sido completada.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_07.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_27.png)
 
 ```
 📢 La instalación ha terminado.
