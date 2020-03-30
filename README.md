@@ -154,7 +154,7 @@ _En este taller usaremos las siguientes herramientas. En las clases detallaremos
 ```
 🔧 [Eclipse Mars.2 Release (4.5.2) ó Superior]
 ```
-📢 Link Descarga Eclipse Mars.2 Release (4.5.2) - https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/mars/2/eclipse-jee-mars-2-win32-x86_64.zip
+📢 Link Descarga Eclipse IDE Kepler SR2 Packages - https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR2/eclipse-jee-kepler-SR2-win32-x86_64.zip
 ```
 
 ## Autores ✒️
