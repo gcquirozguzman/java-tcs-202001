@@ -79,7 +79,7 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 📢 Escribimos JAVA_HOME como nombre de la variable y en valor indicamos la ruta del JDK instalado. Seleccionamos aceptar para que se grabe.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_12.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_29.png)
 
 ```
 📢 Ahora modificaremos la variable "Path".
