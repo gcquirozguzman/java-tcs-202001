@@ -57,286 +57,119 @@ Para este proyecto desarrollaremos bajo las siguientes pautas.
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_10.png)
 
 ```
-📢 Nos dirigimos a la siguiente opción.
+📢 Seleccionamos el paquete que creamos "src/main", luego clic derecho para crear.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_11.png)
 
 ```
-📢 Seleccionamos el siguiente enlace.
+📢 Seleccionamos "Application Window".
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_12.png)
 
 ```
-📢 Descargamos el archivo.
+📢 Damos un nombre cualquiera.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_13.png)
 
+```
+📢 Ahora que se ha creado vamos a la vista de diseñador.
+```
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_14.png)
 
 ```
-📢 Si necesitas hacer la descarga directa, puedes hacerlo desde el siguiente enlace.
-    https://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops4/R-4.15-202003050155/swt-4.15-win32-win32-x86_64.zip&mirror_id=576
-📢 Ahora volvemos a nuestro ambiente de trabajo en Eclipse.
-📢 Seleccionamos la siguiente opcion para importar.
+📢 Podemos ver que esta vista nos da muchas herramientas con las que podemos construir un pequeño aplicativo.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_15.png)
 
 ```
-📢 Escojemos la siguiente alternativa para importar.
+📢 Para este ejemplo voy a indicar que necesito que no se ordenen los elementos a una cuadrícula, sino que sean a voluntad del diseñador.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_16.png)
 
 ```
-📢 Seleccionamos la opción "Select archive file", y luego "Browse...".
-📢 Colocamos la ruta del archivo que hemos descargado.
+📢 Para este ejemplo crearé un listado de opciones.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_17.png)
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_18.png)
+```
+📢 Arrastraré este elemento a nuesta aplicación.
+```
 
-```
-📢 Seleccionamos finalizar.
-```
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_18.png)
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_19.png)
 
 ```
-📢 Podemos ver que el proyecto se ha importado.
+📢 Vuelvo a la parte donde esta el código, seleccionando la pertaña "Source".
+📢 Acá agregaré las opciones que quiero que aparescan en mi combo.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_20.png)
 
 ```
-📢 A continuación, agregaremos el proyecto que hemos importado a nuestro proyecto base.
-📢 Hacemos clic derecho en nuestro proyecto base.
-📢 Seleccionamos la siguiente opción.
-
+📢 Vuelvo al área de diseñador para seleccionar una opción que tengo ahí.
+📢 Con esa opción puedo ver como esta quedando el diseño.
+📢 Esta opción es solo para ver de forma gráfica. Algunas acciones que implementamos ahí posiblemente no funcionen.
+📢 Por ejemplo, no van a funcionar con esa opción "JOptionPane".
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_21.png)
 
 ```
-📢 Seleccionamos "Java Build Path", "Projects" y finalmente "Add" para agregar.
+📢 Ahora vemos el resultado.
+📢 Lo que nos queda ahi es alargar un poco mas este combo para que se vea mejor.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_22.png)
 
 ```
-📢 Seleccionamos el proyecto agregado.
+📢 A continuación les enseño el siguiente ejemplo que he desarrollado.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_23.png)
 
 ```
-📢 Aprovechamos para agregar JRE si no lo tenemos. Seleccionamos "Libraries" y luego "Add Library...".
+📢 Este es el código fuente.
+📢 Puedes verlo acá tambien: https://github.com/gcquirozguzman/java-tcs-202001/blob/PRSA100001/src/main/java/Programa.java
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_24.png)
 
 ```
-📢 Luego seleccionamos la siguiente opción.
+📢 Cuando se finaliza la implementación de todo el código, podemos probarlo complemtanete así.
+📢 Clic derecho en el archivo Java que creamos.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_25.png)
 
-```
-📢 Clic en "Alternate JRE" y luego en "Installed JREs..."
-```
-
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_26.png)
 
 ```
-📢 Seleccioanmos "Add" y luego la ruta en donde está instalado el JDK.
+📢 Seleccionaré el día Lunes y agregare 3 opciones, luego clic en "Guardar".
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_27.png)
 
+```
+📢 Seleccionaré el día Jueves y agregare 3 opciones, luego clic en "Guardar".
+```
+
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_28.png)
 
 ```
-📢 Nuevamente en nuestro proyecto vamos a la opción para crear un aplicativo.
+📢 Ahora clic en "Generar Lista".
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_29.png)
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_30.png)
-
-```
-📢 Colocamos un nombre y finalizamos.
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_31.png)
-
-
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
-```
-📢 A
-```
-
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_.png)
-
 
 ## Autores ✒️
 
