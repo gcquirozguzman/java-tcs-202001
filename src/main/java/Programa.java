@@ -114,9 +114,11 @@ public class Programa {
 		JButton button = new JButton("Generar Lista");
 		button.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				String listaTotal = "";
 				for (int i = 0; i < ingredientes.size(); i++) {
-					System.out.println(ingredientes.get(i));
+					listaTotal = listaTotal + ingredientes.get(i) + "\n";
 				}
+				JOptionPane.showMessageDialog(null, listaTotal);
 			}
 		});
 		button.setBounds(155, 227, 123, 23);
