@@ -1,57 +1,135 @@
 package main.java;
 
+import java.awt.Color;
+import java.awt.EventQueue;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.util.ArrayList;
+
+import javax.swing.JButton;
+import javax.swing.JComboBox;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
 import javax.swing.JOptionPane;
+import javax.swing.JScrollPane;
+import javax.swing.JTextArea;
 
 public class Programa {
-	
+
+	JFrame frame;
+	JTextArea textArea = new JTextArea();
+	JComboBox comboBox = new JComboBox();	
+	ArrayList<String> ingredientes = new ArrayList<String>();
+
+	/**
+	 * Launch the application.
+	 */
 	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					Programa window = new Programa();
+					window.frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the application.
+	 */
+	public Programa() {
+		initialize();
+	}
+
+	/**
+	 * Initialize the contents of the frame.
+	 */
+	private void initialize() {
+		frame = new JFrame();
+		frame.setBounds(100, 100, 450, 300);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.getContentPane().setLayout(null);
 		
-		// ShowMessageDialog
+		JScrollPane scrollPane = new JScrollPane();
+		scrollPane.setBounds(30, 99, 376, 120);
+		frame.getContentPane().add(scrollPane);
 		
-		JOptionPane.showMessageDialog(null, "Mensaje");
-		JOptionPane.showMessageDialog(null, "Mensaje", "Titulo", JOptionPane.ERROR_MESSAGE);
+		scrollPane.setViewportView(textArea);
 		
-		// ShowInputDialog
+		comboBox.addItem("Seleccione Día");
+		comboBox.addItem("Lunes");
+		comboBox.addItem("Martes");
+		comboBox.addItem("Miércoles");
+		comboBox.addItem("Jueves");
+		comboBox.addItem("Viernes");
+		comboBox.addItem("Sábado");
+		comboBox.addItem("Domingo");
+		comboBox.setBounds(274, 68, 132, 20);
+		frame.getContentPane().add(comboBox);
 		
-		String respuesta = JOptionPane.showInputDialog("Cuanto es 1 + 1?");
-		System.out.println("El valor ingresado es "+respuesta);
+		JButton btnProcesar = new JButton("Guardar");
+		btnProcesar.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				
+				// Obtengo texto de Cuadro Texto
+				String cuadro = textArea.getText();
+				// Separo los valores cada vez que salta de linea
+				String[] separated = cuadro.split("\n");
+				// Recorro los valores
+				
+				
+				ingredientes.add("Día Compra : "+comboBox.getSelectedItem());
+				
+				for (int i = 0; i < separated.length; i++) {
+					// Almaceno los valores en un array
+					ingredientes.add(separated[i]);
+				}
+				limpiar();
+			}
+		});
+		btnProcesar.setBounds(30, 227, 100, 23);
+		frame.getContentPane().add(btnProcesar);
 		
-		respuesta = JOptionPane.showInputDialog("Cuanto es 1 + 1?", "La respuesta es 2");
-		System.out.println("El valor ingresado es "+respuesta);
+		JButton btnLimpiar = new JButton("Limpiar");
+		btnLimpiar.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				limpiar();
+			}
+		});
+		btnLimpiar.setBounds(306, 227, 100, 23);
+		frame.getContentPane().add(btnLimpiar);
 		
-		respuesta = JOptionPane.showInputDialog(null, "Ingrese su clave nuevamente", "Error!", JOptionPane.ERROR_MESSAGE);
-		System.out.println("El valor ingresado es "+respuesta);
+		JLabel lblIngresarIngredientes = new JLabel("Ingresar Ingredientes:");
+		lblIngresarIngredientes.setBounds(30, 71, 137, 14);
+		frame.getContentPane().add(lblIngresarIngredientes);
 		
-		String[] alumnos = {
-				"Alumno 1",
-				"Alumno 2",
-				"Alumno 3"
-		};
+		JLabel lblGeneradorDeLista = new JLabel("GENERADOR DE LISTA DE MERCADO");
+		lblGeneradorDeLista.setBackground(Color.BLUE);
+		lblGeneradorDeLista.setBounds(78, 23, 281, 23);
+		frame.getContentPane().add(lblGeneradorDeLista);
 		
-		respuesta = (String) JOptionPane.showInputDialog(null, "Seleccione Alumno", "Jalados", JOptionPane.DEFAULT_OPTION, null, alumnos, alumnos[2]);
-		System.out.println("El valor ingresado es "+respuesta);
+		JButton button = new JButton("Generar Lista");
+		button.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				for (int i = 0; i < ingredientes.size(); i++) {
+					System.out.println(ingredientes.get(i));
+				}
+			}
+		});
+		button.setBounds(155, 227, 123, 23);
+		frame.getContentPane().add(button);
 		
-		// ShowConfirmDialog
 		
-		int respuesta2 = JOptionPane.showConfirmDialog(null, "¿Está seguro?");
-		System.out.println("El valor ingresado es "+respuesta2);		
-		
-		respuesta2 = JOptionPane.showConfirmDialog(null, "¿Está seguro?", "Alerta!", JOptionPane.YES_NO_OPTION);
-		System.out.println("El valor ingresado es "+respuesta2);
-		
-		respuesta2 = JOptionPane.showConfirmDialog(null, "¿Está seguro?", "Alerta!", JOptionPane.YES_NO_OPTION, JOptionPane.ERROR_MESSAGE);
-		System.out.println("El valor ingresado es "+respuesta2);
+	}
 	
-		// ShowOptionDialog
-		String options[] = {
-				"Carne",
-				"Pollo",
-				"Agua",
-				"Azucar"
-		};
-		int seleccion = JOptionPane.showOptionDialog(null, "Que opcion deseas?", "Lista de Compras", JOptionPane.DEFAULT_OPTION, 
-				JOptionPane.QUESTION_MESSAGE, null, options, options[0]);
-		System.out.println("El valor ingresado es "+seleccion);
+	public void limpiar() {
+		// Limpio cuadro
+		textArea.setText("");
+		// vuelvo a posicion cuadro incial
+		comboBox.setSelectedIndex(0);
 	}
 	
 }
