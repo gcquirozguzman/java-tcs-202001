@@ -25,7 +25,7 @@ Para este proyecto desarrollaremos bajo las siguientes pautas.
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_2.png)
 
 ```
-📢 Colocaremos el siguiente link: http://download.eclipse.org/release pero con la version de Eclipse que se tenga.
+📢 Colocaremos el siguiente link: Oxygen - http://download.eclipse.org/releases/oxygen.
 ```
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_3.png)
