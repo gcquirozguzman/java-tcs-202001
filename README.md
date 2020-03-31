@@ -17,6 +17,8 @@ Para este proyecto desarrollaremos bajo las siguientes pautas.
 📢 Imaginen alguna actividad que pueda ser apoyada por un aplicativo pequeño. Por ejemplo:
     -> Listado de Compras Semanal
 📢 Implementemos la solución en base a lo indicaremos en el siguiente bloque "🐰 Arrancamos!!!".
+📢 Este proyecto debera contener en sus fuentes, todas las clases enseñadas en este curso.
+📢 Este proyecto no tiene límites para su desarrollo. Puede ser simple, como el ejemplo o complejo.
 📢 Podemos encontrar algunos ejemplos adicionales, solo si lo consideran necesario, en internet como:
     🎓 https://www.javatpoint.com/java-swing
     🎓 https://guru99.es/java-swing-gui/
