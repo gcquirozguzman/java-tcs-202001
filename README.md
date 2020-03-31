@@ -19,6 +19,8 @@ Para este proyecto desarrollaremos bajo las siguientes pautas.
 📢 Implementemos la solución en base a lo indicaremos en el siguiente bloque "🐰 Arrancamos!!!".
 📢 Este proyecto debera contener en sus fuentes, todas las clases enseñadas en este curso.
 📢 Este proyecto no tiene límites para su desarrollo. Puede ser simple, como el ejemplo o complejo.
+📢 Se deberá entregar este proyecto generado como "Ejecutable", tal como se indica en la clase:
+    https://github.com/gcquirozguzman/java-tcs-202001/tree/GE00100001
 📢 Podemos encontrar algunos ejemplos adicionales, solo si lo consideran necesario, en internet como:
     🎓 https://www.javatpoint.com/java-swing
     🎓 https://guru99.es/java-swing-gui/
@@ -185,6 +187,12 @@ Para este proyecto desarrollaremos bajo las siguientes pautas.
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_29.png)
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/PRSA100001_30.png)
+
+
+```
+📢 Cuando se finalice el proyecto, no olvidar generar su ejecutable. La explicación esta en la clase:
+    https://github.com/gcquirozguzman/java-tcs-202001/tree/GE00100001    
+```
 
 ## Autores ✒️
 
