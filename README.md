@@ -1,6 +1,14 @@
 # Taller Java TCS                                                                       
 ### 🗃️ [Página principal](https://github.com/gcquirozguzman/java-tcs-202001)
 
+#### ⛄ Hablemos de Swing
+
+```
+📢 Para esta actividad nos apoyaremos de una biblioteca de interfaces gráfica llamada Swing.
+📢 Esta biblioteca viene incluida con el entorno de desarrollo de Java (JDK).
+📢 Extiende a otra librería gráfica más antigua llamada AWT.
+```
+
 #### 🐦 Indicaciones para Proyecto Salida
 
 Para este proyecto desarrollaremos bajo las siguientes pautas.
@@ -8,17 +16,22 @@ Para este proyecto desarrollaremos bajo las siguientes pautas.
 ```
 📢 Imaginen alguna actividad que pueda ser apoyada por un aplicativo pequeño. Por ejemplo:
     -> Listado de Compras Semanal
-📢 Agregaremos el menú de lunes a domingo, con sus propios ingredientes. 
-📢 Cuando tengamos todo esto completo nos emitirá como salida la lista de compras.
-📢 Para esta actividad nos apoyaremos de una biblioteca de interfaces gráfica llamada Swing.
-📢 Esta biblioteca viene incluida con el entorno de desarrollo de Java (JDK).
-📢 Extiende a otra librería gráfica más antigua llamada AWT.
+📢 Implementemos la solución en base a lo indicaremos en el siguiente bloque "🐰 Arrancamos!!!".
+📢 Podemos encontrar algunos ejemplos adicionales, solo si lo consideran necesario, en internet como:
+    🎓 https://www.javatpoint.com/java-swing
+    🎓 https://guru99.es/java-swing-gui/
+    🎓 https://beginnersbook.com/2015/07/java-swing-tutorial/
+    🎓 http://zetcode.com/tutorials/javaswingtutorial/firstprograms/
+    🎓 http://zetcode.com/tutorials/javaswingtutorial/firstprograms/
+    🎓 https://www.geeksforgeeks.org/java-swing-jpanel-examples/
 ```
 
-#### Configurando nuestro ambiente
+#### 🐰 Arrancamos!!!
 
 ```
 📢 Crearemos un proyecto como en la "Clase: Usando Eclipse", hasta el paso "📢 En una estructura real, dividimos nuestro..."
+📢 Agregaremos el menú de lunes a domingo, con sus propios ingredientes. 
+📢 Cuando tengamos todo esto completo nos emitirá como salida la lista de compras.
 📢 Ahora instalaremos el complemento.
 ```
 
