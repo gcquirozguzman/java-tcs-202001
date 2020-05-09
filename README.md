@@ -31,13 +31,13 @@ Con esto le hacemos saber a nuestro programa que todo lo que se encuentre dentro
 📢 Probamos que la máquina reconozca el compilador. "javac -versión"
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_07.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_08.png)
 
 ```
 📢 Es posible que no reconozca el compilador.
 ```
 
-![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_08.png)
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/HMAAA00001_07.png)
 
 ```
 📢 En caso no se puedan configurar las variables de entorno por permisos, ejecutar lo siguiente: 
