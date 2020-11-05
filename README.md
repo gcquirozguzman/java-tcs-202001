@@ -105,7 +105,7 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CNAAA00001_30.png)
 
-#### Descargando IDE Eclipse Mars.2
+#### Descargando IDE Eclipse Oxygen
 
 ```
 📢 Descargamos el IDE desde el siguiente link (https://www.eclipse.org/downloads/packages/release/oxygen/r/eclipse-ide-java-ee-developers)
