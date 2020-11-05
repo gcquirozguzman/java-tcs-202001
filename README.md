@@ -108,7 +108,7 @@ Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse
 #### Descargando IDE Eclipse Mars.2
 
 ```
-📢 Descargamos el IDE desde el siguiente link (https://www.eclipse.org/downloads/packages/release/oxygen/r/eclipse-ide-java-developers)
+📢 Descargamos el IDE desde el siguiente link (https://www.eclipse.org/downloads/packages/release/oxygen/r/eclipse-ide-java-ee-developers)
 📢 Seleccionamos la opción que necesitamos.
 ```
 
