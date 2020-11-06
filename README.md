@@ -5,7 +5,7 @@ _Clase: Configuremos nuestro ambiente._
 
 Para empezar a practicar necesitaremos instalar tanto el JDK como el IDE Eclipse (Herramienta para desarrollo).
 
-#### Instalando JDK 7u80
+#### Instalando JDK 8u71
 
 ```
 📢 Ingresamos a la página de descargas (https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
