@@ -23,7 +23,7 @@ _Clase: Casting._
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/CAST100001_2.png)
 
 ```
-📢 Casting automático.
+📢 Casting manual.
 📢 Se puede realizar cuando tratamos de cambiar un tipo de variable grande a pequeño. A continuación los tenemos ordenado por tamaño de grande a pequeño.
 📢 double -> float -> long -> int -> char -> short -> byte
 📢 Por ejemplo, quisiera que mi variable "double", sea ahora "byte".
