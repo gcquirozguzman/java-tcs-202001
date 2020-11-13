@@ -46,6 +46,12 @@ _Clase: BigDecimal._
 
 ![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/BD00100001_6.png)
 
+```
+📢 A continuación se detallan otras operaciones que se pueden realizar.
+```
+
+![Error: imagen no ha sido cargada](https://github.com/gcquirozguzman/java-tcs-202001/blob/master/imagenes/BD00100001_7.png)
+
 ## Autores ✒️
 
 * **Gian Carlo Quiroz Guzmán** - *Proyecto Demo* - [gcquirozguzman](https://github.com/gcquirozguzman)
