@@ -28,9 +28,6 @@ Java ofrece la funcionalidad de un lenguaje potente, derivado de C y C++, pero s
 Orientado a objetos
 El enfoque orientado a objetos (OO) es uno de los estilos de programación más populares. Permite diseñar el software de forma que los distintos tipos de datos que se usen estén unidos a sus operaciones.
 
-Es distribuido
-Java proporciona una gran biblioteca estándar y herramientas para que los programas puedan ser distribuidos.
-
 Independiente a la plataforma
 Esto significa que programas escritos en el lenguaje Java pueden ejecutarse en cualquier tipo de hardware, lo que lo hace portable.
 
